@@ -1,0 +1,32 @@
+name: Update data
+
+on:
+  schedule:
+    - cron: '0 */24 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v6
+        with:
+          version: 'latest'
+
+      - name: Run update script
+        run: |
+          uv run python main.py update
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          timestamp=$(date -u +"%Y-%m-%d %H:%M:%S")
+          git commit -m "Update data @ ${timestamp}" || echo "No changes to commit"
+          git push
