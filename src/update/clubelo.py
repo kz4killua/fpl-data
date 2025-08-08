@@ -6,7 +6,6 @@ from src.utils import DATA_DIR, write_csv
 
 
 def update_clubelo(bootstrap_static: dict):
-
     static_teams = bootstrap_static["teams"]
     team_codes = [team["code"] for team in static_teams]
 
