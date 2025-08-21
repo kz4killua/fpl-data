@@ -31,8 +31,7 @@ def update():
     # Update all data
     update_fpl(current_season, next_gameweek, bootstrap_static)
     update_clubelo(bootstrap_static)
-    if next_gameweek != 1:
-        update_understat(current_season)
+    update_understat(current_season, bootstrap_static)
 
 
 def get_current_season(static_events: list[dict]) -> str:
