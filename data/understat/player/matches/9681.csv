@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,17,Sub,Nottingham Forest,Brentford,3,1,2025-08-17,28785,2025,732274,0,0,0,0,0,0,0
 0,0,0,81,MC,Augsburg,Union Berlin,1,2,2025-05-17,28044,2024,727664,0,0,0,0,0,0.0972781777381897,0.0972781777381897
 0,0,0,89,MC,VfB Stuttgart,Augsburg,4,0,2025-05-11,28031,2024,726962,0,0,0,0,0,0,0
 0,0,0,82,MC,Augsburg,Holstein Kiel,1,3,2025-05-04,28025,2024,724756,0.03583323583006859,0,1,0,0,0.32400503754615784,0.32400503754615784

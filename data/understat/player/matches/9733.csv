@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.013189978897571564,90,DC,Nottingham Forest,Brentford,3,1,2025-08-17,28785,2025,732264,0,0,0,0,0.013189978897571564,0.07513508200645447,0.07513508200645447
 0,0,0,90,DC,Wolverhampton Wanderers,Brentford,1,1,2025-05-25,26978,2024,730081,0,0,0,0,0,0.07075303792953491,0.07075303792953491
 0,0,0,90,DC,Brentford,Fulham,2,3,2025-05-18,26964,2024,728497,0,0,0,0,0,0,0
 0,0,0,90,DC,Ipswich,Brentford,0,1,2025-05-10,26954,2024,725758,0,0,0,0,0,0,0

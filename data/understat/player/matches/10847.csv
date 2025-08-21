@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,71,DR,Wolverhampton Wanderers,Manchester City,0,4,2025-08-16,28783,2025,732751,0.7589436173439026,1,1,0,0,1.3913613557815552,0.6324176788330078
 0,0,0,78,DR,Southampton,Manchester City,0,0,2025-05-10,26959,2024,725787,0,0,0,0,0,0.19285574555397034,0.19285574555397034
 0,0,0,6,Sub,Manchester City,Wolverhampton Wanderers,1,0,2025-05-02,26942,2024,723749,0,0,0,0,0,0,0
 0,0,0,90,DR,Manchester City,Crystal Palace,5,2,2025-04-12,26917,2024,718317,0,0,0,0,0,2.6459715366363525,2.6459715366363525

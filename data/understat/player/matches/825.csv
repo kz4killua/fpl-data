@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DR,Liverpool,Bournemouth,4,2,2025-08-15,28778,2025,731587,0.35100075602531433,0,1,0,0,0.448314905166626,0.09731415659189224
 0,0,0,90,DR,Bournemouth,Leicester,2,0,2025-05-25,26979,2024,730032,0.0581459105014801,0,1,0,0,0.0581459105014801,0
 0,0,0,19,Sub,Manchester City,Bournemouth,3,1,2025-05-20,26970,2024,729340,0,0,0,0,0,0,0
 0,0,0,78,DR,Bournemouth,Aston Villa,0,1,2025-05-10,26955,2024,725991,0,0,0,0,0,0.05205478519201279,0.05205478519201279

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+2,5,0.8453508019447327,73,FW,Tottenham,Burnley,3,0,2025-08-16,28782,2025,731822,0,0,0,2,0.8453508019447327,1.3913943767547607,0.5460435152053833
 0,0,0,23,Sub,Tottenham,Brighton,1,4,2025-05-25,26976,2024,730135,0,0,0,0,0,0,0
 0,0,0,2,Sub,Aston Villa,Tottenham,2,0,2025-05-16,26963,2024,727529,0,0,0,0,0,0,0
 0,2,0.15576626360416412,70,FW,West Ham,Tottenham,1,1,2025-05-04,26943,2024,724686,0,0,0,0,0.15576626360416412,0.15576626360416412,0

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Aston Villa,Newcastle United,0,0,2025-08-16,28779,2025,731709,0,0,0,0,0,0.04295653477311134,0.04295653477311134
 0,0,0,90,GK,Newcastle United,Everton,0,1,2025-05-25,26973,2024,730250,0,0,0,0,0,0.013159356079995632,0.013159356079995632
 0,0,0,90,GK,Arsenal,Newcastle United,1,0,2025-05-18,26962,2024,728573,0,0,0,0,0,0,0
 0,0,0,90,GK,Newcastle United,Chelsea,2,0,2025-05-11,26957,2024,726448,0,0,0,0,0,0,0

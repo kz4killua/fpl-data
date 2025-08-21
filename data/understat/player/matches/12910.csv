@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Sunderland,West Ham,3,0,2025-08-16,28781,2025,731799,0,0,0,0,0,0.04136160761117935,0.04136160761117935
 0,0,0,90,GK,Wolverhampton Wanderers,Leicester,3,0,2025-04-26,26941,2024,722663,0,0,0,0,0,0.046119336038827896,0.046119336038827896
 0,0,0,90,GK,Leicester,Liverpool,0,1,2025-04-20,26928,2024,721277,0,0,0,0,0,0,0
 0,0,0,90,GK,Brighton,Leicester,2,2,2025-04-12,26914,2024,718699,0,0,0,0,0,0.09145086258649826,0.09145086258649826

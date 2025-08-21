@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Chelsea,Crystal Palace,0,0,2025-08-17,28784,2025,732220,0,0,0,0,0,0.020660916343331337,0.020660916343331337
 0,0,0,90,GK,Nottingham Forest,Chelsea,0,1,2025-05-25,26972,2024,729985,0,0,0,0,0,0,0
 0,0,0,90,GK,Chelsea,Manchester United,1,0,2025-05-16,26966,2024,727534,0,0,0,0,0,0,0
 0,0,0,90,GK,Newcastle United,Chelsea,2,0,2025-05-11,26957,2024,726463,0,0,0,0,0,0.2363976091146469,0.2363976091146469

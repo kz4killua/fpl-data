@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Nottingham Forest,Brentford,3,1,2025-08-17,28785,2025,732248,0,0,0,0,0,0.013808981515467167,0.013808981515467167
 0,0,0,90,GK,Nottingham Forest,Chelsea,0,1,2025-05-25,26972,2024,729971,0.49978309869766235,0,1,0,0,0.49978309869766235,0
 0,0,0,90,GK,West Ham,Nottingham Forest,1,2,2025-05-18,26971,2024,728416,0,0,0,0,0,0,0
 0,0,0,90,GK,Nottingham Forest,Leicester,2,2,2025-05-11,26958,2024,726603,0,0,0,0,0,0.06008133292198181,0.06008133292198181
