@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,7,Sub,West Ham,Chelsea,1,5,2025-08-22,28788,2025,732917,0,0,0,0,0,0,0
 0,2,0.042579080909490585,57,AML,Chelsea,Crystal Palace,0,0,2025-08-17,28784,2025,732229,0.12943996489048004,0,2,0,0.042579080909490585,0.12943996489048004,0.020660916343331337
 0,0,0,2,Sub,Borussia Dortmund,Holstein Kiel,3,0,2025-05-17,28040,2024,727768,0,0,0,0,0,0,0
 0,0,0,1,Sub,Bayer Leverkusen,Borussia Dortmund,2,4,2025-05-11,28030,2024,726722,0,0,0,0,0,0,0
