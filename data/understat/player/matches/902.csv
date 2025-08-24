@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,4,Sub,Arsenal,Leeds,5,0,2025-08-23,28793,2025,733416,0,0,0,0,0,0,0
 0,0,0,35,DC,Norwich,Tottenham,0,5,2022-05-22,16755,2021,537942,0,0,0,0,0,0,0
 0,0,0,90,DC,Wolverhampton Wanderers,Norwich,1,1,2022-05-15,16736,2021,536040,0,0,0,0,0,0.2774380147457123,0.2774380147457123
 0,1,0.03638320043683052,90,DC,Leicester,Norwich,3,0,2022-05-11,16582,2021,534842,0,0,0,0,0.03638320043683052,0,0

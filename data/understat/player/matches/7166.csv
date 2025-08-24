@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,3,Sub,Brentford,Aston Villa,1,0,2025-08-23,28790,2025,733238,0,0,0,0,0,0,0
 0,1,0.07513508200645447,73,DMC,Nottingham Forest,Brentford,3,1,2025-08-17,28785,2025,732267,0.13625724613666534,0,2,0,0.07513508200645447,0.19820234179496765,0
 0,0,0,9,Sub,Wolverhampton Wanderers,Brentford,1,1,2025-05-25,26978,2024,730090,0,0,0,0,0,0.02077350951731205,0.02077350951731205
 0,0,0,11,Sub,Brentford,Fulham,2,3,2025-05-18,26964,2024,728506,0.07065797597169876,0,1,0,0,0.07065797597169876,0

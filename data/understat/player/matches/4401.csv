@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Brentford,Aston Villa,1,0,2025-08-23,28790,2025,733243,0,0,0,0,0,0.2738601565361023,0.2738601565361023
 0,0,0,45,GK,Manchester United,Aston Villa,2,0,2025-05-25,26974,2024,730234,0,0,0,0,0,0,0
 0,0,0,90,GK,Aston Villa,Tottenham,2,0,2025-05-16,26963,2024,727504,0,0,0,0,0,0.5024569630622864,0.5024569630622864
 0,0,0,90,GK,Bournemouth,Aston Villa,0,1,2025-05-10,26955,2024,726006,0,0,0,0,0,0.3482730984687805,0.3482730984687805

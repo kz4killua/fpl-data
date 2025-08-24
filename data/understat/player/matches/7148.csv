@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,23,Sub,Burnley,Sunderland,2,0,2025-08-23,28791,2025,733286,0,0,0,0,0,0,0
 1,1,0.09252168238162994,14,Sub,Sunderland,West Ham,3,0,2025-08-16,28781,2025,731795,0,0,0,1,0.09252168238162994,0.09252168238162994,0
 0,0,0,14,Sub,Zenit St. Petersburg,Dinamo Moscow,1,0,2024-08-10,26389,2024,665903,0,0,0,0,0,0,0
 0,2,0.14066922664642334,25,Sub,Zenit St. Petersburg,FC Rostov,5,0,2024-08-03,26379,2024,665592,0,0,0,0,0.14066922664642334,0,0

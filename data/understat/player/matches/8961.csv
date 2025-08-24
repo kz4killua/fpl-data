@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Manchester City,Tottenham,0,2,2025-08-23,28789,2025,732982,0,0,0,0,0,0.023535283282399178,0.023535283282399178
 0,0,0,90,DC,Wolverhampton Wanderers,Manchester City,0,4,2025-08-16,28783,2025,732752,0,0,0,0,0,0.9344248175621033,0.9344248175621033
 0,0,0,90,DC,Fulham,Manchester City,0,2,2025-05-25,26981,2024,730205,0,0,0,0,0,0.17050547897815704,0.17050547897815704
 0,0,0,90,DC,Manchester City,Bournemouth,3,1,2025-05-20,26970,2024,729313,0,0,0,0,0,0.7865965962409973,0.7865965962409973

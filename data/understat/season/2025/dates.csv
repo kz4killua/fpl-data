@@ -10,11 +10,11 @@ id,isResult,h,a,goals,xG,datetime,forecast,h_title,a_title
 28786,True,89,83,"{'h': '0', 'a': '1'}","{'h': '1.37653', 'a': '1.3304'}",2025-08-17 15:30:00,"{'w': '0.3408', 'd': '0.3074', 'l': '0.3518'}",Manchester United,Arsenal
 28787,True,245,72,"{'h': '1', 'a': '0'}","{'h': '2.3812', 'a': '0.674338'}",2025-08-18 19:00:00,"{'w': '0.8116', 'd': '0.1394', 'l': '0.049'}",Leeds,Everton
 28788,True,81,80,"{'h': '1', 'a': '5'}","{'h': '0.978572', 'a': '3.94997'}",2025-08-22 19:00:00,"{'w': '0.0153', 'd': '0.0485', 'l': '0.9362'}",West Ham,Chelsea
-28789,False,88,82,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-08-23 11:30:00,,Manchester City,Tottenham
-28790,False,244,71,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-08-23 14:00:00,,Brentford,Aston Villa
-28791,False,92,77,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-08-23 14:00:00,,Burnley,Sunderland
-28792,False,73,229,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-08-23 14:00:00,,Bournemouth,Wolverhampton Wanderers
-28793,False,83,245,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-08-23 16:30:00,,Arsenal,Leeds
+28789,True,88,82,"{'h': '0', 'a': '2'}","{'h': '1.2475', 'a': '1.28015'}",2025-08-23 11:30:00,"{'w': '0.3526', 'd': '0.2889', 'l': '0.3585'}",Manchester City,Tottenham
+28790,True,244,71,"{'h': '1', 'a': '0'}","{'h': '1.12964', 'a': '0.976852'}",2025-08-23 14:00:00,"{'w': '0.4019', 'd': '0.3328', 'l': '0.2653'}",Brentford,Aston Villa
+28791,True,92,77,"{'h': '2', 'a': '0'}","{'h': '1.00381', 'a': '1.12127'}",2025-08-23 14:00:00,"{'w': '0.2978', 'd': '0.3293', 'l': '0.3729'}",Burnley,Sunderland
+28792,True,73,229,"{'h': '1', 'a': '0'}","{'h': '1.78462', 'a': '0.373367'}",2025-08-23 14:00:00,"{'w': '0.7888', 'd': '0.1642', 'l': '0.047'}",Bournemouth,Wolverhampton Wanderers
+28793,True,83,245,"{'h': '5', 'a': '0'}","{'h': '2.73761', 'a': '0.156761'}",2025-08-23 16:30:00,"{'w': '0.9569', 'd': '0.039', 'l': '0.0041'}",Arsenal,Leeds
 28794,False,78,249,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-08-24 13:00:00,,Crystal Palace,Nottingham Forest
 28795,False,72,220,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-08-24 13:00:00,,Everton,Brighton
 28796,False,228,89,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-08-24 15:30:00,,Fulham,Manchester United

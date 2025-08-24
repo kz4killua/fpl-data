@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Bournemouth,Wolverhampton Wanderers,1,0,2025-08-23,28792,2025,733206,0,0,0,0,0,0,0
 0,0,0,1,Sub,Liverpool,Bournemouth,4,2,2025-08-15,28778,2025,731597,0,0,0,0,0,0,0
 0,0,0,8,Sub,Lorient,Clermont Foot,5,0,2024-05-19,23674,2023,663969,0,0,0,0,0,0,0
 0,0,0,7,Sub,Marseille,Lorient,3,1,2024-05-12,23662,2023,661649,0,0,0,0,0,0.05391225963830948,0.05391225963830948

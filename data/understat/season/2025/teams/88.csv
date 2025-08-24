@@ -1,2 +1,3 @@
 h_a,xG,xGA,npxG,npxGA,ppda,ppda_allowed,deep,deep_allowed,scored,missed,xpts,result,date,wins,draws,loses,pts,npxGD,id,title
 a,2.29903,0.519436,2.29903,0.519436,"{'att': 236, 'def': 20}","{'att': 351, 'def': 29}",8,4,4,0,2.6430000000000002,w,2025-08-16 16:30:00,1,0,0,3,1.7795940000000001,88,Manchester City
+h,1.2475,1.28015,1.2475,1.28015,"{'att': 188, 'def': 18}","{'att': 292, 'def': 22}",8,4,0,2,1.3467,l,2025-08-23 11:30:00,0,0,1,0,-0.032649999999999846,88,Manchester City
