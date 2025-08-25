@@ -1,2 +1,3 @@
 h_a,xG,xGA,npxG,npxGA,ppda,ppda_allowed,deep,deep_allowed,scored,missed,xpts,result,date,wins,draws,loses,pts,npxGD,id,title
 h,1.37653,1.3304,1.37653,1.3304,"{'att': 166, 'def': 21}","{'att': 259, 'def': 23}",7,3,0,1,1.3298,l,2025-08-17 15:30:00,0,0,1,0,0.046130000000000004,89,Manchester United
+a,1.54603,1.65333,0.784858,1.65333,"{'att': 196, 'def': 18}","{'att': 218, 'def': 22}",11,11,1,1,1.2692,d,2025-08-24 15:30:00,0,1,0,1,-0.868472,89,Manchester United

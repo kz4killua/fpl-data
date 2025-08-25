@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Fulham,Manchester United,1,1,2025-08-24,28796,2025,734088,0.2939172387123108,0,1,0,0,0.2939172387123108,0
 0,0,0,90,GK,Manchester United,Arsenal,0,1,2025-08-17,28786,2025,732453,0,0,0,0,0,0.08288052678108215,0.08288052678108215
 0,0,0,90,GK,Manchester United,Aston Villa,2,0,2025-05-25,26974,2024,730218,0,0,0,0,0,0.07073313742876053,0.07073313742876053
 0,0,0,90,GK,Manchester United,West Ham,0,2,2025-05-11,26956,2024,726571,0,0,0,0,0,0.04893849417567253,0.04893849417567253

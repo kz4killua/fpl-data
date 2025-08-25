@@ -15,9 +15,9 @@ id,isResult,h,a,goals,xG,datetime,forecast,h_title,a_title
 28791,True,92,77,"{'h': '2', 'a': '0'}","{'h': '1.00381', 'a': '1.12127'}",2025-08-23 14:00:00,"{'w': '0.2978', 'd': '0.3293', 'l': '0.3729'}",Burnley,Sunderland
 28792,True,73,229,"{'h': '1', 'a': '0'}","{'h': '1.78462', 'a': '0.373367'}",2025-08-23 14:00:00,"{'w': '0.7888', 'd': '0.1642', 'l': '0.047'}",Bournemouth,Wolverhampton Wanderers
 28793,True,83,245,"{'h': '5', 'a': '0'}","{'h': '2.73761', 'a': '0.156761'}",2025-08-23 16:30:00,"{'w': '0.9569', 'd': '0.039', 'l': '0.0041'}",Arsenal,Leeds
-28794,False,78,249,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-08-24 13:00:00,,Crystal Palace,Nottingham Forest
-28795,False,72,220,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-08-24 13:00:00,,Everton,Brighton
-28796,False,228,89,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-08-24 15:30:00,,Fulham,Manchester United
+28794,True,78,249,"{'h': '1', 'a': '1'}","{'h': '1.10188', 'a': '1.32987'}",2025-08-24 13:00:00,"{'w': '0.2822', 'd': '0.3071', 'l': '0.4107'}",Crystal Palace,Nottingham Forest
+28795,True,72,220,"{'h': '2', 'a': '0'}","{'h': '1.80116', 'a': '2.08487'}",2025-08-24 13:00:00,"{'w': '0.2765', 'd': '0.2775', 'l': '0.446'}",Everton,Brighton
+28796,True,228,89,"{'h': '1', 'a': '1'}","{'h': '1.65333', 'a': '1.54603'}",2025-08-24 15:30:00,"{'w': '0.3868', 'd': '0.2852', 'l': '0.328'}",Fulham,Manchester United
 28797,False,86,87,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-08-25 19:00:00,,Newcastle United,Liverpool
 28798,False,80,228,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-08-30 11:30:00,,Chelsea,Fulham
 28799,False,82,73,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-08-30 14:00:00,,Tottenham,Bournemouth
