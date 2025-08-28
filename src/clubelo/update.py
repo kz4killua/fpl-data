@@ -1,7 +1,7 @@
 from tqdm import tqdm
 
-from src.fetch.clubelo import fetch_rating_history
-from src.read.clubelo import read_team_ids
+from src.clubelo.fetch import fetch_rating_history
+from src.clubelo.read import read_team_ids
 from src.utils import DATA_DIR, write_csv
 
 

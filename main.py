@@ -1,10 +1,10 @@
 import argparse
 from datetime import datetime
 
-from src.fetch.fpl import fetch_bootstrap_static, fetch_event_status
-from src.update.clubelo import update_clubelo
-from src.update.fpl import update_fpl
-from src.update.understat import update_understat
+from src.clubelo.update import update_clubelo
+from src.fpl.fetch import fetch_bootstrap_static, fetch_event_status
+from src.fpl.update import update_fpl
+from src.understat.update import update_understat
 
 
 def main():

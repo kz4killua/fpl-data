@@ -2,14 +2,14 @@ import difflib
 
 from tqdm import tqdm
 
-from src.fetch.understat import (
+from src.fpl.read import read_fixtures
+from src.understat.fetch import (
     fetch_league_dates,
     fetch_league_players,
     fetch_league_teams,
     fetch_player_matches,
 )
-from src.read.fpl import read_fixtures
-from src.read.understat import read_player_ids, read_team_ids
+from src.understat.read import read_player_ids, read_team_ids
 from src.utils import DATA_DIR, append_csv, write_csv
 
 

@@ -1,6 +1,6 @@
 from tqdm import tqdm
 
-from src.fetch.fpl import (
+from src.fpl.fetch import (
     fetch_element_summary,
     fetch_entry_picks,
     fetch_fixtures,
