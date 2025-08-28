@@ -54,7 +54,7 @@ def update():
     update_clubelo(bootstrap_static)
     update_understat(current_season, bootstrap_static)
     update_theoddsapi(theoddsapi_api_key, current_season, next_gameweek)
-    update_footballdata(current_season)
+    update_footballdata(current_season, bootstrap_static)
 
 
 def get_current_season(static_events: list[dict]) -> str:

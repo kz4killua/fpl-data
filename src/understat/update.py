@@ -1,5 +1,3 @@
-import difflib
-
 from tqdm import tqdm
 
 from src.fpl.read import read_fixtures
@@ -10,7 +8,7 @@ from src.understat.fetch import (
     fetch_player_matches,
 )
 from src.understat.read import read_player_ids, read_team_ids
-from src.utils import DATA_DIR, append_csv, write_csv
+from src.utils import DATA_DIR, append_csv, map_closest_names, write_csv
 
 
 def update_understat(current_season: str, bootstrap_static: dict):
@@ -46,12 +44,12 @@ def update_understat(current_season: str, bootstrap_static: dict):
         write_csv(player_matches, path)
 
     # Update player, team, and fixture IDs
-    update_understat_player_ids(players, bootstrap_static)
-    update_understat_team_ids(teams, bootstrap_static)
-    update_understat_fixture_ids(current_season, current_year, dates, bootstrap_static)
+    update_player_ids(players, bootstrap_static)
+    update_team_ids(teams, bootstrap_static)
+    update_fixture_ids(current_season, current_year, dates, bootstrap_static)
 
 
-def update_understat_player_ids(uds_players: dict, bootstrap_static: dict):
+def update_player_ids(uds_players: dict, bootstrap_static: dict):
     # Get existing mappings
     player_ids = read_player_ids()
     mapped_fpl = {int(row["fpl_code"]) for row in player_ids}
@@ -88,7 +86,7 @@ def update_understat_player_ids(uds_players: dict, bootstrap_static: dict):
     append_csv(rows, path)
 
 
-def update_understat_team_ids(uds_teams: dict, bootstrap_static: dict):
+def update_team_ids(uds_teams: dict, bootstrap_static: dict):
     # Get existing mappings
     team_ids = read_team_ids()
     mapped_fpl = {int(row["fpl_code"]) for row in team_ids}
@@ -119,7 +117,7 @@ def update_understat_team_ids(uds_teams: dict, bootstrap_static: dict):
     append_csv(rows, path)
 
 
-def update_understat_fixture_ids(
+def update_fixture_ids(
     current_season: str, current_year: int, uds_fixtures: list, bootstrap_static: dict
 ):
     # Load fixture and team data
@@ -198,35 +196,3 @@ def get_fpl_name(element: dict) -> str:
         full_name += f" ({web_name})"
 
     return full_name
-
-
-def map_closest_names(a: dict, b: dict):
-    """Maps each name in a.values() with the most similar name in b.values()"""
-    mappings = dict()
-    # Get all possible pairs
-    pairs = [(k1, k2) for k1 in a for k2 in b]
-    # Rank the pairs by similarity
-    pairs.sort(
-        key=lambda pair: calculate_similarity(a[pair[0]], b[pair[1]]), reverse=True
-    )
-    # Map each key in a to the closest key in b
-    mapped_a = set()
-    mapped_b = set()
-
-    for pair in pairs:
-        if not (pair[0] in mapped_a or pair[1] in mapped_b):
-            # Add the mapping
-            mappings[pair[0]] = pair[1]
-            # Keep track of what we have already mapped
-            mapped_a.add(pair[0])
-            mapped_b.add(pair[1])
-
-    return mappings
-
-
-def calculate_similarity(s1: str, s2: str):
-    """Returns a score indicating how similar two strings are."""
-    s1 = s1.lower().strip()
-    s2 = s2.lower().strip()
-    matcher = difflib.SequenceMatcher(None, s1, s2)
-    return matcher.ratio()
