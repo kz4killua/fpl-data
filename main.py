@@ -3,6 +3,7 @@ import os
 from datetime import datetime
 
 from src.clubelo.update import update_clubelo
+from src.footballdata.update import update_footballdata
 from src.fpl.fetch import fetch_bootstrap_static, fetch_event_status
 from src.fpl.update import update_fpl
 from src.theoddsapi.update import update_theoddsapi
@@ -53,6 +54,7 @@ def update():
     update_clubelo(bootstrap_static)
     update_understat(current_season, bootstrap_static)
     update_theoddsapi(theoddsapi_api_key, current_season, next_gameweek)
+    update_footballdata(current_season)
 
 
 def get_current_season(static_events: list[dict]) -> str:
