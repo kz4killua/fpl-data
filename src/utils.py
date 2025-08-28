@@ -34,7 +34,7 @@ def append_csv(rows: list, path: Path):
             writer.writerow(row)
 
 
-def write_json_xz(rows: list[dict], path: Path):
+def write_compressed_json(rows: list[dict], path: Path):
     """Write a list of dictionaries to a compressed JSON file."""
     if not rows:
         return

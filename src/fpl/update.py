@@ -6,7 +6,7 @@ from src.fpl.fetch import (
     fetch_fixtures,
     fetch_league_standings,
 )
-from src.utils import DATA_DIR, write_csv, write_json_xz
+from src.utils import DATA_DIR, write_compressed_json, write_csv
 
 
 def update_fpl(
@@ -22,7 +22,7 @@ def update_fpl(
         path = DATA_DIR / f"fpl/{current_season}/static/{next_gameweek}.json.xz"
     else:
         path = DATA_DIR / f"fpl/{current_season}/static/final.json.xz"
-    write_json_xz(bootstrap_static, path)
+    write_compressed_json(bootstrap_static, path)
 
     # Update fixtures
     fixtures = fetch_fixtures()
@@ -55,4 +55,4 @@ def update_fpl(
             for manager in standings:
                 manager["picks"] = picks[manager["entry"]]
 
-            write_json_xz(standings, path)
+            write_compressed_json(standings, path)
