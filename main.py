@@ -1,9 +1,11 @@
 import argparse
+import os
 from datetime import datetime
 
 from src.clubelo.update import update_clubelo
 from src.fpl.fetch import fetch_bootstrap_static, fetch_event_status
 from src.fpl.update import update_fpl
+from src.theoddsapi.update import update_theoddsapi
 from src.understat.update import update_understat
 
 
@@ -21,6 +23,10 @@ def main():
 
 def update():
     """Fetch and update data from all sources."""
+
+    theoddsapi_api_key = os.getenv("THEODDSAPI_API_KEY")
+    if not theoddsapi_api_key:
+        raise ValueError("THEODDSAPI_API_KEY environment variable is not set.")
 
     # Fetch current data and game state
     bootstrap_static = fetch_bootstrap_static()
@@ -46,6 +52,7 @@ def update():
     )
     update_clubelo(bootstrap_static)
     update_understat(current_season, bootstrap_static)
+    update_theoddsapi(theoddsapi_api_key, current_season, next_gameweek)
 
 
 def get_current_season(static_events: list[dict]) -> str:
