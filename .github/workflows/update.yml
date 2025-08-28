@@ -19,6 +19,8 @@ jobs:
           version: 'latest'
 
       - name: Run update script
+        env:
+          THEODDSAPI_API_KEY: ${{ secrets.THEODDSAPI_API_KEY }}
         run: |
           uv run python main.py update
 
