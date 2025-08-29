@@ -2,8 +2,6 @@ from src.theoddsapi.fetch import fetch_odds
 from src.theoddsapi.read import read_odds, read_team_ids
 from src.utils import DATA_DIR, append_csv, map_closest_names, write_compressed_json
 
-# TODO: Add read_csv and read_compressed_json functions
-
 
 def update_theoddsapi(
     api_key: str, current_season: str, next_gameweek: int, bootstrap_static: dict

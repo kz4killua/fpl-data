@@ -1,10 +1,6 @@
-import csv
-
-from src.utils import DATA_DIR
+from src.utils import DATA_DIR, read_csv
 
 
 def read_fixtures(season: str):
     path = DATA_DIR / f"fpl/{season}/fixtures.csv"
-    with open(path, encoding="utf-8") as f:
-        reader = csv.DictReader(f)
-        return list(reader)
+    return read_csv(path)
