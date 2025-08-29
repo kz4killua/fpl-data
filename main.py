@@ -53,7 +53,9 @@ def update():
     )
     update_clubelo(bootstrap_static)
     update_understat(current_season, bootstrap_static)
-    update_theoddsapi(theoddsapi_api_key, current_season, next_gameweek)
+    update_theoddsapi(
+        theoddsapi_api_key, current_season, next_gameweek, bootstrap_static
+    )
     update_footballdata(current_season, bootstrap_static)
 
 
