@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Tottenham,Bournemouth,0,1,2025-08-30,28799,2025,735021,0,0,0,0,0,0.28920796513557434,0.28920796513557434
 0,0,0,90,GK,Bournemouth,Wolverhampton Wanderers,1,0,2025-08-23,28792,2025,733195,0,0,0,0,0,0.10820944607257843,0.10820944607257843
 0,0,0,90,GK,Liverpool,Bournemouth,4,2,2025-08-15,28778,2025,731586,0,0,0,0,0,0,0
 0,0,0,90,GK,Strasbourg,Le Havre,2,3,2025-05-17,28345,2024,728186,0,0,0,0,0,0.06460865586996078,0.06460865586996078

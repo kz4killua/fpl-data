@@ -1,3 +1,4 @@
 element,fixture,opponent_team,total_points,was_home,kickoff_time,team_h_score,team_a_score,round,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,starts,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,transfers_balance,selected,transfers_in,transfers_out
 478,2,2,6,False,2025-08-16T11:30:00Z,0,0,1,False,90,0,0,1,0,0,0,0,0,0,0,0,26,9.8,22.5,0.0,3.2,4,4,0,4,1,0.00,0.06,0.06,0.20,50,0,179895,0,0
 478,19,12,1,True,2025-08-25T19:00:00Z,2,3,2,False,75,0,0,0,2,0,0,0,0,0,0,0,-2,0.0,11.6,0.0,1.1,0,4,0,0,1,0.00,0.08,0.08,0.33,50,8172,242108,22341,14169
+478,24,11,6,False,2025-08-30T16:30:00Z,0,0,3,False,61,0,0,1,0,0,0,0,0,0,0,0,22,6.8,17.3,2.0,2.6,0,4,1,1,1,0.00,0.21,0.21,0.53,50,32155,306349,51191,19036
