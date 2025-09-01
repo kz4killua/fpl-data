@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,86,Sub,Liverpool,Arsenal,1,0,2025-08-31,28806,2025,735959,0,0,0,0,0,0.14800086617469788,0.14800086617469788
 0,0,0,23,Sub,Arsenal,Leeds,5,0,2025-08-23,28793,2025,733397,0,0,0,0,0,0,0
 0,0,0,90,DR,Real Betis,Valencia,1,1,2025-05-23,27354,2024,729423,0,0,0,0,0,0.4675050675868988,0.4675050675868988
 0,0,0,90,DR,Valencia,Athletic Club,0,1,2025-05-18,27345,2024,728812,0,0,0,0,0,0,0

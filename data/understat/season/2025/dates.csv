@@ -25,10 +25,10 @@ id,isResult,h,a,goals,xG,datetime,forecast,h_title,a_title
 28801,True,77,244,"{'h': '2', 'a': '1'}","{'h': '1.57127', 'a': '1.44604'}",2025-08-30 14:00:00,"{'w': '0.3654', 'd': '0.3194', 'l': '0.3152'}",Sunderland,Brentford
 28802,True,89,92,"{'h': '3', 'a': '2'}","{'h': '4.02237', 'a': '1.32618'}",2025-08-30 14:00:00,"{'w': '0.911', 'd': '0.0655', 'l': '0.0235'}",Manchester United,Burnley
 28803,True,245,86,"{'h': '0', 'a': '0'}","{'h': '0.6773', 'a': '0.303635'}",2025-08-30 16:30:00,"{'w': '0.408', 'd': '0.4518', 'l': '0.1402'}",Leeds,Newcastle United
-28804,False,249,81,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-08-31 13:00:00,,Nottingham Forest,West Ham
-28805,False,220,88,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-08-31 13:00:00,,Brighton,Manchester City
-28806,False,87,83,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-08-31 15:30:00,,Liverpool,Arsenal
-28807,False,71,78,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-08-31 18:00:00,,Aston Villa,Crystal Palace
+28804,True,249,81,"{'h': '0', 'a': '3'}","{'h': '0.716018', 'a': '2.236'}",2025-08-31 13:00:00,"{'w': '0.0594', 'd': '0.1552', 'l': '0.7854'}",Nottingham Forest,West Ham
+28805,True,220,88,"{'h': '2', 'a': '1'}","{'h': '2.20864', 'a': '2.13418'}",2025-08-31 13:00:00,"{'w': '0.3828', 'd': '0.2726', 'l': '0.3446'}",Brighton,Manchester City
+28806,True,87,83,"{'h': '1', 'a': '0'}","{'h': '0.481404', 'a': '0.485679'}",2025-08-31 15:30:00,"{'w': '0.2681', 'd': '0.4624', 'l': '0.2695'}",Liverpool,Arsenal
+28807,True,71,78,"{'h': '0', 'a': '3'}","{'h': '1.20586', 'a': '2.59713'}",2025-08-31 18:00:00,"{'w': '0.0734', 'd': '0.161', 'l': '0.7656'}",Aston Villa,Crystal Palace
 28808,False,83,249,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-09-13 11:30:00,,Arsenal,Nottingham Forest
 28809,False,86,229,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-09-13 14:00:00,,Newcastle United,Wolverhampton Wanderers
 28810,False,73,220,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-09-13 14:00:00,,Bournemouth,Brighton
