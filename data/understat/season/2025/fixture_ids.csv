@@ -40,32 +40,32 @@ fpl_id,understat_id,h_fpl,a_fpl,h_understat,a_understat
 34,28816,Burnley,Liverpool,Burnley,Liverpool
 38,28817,Man City,Man Utd,Manchester City,Manchester United
 46,28818,Liverpool,Everton,Liverpool,Everton
-42,28823,Bournemouth,Newcastle,Bournemouth,Newcastle United
 43,28821,Brighton,Spurs,Brighton,Tottenham
 44,28822,Burnley,Nott'm Forest,Burnley,Nottingham Forest
 49,28819,West Ham,Crystal Palace,West Ham,Crystal Palace
 50,28820,Wolves,Leeds,Wolverhampton Wanderers,Leeds
 47,28824,Man Utd,Chelsea,Manchester United,Chelsea
 45,28825,Fulham,Brentford,Fulham,Brentford
+42,28823,Bournemouth,Newcastle,Bournemouth,Newcastle United
 48,28826,Sunderland,Aston Villa,Sunderland,Aston Villa
 41,28827,Arsenal,Man City,Arsenal,Manchester City
 52,28828,Brentford,Man Utd,Brentford,Manchester United
-51,28831,Aston Villa,Fulham,Aston Villa,Fulham
 53,28829,Chelsea,Brighton,Chelsea,Brighton
 54,28830,Crystal Palace,Liverpool,Crystal Palace,Liverpool
 56,28832,Leeds,Bournemouth,Leeds,Bournemouth
 57,28833,Man City,Burnley,Manchester City,Burnley
 59,28834,Nott'm Forest,Sunderland,Nottingham Forest,Sunderland
 60,28835,Spurs,Wolves,Tottenham,Wolverhampton Wanderers
+51,28831,Aston Villa,Fulham,Aston Villa,Fulham
 58,28836,Newcastle,Arsenal,Newcastle United,Arsenal
 55,28837,Everton,West Ham,Everton,West Ham
 63,28838,Bournemouth,Fulham,Bournemouth,Fulham
 67,28844,Leeds,Spurs,Leeds,Tottenham
 61,28839,Arsenal,West Ham,Arsenal,West Ham
-66,28843,Everton,Crystal Palace,Everton,Crystal Palace
 68,28845,Man Utd,Sunderland,Manchester United,Sunderland
 65,28842,Chelsea,Liverpool,Chelsea,Liverpool
 62,28840,Aston Villa,Burnley,Aston Villa,Burnley
+66,28843,Everton,Crystal Palace,Everton,Crystal Palace
 69,28846,Newcastle,Nott'm Forest,Newcastle United,Nottingham Forest
 70,28847,Wolves,Brighton,Wolverhampton Wanderers,Brighton
 64,28841,Brentford,Man City,Brentford,Manchester City
@@ -80,11 +80,11 @@ fpl_id,understat_id,h_fpl,a_fpl,h_understat,a_understat
 75,28852,Liverpool,Man Utd,Liverpool,Manchester United
 80,28857,West Ham,Brentford,West Ham,Brentford
 87,28864,Leeds,West Ham,Leeds,West Ham
-81,28859,Arsenal,Crystal Palace,Arsenal,Crystal Palace
 85,28862,Chelsea,Sunderland,Chelsea,Sunderland
 89,28866,Newcastle,Fulham,Newcastle United,Fulham
 88,28865,Man Utd,Brighton,Manchester United,Brighton
 84,28861,Brentford,Liverpool,Brentford,Liverpool
+81,28859,Arsenal,Crystal Palace,Arsenal,Crystal Palace
 82,28860,Aston Villa,Man City,Aston Villa,Manchester City
 83,28858,Bournemouth,Nott'm Forest,Bournemouth,Nottingham Forest
 90,28867,Wolves,Burnley,Wolverhampton Wanderers,Burnley
