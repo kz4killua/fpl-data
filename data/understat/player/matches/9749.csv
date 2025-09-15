@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,5,Sub,Everton,Aston Villa,0,0,2025-09-13,28812,2025,736987,0,0,0,0,0,0,0
 0,2,0.30782389640808105,87,AMR,Aston Villa,Crystal Palace,0,3,2025-08-31,28807,2025,736186,0,0,0,0,0.30782389640808105,0.30782389640808105,0
 0,0,0,18,Sub,Brentford,Aston Villa,1,0,2025-08-23,28790,2025,733256,0,0,0,0,0,0.1262531578540802,0.1262531578540802
 0,1,0.06348427385091782,6,Sub,Aston Villa,Newcastle United,0,0,2025-08-16,28779,2025,731708,0,0,0,0,0.06348427385091782,0.06348427385091782,0

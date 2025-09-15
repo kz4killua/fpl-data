@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,17,Sub,Everton,Aston Villa,0,0,2025-09-13,28812,2025,736989,0,0,0,0,0,0,0
 0,0,0,1,Sub,Newcastle United,Liverpool,2,3,2025-08-25,28797,2025,734543,0,0,0,0,0,0.3935171365737915,0.3935171365737915
 0,0,0,4,Sub,Liverpool,Crystal Palace,1,1,2025-05-25,26975,2024,730170,0,0,0,0,0,0,0
 1,3,0.9269344806671143,90,AMC,Brighton,Liverpool,3,2,2025-05-19,26965,2024,729272,0.34985119104385376,1,4,1,0.9269344806671143,1.3474398851394653,0.09681352972984314

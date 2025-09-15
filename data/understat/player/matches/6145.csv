@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,2,0.04831487685441971,90,AMC,Crystal Palace,Sunderland,0,0,2025-09-13,28811,2025,736943,0.3241446316242218,0,1,0,0.04831487685441971,0.3555591106414795,0
 0,0,0,90,AMC,Aston Villa,Crystal Palace,0,3,2025-08-31,28807,2025,736203,0,0,0,0,0,0,0
 0,0,0,90,MC,Liverpool,Crystal Palace,1,1,2025-05-25,26975,2024,730178,0,0,0,0,0,0.6564021110534668,0.6564021110534668
 0,0,0,16,Sub,Crystal Palace,Wolverhampton Wanderers,4,2,2025-05-20,26967,2024,729292,0,0,0,0,0,0.03928132355213165,0.03928132355213165

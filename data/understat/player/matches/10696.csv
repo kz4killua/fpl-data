@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,63,DMR,Manchester City,Manchester United,3,0,2025-09-14,28817,2025,737827,0,0,0,0,0,0.03495940566062927,0.03495940566062927
 0,0,0,1,Sub,Manchester United,Burnley,3,2,2025-08-30,28802,2025,735107,0,0,0,0,0,0.21974478662014008,0.21974478662014008
 0,0,0,19,DMR,Manchester United,Aston Villa,2,0,2025-05-25,26974,2024,730222,0.14400678873062134,0,2,0,0,0.43416228890419006,0.2901555001735687
 0,0,0,90,DMR,Chelsea,Manchester United,1,0,2025-05-16,26966,2024,727551,0,0,0,0,0,0,0

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Burnley,Liverpool,0,1,2025-09-14,28816,2025,737462,0,0,0,0,0,0,0
 0,0,0,90,GK,Manchester United,Burnley,3,2,2025-08-30,28802,2025,735111,0,0,0,0,0,0,0
 0,0,0,90,GK,Burnley,Sunderland,2,0,2025-08-23,28791,2025,733259,0,0,0,0,0,0.036420367658138275,0.036420367658138275
 0,0,0,90,GK,Tottenham,Burnley,3,0,2025-08-16,28782,2025,731829,0,0,0,0,0,0,0

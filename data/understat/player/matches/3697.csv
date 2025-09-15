@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,2,0.8369831442832947,69,FW,Paris Saint Germain,Lens,2,0,2025-09-14,29571,2025,737770,0,0,0,0,0.8369831442832947,0.29299309849739075,0
 0,0,0,1,Sub,Crystal Palace,Nottingham Forest,1,1,2025-08-24,28794,2025,733806,0,0,0,0,0,0,0
 0,0,0,1,Sub,Manchester United,Leicester,3,0,2024-11-10,26708,2024,687367,0,0,0,0,0,0,0
 0,0,0,13,Sub,Leicester,Bournemouth,1,0,2024-10-05,26663,2024,679431,0,0,0,0,0,0,0
