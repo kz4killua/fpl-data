@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,MC,Burnley,Nottingham Forest,1,1,2025-09-20,28822,2025,738654,0.026573725044727325,0,2,0,0,0.026573725044727325,0.00983856525272131
 0,0,0,24,Sub,Burnley,Liverpool,0,1,2025-09-14,28816,2025,737474,0,0,0,0,0,0,0
 0,0,0,6,Sub,Getafe,Barcelona,0,0,2022-05-15,17501,2021,536480,0,0,0,0,0,0,0
 0,0,0,73,MC,Osasuna,Getafe,1,1,2022-05-11,17489,2021,534701,0,0,0,0,0,0,0

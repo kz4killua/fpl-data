@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,11,Sub,Brighton,Tottenham,2,2,2025-09-20,28821,2025,738626,0,0,0,0,0,0.16225166618824005,0.16225166618824005
 0,0,0,1,Sub,Brighton,Manchester City,2,1,2025-08-31,28805,2025,735696,0,0,0,0,0,0,0
 0,0,0,90,DC,Empoli,Verona,1,2,2025-05-25,27736,2024,730358,0,0,0,0,0,0,0
 0,1,0.01256368774920702,90,DC,Verona,Como,1,1,2025-05-18,27725,2024,729187,0,0,0,0,0.01256368774920702,0,0

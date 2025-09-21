@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,4,GK,Manchester United,Chelsea,2,1,2025-09-20,28824,2025,738849,0,0,0,0,0,0,0
 0,0,0,90,GK,Brentford,Chelsea,2,2,2025-09-13,28815,2025,737288,0,0,0,0,0,0.10473449528217316,0.10473449528217316
 0,0,0,90,GK,Chelsea,Fulham,2,0,2025-08-30,28798,2025,734817,0,0,0,0,0,0,0
 0,0,0,90,GK,West Ham,Chelsea,1,5,2025-08-22,28788,2025,732902,0,0,0,0,0,1.6746636629104614,1.6746636629104614
