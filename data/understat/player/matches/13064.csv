@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,6,Sub,Sunderland,Aston Villa,1,1,2025-09-21,28826,2025,739258,0,0,0,0,0,0,0
 0,0,0,2,Sub,Crystal Palace,Sunderland,0,0,2025-09-13,28811,2025,736960,0,0,0,0,0,0,0
 0,0,0,90,DR,RasenBallsport Leipzig,VfB Stuttgart,2,3,2025-05-17,28039,2024,727786,0,0,0,0,0,0.8178223371505737,0.8178223371505737
 0,0,0,2,Sub,RasenBallsport Leipzig,Bayern Munich,3,3,2025-05-03,28021,2024,724027,0,0,0,0,0,0,0
