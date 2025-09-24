@@ -52,330 +52,330 @@ id,isResult,h,a,goals,xG,datetime,forecast,h_title,a_title
 28828,False,244,89,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-09-27 11:30:00,,Brentford,Manchester United
 28829,False,80,220,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-09-27 14:00:00,,Chelsea,Brighton
 28830,False,78,87,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-09-27 14:00:00,,Crystal Palace,Liverpool
-28831,False,71,228,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-09-27 14:00:00,,Aston Villa,Fulham
 28832,False,245,73,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-09-27 14:00:00,,Leeds,Bournemouth
 28833,False,88,92,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-09-27 14:00:00,,Manchester City,Burnley
 28834,False,249,77,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-09-27 16:30:00,,Nottingham Forest,Sunderland
-28835,False,82,229,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-09-28 13:00:00,,Tottenham,Wolverhampton Wanderers
+28835,False,82,229,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-09-27 19:00:00,,Tottenham,Wolverhampton Wanderers
+28831,False,71,228,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-09-28 13:00:00,,Aston Villa,Fulham
 28836,False,86,83,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-09-28 15:30:00,,Newcastle United,Arsenal
 28837,False,72,81,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-09-29 19:00:00,,Everton,West Ham
-28838,False,73,228,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-04 14:00:00,,Bournemouth,Fulham
+28838,False,73,228,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-03 19:00:00,,Bournemouth,Fulham
+28844,False,245,82,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-04 11:30:00,,Leeds,Tottenham
 28839,False,83,81,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-04 14:00:00,,Arsenal,West Ham
-28840,False,71,92,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-04 14:00:00,,Aston Villa,Burnley
-28841,False,244,88,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-04 14:00:00,,Brentford,Manchester City
-28842,False,80,87,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-04 14:00:00,,Chelsea,Liverpool
-28843,False,72,78,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-04 14:00:00,,Everton,Crystal Palace
-28844,False,245,82,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-04 14:00:00,,Leeds,Tottenham
 28845,False,89,77,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-04 14:00:00,,Manchester United,Sunderland
-28846,False,86,249,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-04 14:00:00,,Newcastle United,Nottingham Forest
-28847,False,229,220,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-04 14:00:00,,Wolverhampton Wanderers,Brighton
+28842,False,80,87,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-04 16:30:00,,Chelsea,Liverpool
+28840,False,71,92,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-05 13:00:00,,Aston Villa,Burnley
+28843,False,72,78,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-05 13:00:00,,Everton,Crystal Palace
+28846,False,86,249,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-05 13:00:00,,Newcastle United,Nottingham Forest
+28847,False,229,220,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-05 13:00:00,,Wolverhampton Wanderers,Brighton
+28841,False,244,88,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-05 15:30:00,,Brentford,Manchester City
+28854,False,249,80,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-18 11:30:00,,Nottingham Forest,Chelsea
 28848,False,220,86,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-18 14:00:00,,Brighton,Newcastle United
 28849,False,92,245,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-18 14:00:00,,Burnley,Leeds
 28850,False,78,73,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-18 14:00:00,,Crystal Palace,Bournemouth
-28851,False,228,83,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-18 14:00:00,,Fulham,Arsenal
-28852,False,87,89,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-18 14:00:00,,Liverpool,Manchester United
 28853,False,88,72,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-18 14:00:00,,Manchester City,Everton
-28854,False,249,80,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-18 14:00:00,,Nottingham Forest,Chelsea
 28855,False,77,229,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-18 14:00:00,,Sunderland,Wolverhampton Wanderers
-28856,False,82,71,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-18 14:00:00,,Tottenham,Aston Villa
-28857,False,81,244,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-18 14:00:00,,West Ham,Brentford
-28858,False,73,249,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-25 14:00:00,,Bournemouth,Nottingham Forest
-28859,False,83,78,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-25 14:00:00,,Arsenal,Crystal Palace
-28860,False,71,88,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-25 14:00:00,,Aston Villa,Manchester City
-28861,False,244,87,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-25 14:00:00,,Brentford,Liverpool
+28851,False,228,83,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-18 16:30:00,,Fulham,Arsenal
+28856,False,82,71,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-19 13:00:00,,Tottenham,Aston Villa
+28852,False,87,89,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-19 15:30:00,,Liverpool,Manchester United
+28857,False,81,244,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-20 19:00:00,,West Ham,Brentford
+28864,False,245,81,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-24 19:00:00,,Leeds,West Ham
 28862,False,80,77,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-25 14:00:00,,Chelsea,Sunderland
-28863,False,72,82,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-25 14:00:00,,Everton,Tottenham
-28864,False,245,81,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-25 14:00:00,,Leeds,West Ham
-28865,False,89,220,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-25 14:00:00,,Manchester United,Brighton
 28866,False,86,228,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-25 14:00:00,,Newcastle United,Fulham
-28867,False,229,92,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-25 14:00:00,,Wolverhampton Wanderers,Burnley
-28868,False,220,245,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-01 14:00:00,,Brighton,Leeds
-28869,False,92,83,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-01 14:00:00,,Burnley,Arsenal
-28870,False,78,244,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-01 14:00:00,,Crystal Palace,Brentford
-28871,False,228,229,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-01 14:00:00,,Fulham,Wolverhampton Wanderers
-28872,False,87,71,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-01 14:00:00,,Liverpool,Aston Villa
-28873,False,88,73,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-01 14:00:00,,Manchester City,Bournemouth
-28874,False,249,89,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-01 14:00:00,,Nottingham Forest,Manchester United
-28875,False,77,72,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-01 14:00:00,,Sunderland,Everton
-28876,False,82,80,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-01 14:00:00,,Tottenham,Chelsea
-28877,False,81,86,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-01 14:00:00,,West Ham,Newcastle United
-28878,False,71,73,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-08 14:00:00,,Aston Villa,Bournemouth
-28879,False,244,86,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-08 14:00:00,,Brentford,Newcastle United
-28880,False,80,229,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-08 14:00:00,,Chelsea,Wolverhampton Wanderers
-28881,False,78,220,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-08 14:00:00,,Crystal Palace,Brighton
-28882,False,72,228,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-08 14:00:00,,Everton,Fulham
-28883,False,88,87,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-08 14:00:00,,Manchester City,Liverpool
-28884,False,249,245,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-08 14:00:00,,Nottingham Forest,Leeds
-28885,False,77,83,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-08 14:00:00,,Sunderland,Arsenal
-28886,False,82,89,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-08 14:00:00,,Tottenham,Manchester United
-28887,False,81,92,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-08 14:00:00,,West Ham,Burnley
-28888,False,73,81,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-22 14:00:00,,Bournemouth,West Ham
-28889,False,83,82,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-22 14:00:00,,Arsenal,Tottenham
-28890,False,220,244,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-22 14:00:00,,Brighton,Brentford
-28891,False,92,80,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-22 14:00:00,,Burnley,Chelsea
-28892,False,228,77,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-22 14:00:00,,Fulham,Sunderland
-28893,False,245,71,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-22 14:00:00,,Leeds,Aston Villa
-28894,False,87,249,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-22 14:00:00,,Liverpool,Nottingham Forest
-28895,False,89,72,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-22 14:00:00,,Manchester United,Everton
-28896,False,86,88,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-22 14:00:00,,Newcastle United,Manchester City
-28897,False,229,78,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-22 14:00:00,,Wolverhampton Wanderers,Crystal Palace
-28898,False,71,229,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-29 14:00:00,,Aston Villa,Wolverhampton Wanderers
-28899,False,244,92,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-29 14:00:00,,Brentford,Burnley
-28900,False,80,83,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-29 14:00:00,,Chelsea,Arsenal
-28901,False,78,89,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-29 14:00:00,,Crystal Palace,Manchester United
-28902,False,72,86,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-29 14:00:00,,Everton,Newcastle United
-28903,False,88,245,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-29 14:00:00,,Manchester City,Leeds
-28904,False,249,220,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-29 14:00:00,,Nottingham Forest,Brighton
-28905,False,77,73,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-29 14:00:00,,Sunderland,Bournemouth
-28906,False,82,228,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-29 14:00:00,,Tottenham,Fulham
-28907,False,81,87,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-29 14:00:00,,West Ham,Liverpool
-28908,False,73,72,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-03 19:00:00,,Bournemouth,Everton
-28909,False,83,244,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-03 19:00:00,,Arsenal,Brentford
-28910,False,220,71,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-03 19:00:00,,Brighton,Aston Villa
-28911,False,92,78,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-03 19:00:00,,Burnley,Crystal Palace
-28912,False,228,88,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-03 19:00:00,,Fulham,Manchester City
-28913,False,245,80,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-03 19:00:00,,Leeds,Chelsea
-28914,False,87,77,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-03 19:00:00,,Liverpool,Sunderland
-28915,False,89,81,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-03 19:00:00,,Manchester United,West Ham
-28916,False,86,82,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-03 19:00:00,,Newcastle United,Tottenham
-28917,False,229,249,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-03 19:00:00,,Wolverhampton Wanderers,Nottingham Forest
-28918,False,73,80,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-06 14:00:00,,Bournemouth,Chelsea
-28919,False,71,83,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-06 14:00:00,,Aston Villa,Arsenal
-28920,False,220,81,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-06 14:00:00,,Brighton,West Ham
-28921,False,72,249,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-06 14:00:00,,Everton,Nottingham Forest
-28922,False,228,78,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-06 14:00:00,,Fulham,Crystal Palace
-28923,False,245,87,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-06 14:00:00,,Leeds,Liverpool
-28924,False,88,77,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-06 14:00:00,,Manchester City,Sunderland
-28925,False,86,92,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-06 14:00:00,,Newcastle United,Burnley
-28926,False,82,244,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-06 14:00:00,,Tottenham,Brentford
-28927,False,229,89,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-06 14:00:00,,Wolverhampton Wanderers,Manchester United
-28928,False,83,229,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-13 14:00:00,,Arsenal,Wolverhampton Wanderers
-28929,False,244,245,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-13 14:00:00,,Brentford,Leeds
-28930,False,92,228,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-13 14:00:00,,Burnley,Fulham
-28931,False,80,72,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-13 14:00:00,,Chelsea,Everton
-28932,False,78,88,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-13 14:00:00,,Crystal Palace,Manchester City
-28933,False,87,220,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-13 14:00:00,,Liverpool,Brighton
-28934,False,89,73,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-13 14:00:00,,Manchester United,Bournemouth
-28935,False,249,82,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-13 14:00:00,,Nottingham Forest,Tottenham
-28936,False,77,86,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-13 14:00:00,,Sunderland,Newcastle United
-28937,False,81,71,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-13 14:00:00,,West Ham,Aston Villa
-28938,False,73,92,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-20 14:00:00,,Bournemouth,Burnley
-28939,False,71,89,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-20 14:00:00,,Aston Villa,Manchester United
-28940,False,220,77,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-20 14:00:00,,Brighton,Sunderland
-28941,False,72,83,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-20 14:00:00,,Everton,Arsenal
-28942,False,228,249,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-20 14:00:00,,Fulham,Nottingham Forest
-28943,False,245,78,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-20 14:00:00,,Leeds,Crystal Palace
-28944,False,88,81,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-20 14:00:00,,Manchester City,West Ham
-28945,False,86,80,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-20 14:00:00,,Newcastle United,Chelsea
-28946,False,82,87,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-20 14:00:00,,Tottenham,Liverpool
-28947,False,229,244,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-20 14:00:00,,Wolverhampton Wanderers,Brentford
-28948,False,83,220,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-27 14:00:00,,Arsenal,Brighton
-28949,False,244,73,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-27 14:00:00,,Brentford,Bournemouth
-28950,False,92,72,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-27 14:00:00,,Burnley,Everton
-28951,False,80,71,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-27 14:00:00,,Chelsea,Aston Villa
-28952,False,78,82,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-27 14:00:00,,Crystal Palace,Tottenham
-28953,False,87,229,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-27 14:00:00,,Liverpool,Wolverhampton Wanderers
-28954,False,89,86,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-27 14:00:00,,Manchester United,Newcastle United
-28955,False,249,88,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-27 14:00:00,,Nottingham Forest,Manchester City
-28956,False,77,245,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-27 14:00:00,,Sunderland,Leeds
-28957,False,81,228,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-27 14:00:00,,West Ham,Fulham
-28958,False,83,71,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-30 19:00:00,,Arsenal,Aston Villa
-28959,False,244,82,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-30 19:00:00,,Brentford,Tottenham
-28960,False,92,86,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-30 19:00:00,,Burnley,Newcastle United
-28961,False,80,73,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-30 19:00:00,,Chelsea,Bournemouth
-28962,False,78,228,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-30 19:00:00,,Crystal Palace,Fulham
-28963,False,87,245,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-30 19:00:00,,Liverpool,Leeds
-28964,False,89,229,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-30 19:00:00,,Manchester United,Wolverhampton Wanderers
-28965,False,249,72,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-30 19:00:00,,Nottingham Forest,Everton
-28966,False,77,88,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-30 19:00:00,,Sunderland,Manchester City
-28967,False,81,220,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-30 19:00:00,,West Ham,Brighton
-28968,False,86,78,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-03 14:00:00,,Newcastle United,Crystal Palace
-28969,False,82,77,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-03 14:00:00,,Tottenham,Sunderland
-28970,False,229,81,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-03 14:00:00,,Wolverhampton Wanderers,West Ham
-28971,False,73,83,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-03 14:00:00,,Bournemouth,Arsenal
-28972,False,71,249,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-03 14:00:00,,Aston Villa,Nottingham Forest
-28973,False,220,92,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-03 14:00:00,,Brighton,Burnley
-28974,False,72,244,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-03 14:00:00,,Everton,Brentford
-28975,False,228,87,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-03 14:00:00,,Fulham,Liverpool
-28976,False,245,89,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-03 14:00:00,,Leeds,Manchester United
-28977,False,88,80,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-03 14:00:00,,Manchester City,Chelsea
-28978,False,72,229,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-07 19:00:00,,Everton,Wolverhampton Wanderers
-28979,False,73,82,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-07 19:00:00,,Bournemouth,Tottenham
-28980,False,83,87,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-07 19:00:00,,Arsenal,Liverpool
-28981,False,244,77,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-07 19:00:00,,Brentford,Sunderland
-28982,False,92,89,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-07 19:00:00,,Burnley,Manchester United
-28983,False,78,71,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-07 19:00:00,,Crystal Palace,Aston Villa
-28984,False,228,80,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-07 19:00:00,,Fulham,Chelsea
-28985,False,88,220,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-07 19:00:00,,Manchester City,Brighton
-28986,False,86,245,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-07 19:00:00,,Newcastle United,Leeds
-28987,False,81,249,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-07 19:00:00,,West Ham,Nottingham Forest
-28988,False,71,72,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-17 14:00:00,,Aston Villa,Everton
-28989,False,220,73,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-17 14:00:00,,Brighton,Bournemouth
-28990,False,80,244,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-17 14:00:00,,Chelsea,Brentford
-28991,False,245,228,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-17 14:00:00,,Leeds,Fulham
-28992,False,87,92,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-17 14:00:00,,Liverpool,Burnley
-28993,False,89,88,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-17 14:00:00,,Manchester United,Manchester City
-28994,False,249,83,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-17 14:00:00,,Nottingham Forest,Arsenal
-28995,False,77,78,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-17 14:00:00,,Sunderland,Crystal Palace
-28996,False,82,81,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-17 14:00:00,,Tottenham,West Ham
-28997,False,229,86,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-17 14:00:00,,Wolverhampton Wanderers,Newcastle United
-28998,False,73,87,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-24 14:00:00,,Bournemouth,Liverpool
-28999,False,83,89,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-24 14:00:00,,Arsenal,Manchester United
-29000,False,244,249,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-24 14:00:00,,Brentford,Nottingham Forest
-29001,False,92,82,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-24 14:00:00,,Burnley,Tottenham
-29002,False,78,80,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-24 14:00:00,,Crystal Palace,Chelsea
-29003,False,72,245,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-24 14:00:00,,Everton,Leeds
-29004,False,228,220,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-24 14:00:00,,Fulham,Brighton
-29005,False,88,229,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-24 14:00:00,,Manchester City,Wolverhampton Wanderers
-29006,False,86,71,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-24 14:00:00,,Newcastle United,Aston Villa
-29007,False,81,77,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-24 14:00:00,,West Ham,Sunderland
-29008,False,71,244,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-31 14:00:00,,Aston Villa,Brentford
-29009,False,80,81,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-31 14:00:00,,Chelsea,West Ham
-29010,False,220,72,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-31 14:00:00,,Brighton,Everton
-29011,False,77,92,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-31 14:00:00,,Sunderland,Burnley
-29012,False,89,228,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-31 14:00:00,,Manchester United,Fulham
-29013,False,249,78,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-31 14:00:00,,Nottingham Forest,Crystal Palace
-29014,False,87,86,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-31 14:00:00,,Liverpool,Newcastle United
-29015,False,245,83,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-31 14:00:00,,Leeds,Arsenal
-29016,False,82,88,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-31 14:00:00,,Tottenham,Manchester City
-29017,False,229,73,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-31 14:00:00,,Wolverhampton Wanderers,Bournemouth
-29018,False,73,71,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-07 14:00:00,,Bournemouth,Aston Villa
-29019,False,83,77,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-07 14:00:00,,Arsenal,Sunderland
-29020,False,220,78,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-07 14:00:00,,Brighton,Crystal Palace
-29021,False,92,81,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-07 14:00:00,,Burnley,West Ham
-29022,False,228,72,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-07 14:00:00,,Fulham,Everton
-29023,False,245,249,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-07 14:00:00,,Leeds,Nottingham Forest
-29024,False,87,88,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-07 14:00:00,,Liverpool,Manchester City
-29025,False,89,82,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-07 14:00:00,,Manchester United,Tottenham
-29026,False,86,244,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-07 14:00:00,,Newcastle United,Brentford
-29027,False,229,80,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-07 14:00:00,,Wolverhampton Wanderers,Chelsea
-29028,False,71,220,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-11 19:00:00,,Aston Villa,Brighton
-29029,False,244,83,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-11 19:00:00,,Brentford,Arsenal
-29030,False,80,245,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-11 19:00:00,,Chelsea,Leeds
-29031,False,78,92,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-11 19:00:00,,Crystal Palace,Burnley
-29032,False,72,73,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-11 19:00:00,,Everton,Bournemouth
-29033,False,88,228,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-11 19:00:00,,Manchester City,Fulham
-29034,False,249,229,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-11 19:00:00,,Nottingham Forest,Wolverhampton Wanderers
-29035,False,77,87,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-11 19:00:00,,Sunderland,Liverpool
-29036,False,82,86,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-11 19:00:00,,Tottenham,Newcastle United
-29037,False,81,89,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-11 19:00:00,,West Ham,Manchester United
-29038,False,71,245,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-21 14:00:00,,Aston Villa,Leeds
-29039,False,244,220,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-21 14:00:00,,Brentford,Brighton
-29040,False,80,92,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-21 14:00:00,,Chelsea,Burnley
-29041,False,78,229,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-21 14:00:00,,Crystal Palace,Wolverhampton Wanderers
-29042,False,72,89,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-21 14:00:00,,Everton,Manchester United
-29043,False,88,86,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-21 14:00:00,,Manchester City,Newcastle United
-29044,False,249,87,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-21 14:00:00,,Nottingham Forest,Liverpool
-29045,False,77,228,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-21 14:00:00,,Sunderland,Fulham
-29046,False,82,83,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-21 14:00:00,,Tottenham,Arsenal
-29047,False,81,73,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-21 14:00:00,,West Ham,Bournemouth
-29048,False,73,77,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-28 14:00:00,,Bournemouth,Sunderland
-29049,False,83,80,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-28 14:00:00,,Arsenal,Chelsea
-29050,False,220,249,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-28 14:00:00,,Brighton,Nottingham Forest
-29051,False,92,244,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-28 14:00:00,,Burnley,Brentford
-29052,False,228,82,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-28 14:00:00,,Fulham,Tottenham
-29053,False,245,88,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-28 14:00:00,,Leeds,Manchester City
-29054,False,87,81,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-28 14:00:00,,Liverpool,West Ham
-29055,False,89,78,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-28 14:00:00,,Manchester United,Crystal Palace
-29056,False,86,72,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-28 14:00:00,,Newcastle United,Everton
-29057,False,229,71,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-28 14:00:00,,Wolverhampton Wanderers,Aston Villa
-29058,False,73,244,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-04 19:00:00,,Bournemouth,Brentford
-29059,False,71,80,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-04 19:00:00,,Aston Villa,Chelsea
-29060,False,220,83,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-04 19:00:00,,Brighton,Arsenal
-29061,False,72,92,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-04 19:00:00,,Everton,Burnley
-29062,False,228,81,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-04 19:00:00,,Fulham,West Ham
-29063,False,245,77,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-04 19:00:00,,Leeds,Sunderland
-29064,False,88,249,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-04 19:00:00,,Manchester City,Nottingham Forest
-29065,False,86,89,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-04 19:00:00,,Newcastle United,Manchester United
-29066,False,82,78,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-04 19:00:00,,Tottenham,Crystal Palace
-29067,False,229,87,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-04 19:00:00,,Wolverhampton Wanderers,Liverpool
-29068,False,83,72,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-14 14:00:00,,Arsenal,Everton
-29069,False,244,229,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-14 14:00:00,,Brentford,Wolverhampton Wanderers
-29070,False,92,73,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-14 14:00:00,,Burnley,Bournemouth
-29071,False,80,86,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-14 14:00:00,,Chelsea,Newcastle United
-29072,False,78,245,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-14 14:00:00,,Crystal Palace,Leeds
-29073,False,87,82,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-14 14:00:00,,Liverpool,Tottenham
-29074,False,89,71,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-14 14:00:00,,Manchester United,Aston Villa
-29075,False,249,228,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-14 14:00:00,,Nottingham Forest,Fulham
-29076,False,77,220,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-14 14:00:00,,Sunderland,Brighton
-29077,False,81,88,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-14 14:00:00,,West Ham,Manchester City
-29078,False,73,89,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-21 14:00:00,,Bournemouth,Manchester United
-29079,False,71,81,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-21 14:00:00,,Aston Villa,West Ham
-29080,False,220,87,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-21 14:00:00,,Brighton,Liverpool
-29081,False,72,80,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-21 14:00:00,,Everton,Chelsea
-29082,False,228,92,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-21 14:00:00,,Fulham,Burnley
-29083,False,245,244,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-21 14:00:00,,Leeds,Brentford
-29084,False,88,78,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-21 14:00:00,,Manchester City,Crystal Palace
-29085,False,86,77,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-21 14:00:00,,Newcastle United,Sunderland
-29086,False,82,249,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-21 14:00:00,,Tottenham,Nottingham Forest
-29087,False,229,83,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-21 14:00:00,,Wolverhampton Wanderers,Arsenal
-29088,False,89,245,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-11 14:00:00,,Manchester United,Leeds
-29089,False,249,71,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-11 14:00:00,,Nottingham Forest,Aston Villa
-29090,False,77,82,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-11 14:00:00,,Sunderland,Tottenham
-29091,False,81,229,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-11 14:00:00,,West Ham,Wolverhampton Wanderers
-29092,False,83,73,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-11 14:00:00,,Arsenal,Bournemouth
-29093,False,244,72,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-11 14:00:00,,Brentford,Everton
-29094,False,92,220,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-11 14:00:00,,Burnley,Brighton
-29095,False,80,88,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-11 14:00:00,,Chelsea,Manchester City
-29096,False,78,86,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-11 14:00:00,,Crystal Palace,Newcastle United
-29097,False,87,228,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-11 14:00:00,,Liverpool,Fulham
-29098,False,71,77,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-18 14:00:00,,Aston Villa,Sunderland
-29099,False,244,228,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-18 14:00:00,,Brentford,Fulham
-29100,False,80,89,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-18 14:00:00,,Chelsea,Manchester United
-29101,False,78,81,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-18 14:00:00,,Crystal Palace,West Ham
-29102,False,72,87,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-18 14:00:00,,Everton,Liverpool
-29103,False,245,229,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-18 14:00:00,,Leeds,Wolverhampton Wanderers
-29104,False,88,83,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-18 14:00:00,,Manchester City,Arsenal
-29105,False,86,73,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-18 14:00:00,,Newcastle United,Bournemouth
-29106,False,249,92,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-18 14:00:00,,Nottingham Forest,Burnley
-29107,False,82,220,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-18 14:00:00,,Tottenham,Brighton
-29108,False,73,245,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-25 14:00:00,,Bournemouth,Leeds
-29109,False,83,86,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-25 14:00:00,,Arsenal,Newcastle United
-29110,False,220,80,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-25 14:00:00,,Brighton,Chelsea
-29111,False,92,88,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-25 14:00:00,,Burnley,Manchester City
-29112,False,228,71,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-25 14:00:00,,Fulham,Aston Villa
-29113,False,87,78,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-25 14:00:00,,Liverpool,Crystal Palace
-29114,False,89,244,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-25 14:00:00,,Manchester United,Brentford
-29115,False,77,249,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-25 14:00:00,,Sunderland,Nottingham Forest
-29116,False,81,72,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-25 14:00:00,,West Ham,Everton
-29117,False,229,82,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-25 14:00:00,,Wolverhampton Wanderers,Tottenham
-29118,False,73,78,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-02 14:00:00,,Bournemouth,Crystal Palace
-29119,False,83,228,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-02 14:00:00,,Arsenal,Fulham
-29120,False,71,82,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-02 14:00:00,,Aston Villa,Tottenham
-29121,False,244,81,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-02 14:00:00,,Brentford,West Ham
-29122,False,80,249,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-02 14:00:00,,Chelsea,Nottingham Forest
-29123,False,72,88,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-02 14:00:00,,Everton,Manchester City
-29124,False,245,92,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-02 14:00:00,,Leeds,Burnley
-29125,False,89,87,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-02 14:00:00,,Manchester United,Liverpool
-29126,False,86,220,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-02 14:00:00,,Newcastle United,Brighton
-29127,False,229,77,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-02 14:00:00,,Wolverhampton Wanderers,Sunderland
-29128,False,220,229,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-09 14:00:00,,Brighton,Wolverhampton Wanderers
-29129,False,92,71,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-09 14:00:00,,Burnley,Aston Villa
-29130,False,78,72,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-09 14:00:00,,Crystal Palace,Everton
-29131,False,228,73,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-09 14:00:00,,Fulham,Bournemouth
-29132,False,87,80,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-09 14:00:00,,Liverpool,Chelsea
-29133,False,88,244,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-09 14:00:00,,Manchester City,Brentford
-29134,False,249,86,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-09 14:00:00,,Nottingham Forest,Newcastle United
-29135,False,77,89,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-09 14:00:00,,Sunderland,Manchester United
-29136,False,82,245,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-09 14:00:00,,Tottenham,Leeds
-29137,False,81,83,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-09 14:00:00,,West Ham,Arsenal
-29138,False,73,88,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-17 14:00:00,,Bournemouth,Manchester City
-29139,False,83,92,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-17 14:00:00,,Arsenal,Burnley
-29140,False,71,87,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-17 14:00:00,,Aston Villa,Liverpool
-29141,False,244,78,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-17 14:00:00,,Brentford,Crystal Palace
-29142,False,80,82,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-17 14:00:00,,Chelsea,Tottenham
-29143,False,72,77,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-17 14:00:00,,Everton,Sunderland
-29144,False,245,220,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-17 14:00:00,,Leeds,Brighton
-29145,False,89,249,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-17 14:00:00,,Manchester United,Nottingham Forest
-29146,False,86,81,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-17 14:00:00,,Newcastle United,West Ham
-29147,False,229,228,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-17 14:00:00,,Wolverhampton Wanderers,Fulham
-29148,False,220,89,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-24 15:00:00,,Brighton,Manchester United
-29149,False,92,229,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-24 15:00:00,,Burnley,Wolverhampton Wanderers
-29150,False,78,83,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-24 15:00:00,,Crystal Palace,Arsenal
-29151,False,228,86,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-24 15:00:00,,Fulham,Newcastle United
-29152,False,87,244,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-24 15:00:00,,Liverpool,Brentford
-29153,False,88,71,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-24 15:00:00,,Manchester City,Aston Villa
-29154,False,249,73,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-24 15:00:00,,Nottingham Forest,Bournemouth
-29155,False,77,80,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-24 15:00:00,,Sunderland,Chelsea
-29156,False,82,72,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-24 15:00:00,,Tottenham,Everton
-29157,False,81,245,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-24 15:00:00,,West Ham,Leeds
+28865,False,89,220,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-25 16:30:00,,Manchester United,Brighton
+28861,False,244,87,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-25 19:00:00,,Brentford,Liverpool
+28858,False,73,249,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-26 13:00:00,,Bournemouth,Nottingham Forest
+28859,False,83,78,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-26 13:00:00,,Arsenal,Crystal Palace
+28860,False,71,88,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-26 13:00:00,,Aston Villa,Manchester City
+28867,False,229,92,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-26 13:00:00,,Wolverhampton Wanderers,Burnley
+28863,False,72,82,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-26 15:30:00,,Everton,Tottenham
+28868,False,220,245,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-01 13:00:00,,Brighton,Leeds
+28869,False,92,83,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-01 13:00:00,,Burnley,Arsenal
+28870,False,78,244,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-01 13:00:00,,Crystal Palace,Brentford
+28871,False,228,229,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-01 13:00:00,,Fulham,Wolverhampton Wanderers
+28872,False,87,71,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-01 13:00:00,,Liverpool,Aston Villa
+28873,False,88,73,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-01 13:00:00,,Manchester City,Bournemouth
+28874,False,249,89,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-01 13:00:00,,Nottingham Forest,Manchester United
+28875,False,77,72,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-01 13:00:00,,Sunderland,Everton
+28876,False,82,80,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-01 13:00:00,,Tottenham,Chelsea
+28877,False,81,86,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-01 13:00:00,,West Ham,Newcastle United
+28878,False,71,73,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-08 13:00:00,,Aston Villa,Bournemouth
+28879,False,244,86,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-08 13:00:00,,Brentford,Newcastle United
+28880,False,80,229,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-08 13:00:00,,Chelsea,Wolverhampton Wanderers
+28881,False,78,220,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-08 13:00:00,,Crystal Palace,Brighton
+28882,False,72,228,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-08 13:00:00,,Everton,Fulham
+28883,False,88,87,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-08 13:00:00,,Manchester City,Liverpool
+28884,False,249,245,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-08 13:00:00,,Nottingham Forest,Leeds
+28885,False,77,83,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-08 13:00:00,,Sunderland,Arsenal
+28886,False,82,89,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-08 13:00:00,,Tottenham,Manchester United
+28887,False,81,92,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-08 13:00:00,,West Ham,Burnley
+28888,False,73,81,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-22 13:00:00,,Bournemouth,West Ham
+28889,False,83,82,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-22 13:00:00,,Arsenal,Tottenham
+28890,False,220,244,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-22 13:00:00,,Brighton,Brentford
+28891,False,92,80,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-22 13:00:00,,Burnley,Chelsea
+28892,False,228,77,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-22 13:00:00,,Fulham,Sunderland
+28893,False,245,71,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-22 13:00:00,,Leeds,Aston Villa
+28894,False,87,249,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-22 13:00:00,,Liverpool,Nottingham Forest
+28895,False,89,72,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-22 13:00:00,,Manchester United,Everton
+28896,False,86,88,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-22 13:00:00,,Newcastle United,Manchester City
+28897,False,229,78,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-22 13:00:00,,Wolverhampton Wanderers,Crystal Palace
+28898,False,71,229,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-29 13:00:00,,Aston Villa,Wolverhampton Wanderers
+28899,False,244,92,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-29 13:00:00,,Brentford,Burnley
+28900,False,80,83,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-29 13:00:00,,Chelsea,Arsenal
+28901,False,78,89,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-29 13:00:00,,Crystal Palace,Manchester United
+28902,False,72,86,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-29 13:00:00,,Everton,Newcastle United
+28903,False,88,245,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-29 13:00:00,,Manchester City,Leeds
+28904,False,249,220,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-29 13:00:00,,Nottingham Forest,Brighton
+28905,False,77,73,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-29 13:00:00,,Sunderland,Bournemouth
+28906,False,82,228,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-29 13:00:00,,Tottenham,Fulham
+28907,False,81,87,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-29 13:00:00,,West Ham,Liverpool
+28908,False,73,72,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-03 18:00:00,,Bournemouth,Everton
+28909,False,83,244,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-03 18:00:00,,Arsenal,Brentford
+28910,False,220,71,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-03 18:00:00,,Brighton,Aston Villa
+28911,False,92,78,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-03 18:00:00,,Burnley,Crystal Palace
+28912,False,228,88,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-03 18:00:00,,Fulham,Manchester City
+28913,False,245,80,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-03 18:00:00,,Leeds,Chelsea
+28914,False,87,77,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-03 18:00:00,,Liverpool,Sunderland
+28915,False,89,81,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-03 18:00:00,,Manchester United,West Ham
+28916,False,86,82,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-03 18:00:00,,Newcastle United,Tottenham
+28917,False,229,249,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-03 18:00:00,,Wolverhampton Wanderers,Nottingham Forest
+28918,False,73,80,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-06 13:00:00,,Bournemouth,Chelsea
+28919,False,71,83,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-06 13:00:00,,Aston Villa,Arsenal
+28920,False,220,81,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-06 13:00:00,,Brighton,West Ham
+28921,False,72,249,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-06 13:00:00,,Everton,Nottingham Forest
+28922,False,228,78,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-06 13:00:00,,Fulham,Crystal Palace
+28923,False,245,87,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-06 13:00:00,,Leeds,Liverpool
+28924,False,88,77,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-06 13:00:00,,Manchester City,Sunderland
+28925,False,86,92,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-06 13:00:00,,Newcastle United,Burnley
+28926,False,82,244,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-06 13:00:00,,Tottenham,Brentford
+28927,False,229,89,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-06 13:00:00,,Wolverhampton Wanderers,Manchester United
+28928,False,83,229,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-13 13:00:00,,Arsenal,Wolverhampton Wanderers
+28929,False,244,245,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-13 13:00:00,,Brentford,Leeds
+28930,False,92,228,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-13 13:00:00,,Burnley,Fulham
+28931,False,80,72,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-13 13:00:00,,Chelsea,Everton
+28932,False,78,88,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-13 13:00:00,,Crystal Palace,Manchester City
+28933,False,87,220,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-13 13:00:00,,Liverpool,Brighton
+28934,False,89,73,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-13 13:00:00,,Manchester United,Bournemouth
+28935,False,249,82,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-13 13:00:00,,Nottingham Forest,Tottenham
+28936,False,77,86,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-13 13:00:00,,Sunderland,Newcastle United
+28937,False,81,71,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-13 13:00:00,,West Ham,Aston Villa
+28938,False,73,92,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-20 13:00:00,,Bournemouth,Burnley
+28939,False,71,89,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-20 13:00:00,,Aston Villa,Manchester United
+28940,False,220,77,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-20 13:00:00,,Brighton,Sunderland
+28941,False,72,83,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-20 13:00:00,,Everton,Arsenal
+28942,False,228,249,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-20 13:00:00,,Fulham,Nottingham Forest
+28943,False,245,78,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-20 13:00:00,,Leeds,Crystal Palace
+28944,False,88,81,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-20 13:00:00,,Manchester City,West Ham
+28945,False,86,80,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-20 13:00:00,,Newcastle United,Chelsea
+28946,False,82,87,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-20 13:00:00,,Tottenham,Liverpool
+28947,False,229,244,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-20 13:00:00,,Wolverhampton Wanderers,Brentford
+28948,False,83,220,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-27 13:00:00,,Arsenal,Brighton
+28949,False,244,73,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-27 13:00:00,,Brentford,Bournemouth
+28950,False,92,72,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-27 13:00:00,,Burnley,Everton
+28951,False,80,71,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-27 13:00:00,,Chelsea,Aston Villa
+28952,False,78,82,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-27 13:00:00,,Crystal Palace,Tottenham
+28953,False,87,229,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-27 13:00:00,,Liverpool,Wolverhampton Wanderers
+28954,False,89,86,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-27 13:00:00,,Manchester United,Newcastle United
+28955,False,249,88,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-27 13:00:00,,Nottingham Forest,Manchester City
+28956,False,77,245,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-27 13:00:00,,Sunderland,Leeds
+28957,False,81,228,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-27 13:00:00,,West Ham,Fulham
+28958,False,83,71,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-30 18:00:00,,Arsenal,Aston Villa
+28959,False,244,82,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-30 18:00:00,,Brentford,Tottenham
+28960,False,92,86,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-30 18:00:00,,Burnley,Newcastle United
+28961,False,80,73,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-30 18:00:00,,Chelsea,Bournemouth
+28962,False,78,228,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-30 18:00:00,,Crystal Palace,Fulham
+28963,False,87,245,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-30 18:00:00,,Liverpool,Leeds
+28964,False,89,229,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-30 18:00:00,,Manchester United,Wolverhampton Wanderers
+28965,False,249,72,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-30 18:00:00,,Nottingham Forest,Everton
+28966,False,77,88,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-30 18:00:00,,Sunderland,Manchester City
+28967,False,81,220,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-30 18:00:00,,West Ham,Brighton
+28968,False,86,78,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-03 13:00:00,,Newcastle United,Crystal Palace
+28969,False,82,77,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-03 13:00:00,,Tottenham,Sunderland
+28970,False,229,81,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-03 13:00:00,,Wolverhampton Wanderers,West Ham
+28971,False,73,83,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-03 13:00:00,,Bournemouth,Arsenal
+28972,False,71,249,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-03 13:00:00,,Aston Villa,Nottingham Forest
+28973,False,220,92,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-03 13:00:00,,Brighton,Burnley
+28974,False,72,244,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-03 13:00:00,,Everton,Brentford
+28975,False,228,87,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-03 13:00:00,,Fulham,Liverpool
+28976,False,245,89,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-03 13:00:00,,Leeds,Manchester United
+28977,False,88,80,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-03 13:00:00,,Manchester City,Chelsea
+28978,False,72,229,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-07 18:00:00,,Everton,Wolverhampton Wanderers
+28979,False,73,82,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-07 18:00:00,,Bournemouth,Tottenham
+28980,False,83,87,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-07 18:00:00,,Arsenal,Liverpool
+28981,False,244,77,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-07 18:00:00,,Brentford,Sunderland
+28982,False,92,89,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-07 18:00:00,,Burnley,Manchester United
+28983,False,78,71,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-07 18:00:00,,Crystal Palace,Aston Villa
+28984,False,228,80,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-07 18:00:00,,Fulham,Chelsea
+28985,False,88,220,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-07 18:00:00,,Manchester City,Brighton
+28986,False,86,245,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-07 18:00:00,,Newcastle United,Leeds
+28987,False,81,249,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-07 18:00:00,,West Ham,Nottingham Forest
+28988,False,71,72,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-17 13:00:00,,Aston Villa,Everton
+28989,False,220,73,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-17 13:00:00,,Brighton,Bournemouth
+28990,False,80,244,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-17 13:00:00,,Chelsea,Brentford
+28991,False,245,228,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-17 13:00:00,,Leeds,Fulham
+28992,False,87,92,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-17 13:00:00,,Liverpool,Burnley
+28993,False,89,88,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-17 13:00:00,,Manchester United,Manchester City
+28994,False,249,83,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-17 13:00:00,,Nottingham Forest,Arsenal
+28995,False,77,78,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-17 13:00:00,,Sunderland,Crystal Palace
+28996,False,82,81,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-17 13:00:00,,Tottenham,West Ham
+28997,False,229,86,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-17 13:00:00,,Wolverhampton Wanderers,Newcastle United
+28998,False,73,87,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-24 13:00:00,,Bournemouth,Liverpool
+28999,False,83,89,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-24 13:00:00,,Arsenal,Manchester United
+29000,False,244,249,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-24 13:00:00,,Brentford,Nottingham Forest
+29001,False,92,82,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-24 13:00:00,,Burnley,Tottenham
+29002,False,78,80,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-24 13:00:00,,Crystal Palace,Chelsea
+29003,False,72,245,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-24 13:00:00,,Everton,Leeds
+29004,False,228,220,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-24 13:00:00,,Fulham,Brighton
+29005,False,88,229,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-24 13:00:00,,Manchester City,Wolverhampton Wanderers
+29006,False,86,71,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-24 13:00:00,,Newcastle United,Aston Villa
+29007,False,81,77,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-24 13:00:00,,West Ham,Sunderland
+29008,False,71,244,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-31 13:00:00,,Aston Villa,Brentford
+29009,False,80,81,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-31 13:00:00,,Chelsea,West Ham
+29010,False,220,72,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-31 13:00:00,,Brighton,Everton
+29011,False,77,92,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-31 13:00:00,,Sunderland,Burnley
+29012,False,89,228,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-31 13:00:00,,Manchester United,Fulham
+29013,False,249,78,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-31 13:00:00,,Nottingham Forest,Crystal Palace
+29014,False,87,86,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-31 13:00:00,,Liverpool,Newcastle United
+29015,False,245,83,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-31 13:00:00,,Leeds,Arsenal
+29016,False,82,88,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-31 13:00:00,,Tottenham,Manchester City
+29017,False,229,73,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-31 13:00:00,,Wolverhampton Wanderers,Bournemouth
+29018,False,73,71,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-07 13:00:00,,Bournemouth,Aston Villa
+29019,False,83,77,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-07 13:00:00,,Arsenal,Sunderland
+29020,False,220,78,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-07 13:00:00,,Brighton,Crystal Palace
+29021,False,92,81,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-07 13:00:00,,Burnley,West Ham
+29022,False,228,72,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-07 13:00:00,,Fulham,Everton
+29023,False,245,249,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-07 13:00:00,,Leeds,Nottingham Forest
+29024,False,87,88,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-07 13:00:00,,Liverpool,Manchester City
+29025,False,89,82,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-07 13:00:00,,Manchester United,Tottenham
+29026,False,86,244,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-07 13:00:00,,Newcastle United,Brentford
+29027,False,229,80,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-07 13:00:00,,Wolverhampton Wanderers,Chelsea
+29028,False,71,220,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-11 18:00:00,,Aston Villa,Brighton
+29029,False,244,83,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-11 18:00:00,,Brentford,Arsenal
+29030,False,80,245,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-11 18:00:00,,Chelsea,Leeds
+29031,False,78,92,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-11 18:00:00,,Crystal Palace,Burnley
+29032,False,72,73,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-11 18:00:00,,Everton,Bournemouth
+29033,False,88,228,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-11 18:00:00,,Manchester City,Fulham
+29034,False,249,229,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-11 18:00:00,,Nottingham Forest,Wolverhampton Wanderers
+29035,False,77,87,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-11 18:00:00,,Sunderland,Liverpool
+29036,False,82,86,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-11 18:00:00,,Tottenham,Newcastle United
+29037,False,81,89,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-11 18:00:00,,West Ham,Manchester United
+29038,False,71,245,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-21 13:00:00,,Aston Villa,Leeds
+29039,False,244,220,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-21 13:00:00,,Brentford,Brighton
+29040,False,80,92,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-21 13:00:00,,Chelsea,Burnley
+29041,False,78,229,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-21 13:00:00,,Crystal Palace,Wolverhampton Wanderers
+29042,False,72,89,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-21 13:00:00,,Everton,Manchester United
+29043,False,88,86,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-21 13:00:00,,Manchester City,Newcastle United
+29044,False,249,87,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-21 13:00:00,,Nottingham Forest,Liverpool
+29045,False,77,228,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-21 13:00:00,,Sunderland,Fulham
+29046,False,82,83,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-21 13:00:00,,Tottenham,Arsenal
+29047,False,81,73,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-21 13:00:00,,West Ham,Bournemouth
+29048,False,73,77,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-28 13:00:00,,Bournemouth,Sunderland
+29049,False,83,80,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-28 13:00:00,,Arsenal,Chelsea
+29050,False,220,249,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-28 13:00:00,,Brighton,Nottingham Forest
+29051,False,92,244,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-28 13:00:00,,Burnley,Brentford
+29052,False,228,82,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-28 13:00:00,,Fulham,Tottenham
+29053,False,245,88,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-28 13:00:00,,Leeds,Manchester City
+29054,False,87,81,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-28 13:00:00,,Liverpool,West Ham
+29055,False,89,78,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-28 13:00:00,,Manchester United,Crystal Palace
+29056,False,86,72,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-28 13:00:00,,Newcastle United,Everton
+29057,False,229,71,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-28 13:00:00,,Wolverhampton Wanderers,Aston Villa
+29058,False,73,244,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-04 18:00:00,,Bournemouth,Brentford
+29059,False,71,80,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-04 18:00:00,,Aston Villa,Chelsea
+29060,False,220,83,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-04 18:00:00,,Brighton,Arsenal
+29061,False,72,92,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-04 18:00:00,,Everton,Burnley
+29062,False,228,81,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-04 18:00:00,,Fulham,West Ham
+29063,False,245,77,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-04 18:00:00,,Leeds,Sunderland
+29064,False,88,249,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-04 18:00:00,,Manchester City,Nottingham Forest
+29065,False,86,89,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-04 18:00:00,,Newcastle United,Manchester United
+29066,False,82,78,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-04 18:00:00,,Tottenham,Crystal Palace
+29067,False,229,87,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-04 18:00:00,,Wolverhampton Wanderers,Liverpool
+29068,False,83,72,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-14 13:00:00,,Arsenal,Everton
+29069,False,244,229,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-14 13:00:00,,Brentford,Wolverhampton Wanderers
+29070,False,92,73,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-14 13:00:00,,Burnley,Bournemouth
+29071,False,80,86,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-14 13:00:00,,Chelsea,Newcastle United
+29072,False,78,245,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-14 13:00:00,,Crystal Palace,Leeds
+29073,False,87,82,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-14 13:00:00,,Liverpool,Tottenham
+29074,False,89,71,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-14 13:00:00,,Manchester United,Aston Villa
+29075,False,249,228,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-14 13:00:00,,Nottingham Forest,Fulham
+29076,False,77,220,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-14 13:00:00,,Sunderland,Brighton
+29077,False,81,88,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-14 13:00:00,,West Ham,Manchester City
+29078,False,73,89,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-21 13:00:00,,Bournemouth,Manchester United
+29079,False,71,81,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-21 13:00:00,,Aston Villa,West Ham
+29080,False,220,87,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-21 13:00:00,,Brighton,Liverpool
+29081,False,72,80,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-21 13:00:00,,Everton,Chelsea
+29082,False,228,92,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-21 13:00:00,,Fulham,Burnley
+29083,False,245,244,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-21 13:00:00,,Leeds,Brentford
+29084,False,88,78,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-21 13:00:00,,Manchester City,Crystal Palace
+29085,False,86,77,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-21 13:00:00,,Newcastle United,Sunderland
+29086,False,82,249,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-21 13:00:00,,Tottenham,Nottingham Forest
+29087,False,229,83,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-21 13:00:00,,Wolverhampton Wanderers,Arsenal
+29088,False,89,245,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-11 13:00:00,,Manchester United,Leeds
+29089,False,249,71,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-11 13:00:00,,Nottingham Forest,Aston Villa
+29090,False,77,82,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-11 13:00:00,,Sunderland,Tottenham
+29091,False,81,229,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-11 13:00:00,,West Ham,Wolverhampton Wanderers
+29092,False,83,73,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-11 13:00:00,,Arsenal,Bournemouth
+29093,False,244,72,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-11 13:00:00,,Brentford,Everton
+29094,False,92,220,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-11 13:00:00,,Burnley,Brighton
+29095,False,80,88,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-11 13:00:00,,Chelsea,Manchester City
+29096,False,78,86,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-11 13:00:00,,Crystal Palace,Newcastle United
+29097,False,87,228,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-11 13:00:00,,Liverpool,Fulham
+29098,False,71,77,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-18 13:00:00,,Aston Villa,Sunderland
+29099,False,244,228,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-18 13:00:00,,Brentford,Fulham
+29100,False,80,89,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-18 13:00:00,,Chelsea,Manchester United
+29101,False,78,81,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-18 13:00:00,,Crystal Palace,West Ham
+29102,False,72,87,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-18 13:00:00,,Everton,Liverpool
+29103,False,245,229,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-18 13:00:00,,Leeds,Wolverhampton Wanderers
+29104,False,88,83,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-18 13:00:00,,Manchester City,Arsenal
+29105,False,86,73,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-18 13:00:00,,Newcastle United,Bournemouth
+29106,False,249,92,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-18 13:00:00,,Nottingham Forest,Burnley
+29107,False,82,220,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-18 13:00:00,,Tottenham,Brighton
+29108,False,73,245,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-25 13:00:00,,Bournemouth,Leeds
+29109,False,83,86,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-25 13:00:00,,Arsenal,Newcastle United
+29110,False,220,80,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-25 13:00:00,,Brighton,Chelsea
+29111,False,92,88,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-25 13:00:00,,Burnley,Manchester City
+29112,False,228,71,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-25 13:00:00,,Fulham,Aston Villa
+29113,False,87,78,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-25 13:00:00,,Liverpool,Crystal Palace
+29114,False,89,244,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-25 13:00:00,,Manchester United,Brentford
+29115,False,77,249,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-25 13:00:00,,Sunderland,Nottingham Forest
+29116,False,81,72,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-25 13:00:00,,West Ham,Everton
+29117,False,229,82,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-25 13:00:00,,Wolverhampton Wanderers,Tottenham
+29118,False,73,78,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-02 13:00:00,,Bournemouth,Crystal Palace
+29119,False,83,228,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-02 13:00:00,,Arsenal,Fulham
+29120,False,71,82,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-02 13:00:00,,Aston Villa,Tottenham
+29121,False,244,81,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-02 13:00:00,,Brentford,West Ham
+29122,False,80,249,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-02 13:00:00,,Chelsea,Nottingham Forest
+29123,False,72,88,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-02 13:00:00,,Everton,Manchester City
+29124,False,245,92,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-02 13:00:00,,Leeds,Burnley
+29125,False,89,87,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-02 13:00:00,,Manchester United,Liverpool
+29126,False,86,220,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-02 13:00:00,,Newcastle United,Brighton
+29127,False,229,77,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-02 13:00:00,,Wolverhampton Wanderers,Sunderland
+29128,False,220,229,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-09 13:00:00,,Brighton,Wolverhampton Wanderers
+29129,False,92,71,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-09 13:00:00,,Burnley,Aston Villa
+29130,False,78,72,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-09 13:00:00,,Crystal Palace,Everton
+29131,False,228,73,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-09 13:00:00,,Fulham,Bournemouth
+29132,False,87,80,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-09 13:00:00,,Liverpool,Chelsea
+29133,False,88,244,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-09 13:00:00,,Manchester City,Brentford
+29134,False,249,86,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-09 13:00:00,,Nottingham Forest,Newcastle United
+29135,False,77,89,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-09 13:00:00,,Sunderland,Manchester United
+29136,False,82,245,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-09 13:00:00,,Tottenham,Leeds
+29137,False,81,83,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-09 13:00:00,,West Ham,Arsenal
+29138,False,73,88,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-17 13:00:00,,Bournemouth,Manchester City
+29139,False,83,92,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-17 13:00:00,,Arsenal,Burnley
+29140,False,71,87,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-17 13:00:00,,Aston Villa,Liverpool
+29141,False,244,78,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-17 13:00:00,,Brentford,Crystal Palace
+29142,False,80,82,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-17 13:00:00,,Chelsea,Tottenham
+29143,False,72,77,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-17 13:00:00,,Everton,Sunderland
+29144,False,245,220,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-17 13:00:00,,Leeds,Brighton
+29145,False,89,249,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-17 13:00:00,,Manchester United,Nottingham Forest
+29146,False,86,81,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-17 13:00:00,,Newcastle United,West Ham
+29147,False,229,228,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-17 13:00:00,,Wolverhampton Wanderers,Fulham
+29148,False,220,89,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-24 14:00:00,,Brighton,Manchester United
+29149,False,92,229,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-24 14:00:00,,Burnley,Wolverhampton Wanderers
+29150,False,78,83,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-24 14:00:00,,Crystal Palace,Arsenal
+29151,False,228,86,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-24 14:00:00,,Fulham,Newcastle United
+29152,False,87,244,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-24 14:00:00,,Liverpool,Brentford
+29153,False,88,71,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-24 14:00:00,,Manchester City,Aston Villa
+29154,False,249,73,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-24 14:00:00,,Nottingham Forest,Bournemouth
+29155,False,77,80,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-24 14:00:00,,Sunderland,Chelsea
+29156,False,82,72,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-24 14:00:00,,Tottenham,Everton
+29157,False,81,245,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-24 14:00:00,,West Ham,Leeds
