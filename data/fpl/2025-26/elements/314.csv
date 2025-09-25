@@ -1,6 +1,0 @@
-element,fixture,opponent_team,total_points,was_home,kickoff_time,team_h_score,team_a_score,round,modified,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,clearances_blocks_interceptions,recoveries,tackles,defensive_contribution,starts,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded,value,transfers_balance,selected,transfers_in,transfers_out
-314,3,6,3,False,2025-08-16T14:00:00Z,1,1,1,False,90,0,0,0,1,0,0,0,0,0,3,0,15,23.6,0.0,0.0,2.4,1,10,0,0,1,0.00,0.00,0.00,1.48,50,0,155496,0,0
-314,17,14,3,True,2025-08-24T15:30:00Z,1,1,2,False,90,0,0,0,1,0,0,0,0,0,3,0,13,23.4,0.0,0.0,2.3,2,7,0,0,1,0.00,0.00,0.00,1.63,50,-11411,166214,4076,15487
-314,23,7,2,False,2025-08-30T11:30:00Z,2,0,3,False,90,0,0,0,2,0,0,0,0,0,4,0,12,29.2,0.0,0.0,2.9,0,13,1,0,1,0.00,0.00,0.00,2.35,50,-5794,170758,7796,13590
-314,37,11,8,True,2025-09-13T14:00:00Z,1,0,4,False,90,0,0,1,0,0,0,0,0,0,3,1,28,24.0,0.0,0.0,2.4,1,7,0,0,1,0.00,0.00,0.00,0.79,50,5749,194395,20008,14259
-314,45,5,1,True,2025-09-20T19:00:00Z,3,1,5,False,90,0,0,0,1,0,0,0,1,0,2,0,9,19.2,0.0,0.0,1.9,1,6,0,0,1,0.00,0.00,0.00,0.60,50,1409,193062,9326,7917
