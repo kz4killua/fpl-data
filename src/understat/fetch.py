@@ -13,23 +13,23 @@ def fetch_player_matches(player_id: int) -> dict:
     return extract_data(response.text, "matchesData")
 
 
-def fetch_league_dates(league: str, year: int) -> dict:
+def fetch_league_dates(league: str, season: int) -> dict:
     """Fetches fixtures for a specific league."""
-    response = requests.get(f"{BASE_URL}/league/{league}/{year}/")
+    response = requests.get(f"{BASE_URL}/league/{league}/{season}/")
     response.raise_for_status()
     return extract_data(response.text, "datesData")
 
 
-def fetch_league_teams(league: str, year: int) -> dict:
+def fetch_league_teams(league: str, season: int) -> dict:
     """Fetches team information for a specific league."""
-    response = requests.get(f"{BASE_URL}/league/{league}/{year}/")
+    response = requests.get(f"{BASE_URL}/league/{league}/{season}/")
     response.raise_for_status()
     return extract_data(response.text, "teamsData")
 
 
-def fetch_league_players(league: str, year: int) -> dict:
+def fetch_league_players(league: str, season: int) -> dict:
     """Fetches player information for a specific league."""
-    response = requests.get(f"{BASE_URL}/league/{league}/{year}/")
+    response = requests.get(f"{BASE_URL}/league/{league}/{season}/")
     response.raise_for_status()
     return extract_data(response.text, "playersData")
 

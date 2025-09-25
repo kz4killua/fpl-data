@@ -1,8 +1,8 @@
 from src.utils import DATA_DIR, read_compressed_json, read_csv
 
 
-def read_odds(season: str, gameweek: int) -> dict:
-    path = DATA_DIR / f"theoddsapi/{season[:4]}/{gameweek}.json.xz"
+def read_odds(season: int, gameweek: int) -> dict:
+    path = DATA_DIR / f"theoddsapi/{season}/{gameweek}.json.xz"
     return read_compressed_json(path)
 
 

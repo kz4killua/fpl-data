@@ -37,7 +37,7 @@ def update():
     current_gameweek = get_current_gameweek(static_events)
     next_gameweek = get_next_gameweek(static_events)
 
-    if current_season == "2025-26":
+    if current_season == 2025:
         overall_league_id = 314
     else:
         raise ValueError("Overall league ID for current season is not set.")
@@ -59,9 +59,8 @@ def update():
     update_footballdata(current_season, bootstrap_static)
 
 
-def get_current_season(static_events: list[dict]) -> str:
-    year = datetime.fromisoformat(static_events[0]["deadline_time"]).year
-    return f"{year}-{str(year + 1)[-2:]}"
+def get_current_season(static_events: list[dict]) -> int:
+    return datetime.fromisoformat(static_events[0]["deadline_time"]).year
 
 
 def get_current_gameweek(static_events: list[dict]) -> int | None:

@@ -4,19 +4,19 @@ from src.utils import DATA_DIR, append_csv, map_closest_names, write_compressed_
 
 
 def update_theoddsapi(
-    api_key: str, current_season: str, next_gameweek: int, bootstrap_static: dict
+    api_key: str, current_season: int, next_gameweek: int, bootstrap_static: dict
 ):
     update_odds(api_key, current_season, next_gameweek)
     update_team_ids(bootstrap_static, current_season, next_gameweek)
 
 
-def update_odds(api_key: str, current_season: str, next_gameweek: int):
+def update_odds(api_key: str, current_season: int, next_gameweek: int):
     data = fetch_odds(api_key, "soccer_epl", "uk", "h2h")
-    path = DATA_DIR / f"theoddsapi/{current_season[:4]}/{next_gameweek}.json.xz"
+    path = DATA_DIR / f"theoddsapi/{current_season}/{next_gameweek}.json.xz"
     write_compressed_json(data, path)
 
 
-def update_team_ids(bootstrap_static: dict, current_season: str, next_gameweek: int):
+def update_team_ids(bootstrap_static: dict, current_season: int, next_gameweek: int):
     fpl_teams = bootstrap_static["teams"]
 
     # List all team names from theoddsapi

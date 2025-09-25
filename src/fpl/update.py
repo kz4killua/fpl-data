@@ -10,7 +10,7 @@ from src.utils import DATA_DIR, write_compressed_json, write_csv
 
 
 def update_fpl(
-    current_season: str,
+    current_season: int,
     current_gameweek: int | None,
     next_gameweek: int | None,
     overall_league_id: int,
@@ -24,7 +24,7 @@ def update_fpl(
 
 
 def update_bootstrap_static(
-    current_season: str, next_gameweek: int | None, bootstrap_static: dict
+    current_season: int, next_gameweek: int | None, bootstrap_static: dict
 ):
     if next_gameweek:
         path = DATA_DIR / f"fpl/{current_season}/static/{next_gameweek}.json.xz"
@@ -33,13 +33,13 @@ def update_bootstrap_static(
     write_compressed_json(bootstrap_static, path)
 
 
-def update_fixtures(current_season: str):
+def update_fixtures(current_season: int):
     fixtures = fetch_fixtures()
     path = DATA_DIR / f"fpl/{current_season}/fixtures.csv"
     write_csv(fixtures, path)
 
 
-def update_elements(current_season: str, bootstrap_static: dict):
+def update_elements(current_season: int, bootstrap_static: dict):
     static_elements = bootstrap_static["elements"]
     element_ids = [element["id"] for element in static_elements]
     for element_id in tqdm(element_ids, desc="Updating elements"):
@@ -50,7 +50,7 @@ def update_elements(current_season: str, bootstrap_static: dict):
 
 
 def update_top_10k(
-    current_season: str,
+    current_season: int,
     current_gameweek: int | None,
     overall_league_id: int,
     event_status: dict,

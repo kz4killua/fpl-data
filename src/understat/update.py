@@ -11,32 +11,30 @@ from src.understat.read import read_player_ids, read_team_ids
 from src.utils import DATA_DIR, append_csv, map_closest_names, write_csv
 
 
-def update_understat(current_season: str, bootstrap_static: dict):
-    current_year = int(current_season.split("-")[0])
-
+def update_understat(current_season: int, bootstrap_static: dict):
     # Update fixtures (dates)
-    dates = fetch_league_dates("EPL", current_year)
+    dates = fetch_league_dates("EPL", current_season)
     for date in dates:
         date["h_title"] = date["h"]["title"]
         date["a_title"] = date["a"]["title"]
         date["h"] = date["h"]["id"]
         date["a"] = date["a"]["id"]
-    path = DATA_DIR / f"understat/season/{current_year}/dates.csv"
+    path = DATA_DIR / f"understat/season/{current_season}/dates.csv"
     write_csv(dates, path)
 
     # Update teams
-    teams = fetch_league_teams("EPL", current_year)
+    teams = fetch_league_teams("EPL", current_season)
     for team in tqdm(teams.values(), desc="Updating understat teams"):
         team_id = int(team["id"])
         history = team["history"]
         for item in history:
             item["id"] = team["id"]
             item["title"] = team["title"]
-        path = DATA_DIR / f"understat/season/{current_year}/teams/{team_id}.csv"
+        path = DATA_DIR / f"understat/season/{current_season}/teams/{team_id}.csv"
         write_csv(history, path)
 
     # Update matches
-    players = fetch_league_players("EPL", current_year)
+    players = fetch_league_players("EPL", current_season)
     for player in tqdm(players, desc="Updating understat players"):
         player_id = int(player["id"])
         player_matches = fetch_player_matches(player_id)
@@ -46,7 +44,7 @@ def update_understat(current_season: str, bootstrap_static: dict):
     # Update player, team, and fixture IDs
     update_player_ids(players, bootstrap_static)
     update_team_ids(teams, bootstrap_static)
-    update_fixture_ids(current_season, current_year, dates, bootstrap_static)
+    update_fixture_ids(current_season, current_season, dates, bootstrap_static)
 
 
 def update_player_ids(uds_players: dict, bootstrap_static: dict):
@@ -118,7 +116,7 @@ def update_team_ids(uds_teams: dict, bootstrap_static: dict):
 
 
 def update_fixture_ids(
-    current_season: str, current_year: int, uds_fixtures: list, bootstrap_static: dict
+    current_season: int, current_year: int, uds_fixtures: list, bootstrap_static: dict
 ):
     # Load fixture and team data
     team_ids = read_team_ids()

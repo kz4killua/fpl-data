@@ -3,18 +3,18 @@ from src.footballdata.read import read_historical_data, read_team_ids
 from src.utils import DATA_DIR, append_csv, map_closest_names, write_csv
 
 
-def update_footballdata(current_season: str, bootstrap_static: dict):
+def update_footballdata(current_season: int, bootstrap_static: dict):
     update_historical_data(current_season)
     update_team_ids(bootstrap_static, current_season)
 
 
-def update_historical_data(current_season: str):
+def update_historical_data(current_season: int):
     data = fetch_historical_data(current_season)
-    path = DATA_DIR / f"footballdata/data/{current_season[:4]}.csv"
+    path = DATA_DIR / f"footballdata/data/{current_season}.csv"
     write_csv(data, path)
 
 
-def update_team_ids(bootstrap_static: dict, current_season: str):
+def update_team_ids(bootstrap_static: dict, current_season: int):
     fpl_teams = bootstrap_static["teams"]
 
     # List all team names from footballdata historical data
