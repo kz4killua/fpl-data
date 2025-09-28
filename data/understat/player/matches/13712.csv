@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Nottingham Forest,Sunderland,0,1,2025-09-27,28834,2025,740887,0.18337297439575195,0,2,0,0,0.26571890711784363,0.08234591782093048
 0,0,0,90,GK,Sunderland,Aston Villa,1,1,2025-09-21,28826,2025,739246,0,0,0,0,0,0,0
 0,0,0,90,GK,Crystal Palace,Sunderland,0,0,2025-09-13,28811,2025,736948,0,0,0,0,0,0.10243286937475204,0.10243286937475204
 0,0,0,90,GK,Sunderland,Brentford,2,1,2025-08-30,28801,2025,735068,0,0,0,0,0,0,0
