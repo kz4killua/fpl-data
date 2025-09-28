@@ -11,7 +11,7 @@ def update_theoddsapi(
 
 
 def update_odds(api_key: str, current_season: int, next_gameweek: int):
-    data = fetch_odds(api_key, "soccer_epl", "uk", "h2h")
+    data = fetch_odds(api_key)
     path = DATA_DIR / f"theoddsapi/{current_season}/{next_gameweek}.json.xz"
     write_compressed_json(data, path)
 
