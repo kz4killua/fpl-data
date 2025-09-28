@@ -56,7 +56,13 @@ def update_top_10k(
     event_status: dict,
 ):
     # Retrieve standings only once and after each gameweek
-    if (current_gameweek is None) or (event_status["leagues"] != "Updated"):
+    if current_gameweek is None:
+        return
+    if not all(
+        (item["bonus_added"] and item["points"]) for item in event_status["events"]
+    ):
+        return
+    if event_status["leagues"] != "Updated":
         return
     path = DATA_DIR / f"fpl/{current_season}/top_10k/{current_gameweek}.json.xz"
     if path.exists():
