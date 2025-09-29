@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,2,0.04223787784576416,90,DC,Newcastle United,Arsenal,1,2,2025-09-28,28836,2025,741564,0,0,0,0,0.04223787784576416,0,0
 0,0,0,88,DC,Bournemouth,Newcastle United,0,0,2025-09-21,28823,2025,739232,0,0,0,0,0,0.09077014029026031,0.09077014029026031
 0,0,0,4,Sub,Newcastle United,Liverpool,2,3,2025-08-25,28797,2025,734526,0,0,0,0,0,0,0
 0,0,0,77,Sub,AC Milan,Bologna,3,1,2025-05-09,27717,2024,725435,0,0,0,0,0,0.06797097623348236,0.06797097623348236

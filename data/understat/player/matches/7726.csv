@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Aston Villa,Fulham,3,1,2025-09-28,28831,2025,741316,0,0,0,0,0,0,0
 0,0,0,90,DC,Sunderland,Aston Villa,1,1,2025-09-21,28826,2025,739265,0,0,0,0,0,0.1115894690155983,0.1115894690155983
 0,0,0,90,DC,Everton,Aston Villa,0,0,2025-09-13,28812,2025,736978,0,0,0,0,0,0,0
 0,0,0,90,DC,Aston Villa,Crystal Palace,0,3,2025-08-31,28807,2025,736181,0.04962930828332901,0,1,0,0,0.7131771445274353,0.6635478734970093
