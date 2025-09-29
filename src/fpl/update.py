@@ -59,7 +59,7 @@ def update_top_10k(
     if current_gameweek is None:
         return
     if not all(
-        (item["bonus_added"] and item["points"]) for item in event_status["events"]
+        (item["bonus_added"] and item["points"]) for item in event_status["status"]
     ):
         return
     if event_status["leagues"] != "Updated":
