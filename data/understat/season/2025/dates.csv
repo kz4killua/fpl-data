@@ -59,7 +59,7 @@ id,isResult,h,a,goals,xG,datetime,forecast,h_title,a_title
 28831,True,71,228,"{'h': '3', 'a': '1'}","{'h': '1.36575', 'a': '0.952612'}",2025-09-28 13:00:00,"{'w': '0.4792', 'd': '0.293', 'l': '0.2278'}",Aston Villa,Fulham
 28836,True,86,83,"{'h': '1', 'a': '2'}","{'h': '0.739851', 'a': '2.07048'}",2025-09-28 15:30:00,"{'w': '0.0956', 'd': '0.1872', 'l': '0.7172'}",Newcastle United,Arsenal
 28837,True,72,81,"{'h': '1', 'a': '1'}","{'h': '0.909703', 'a': '0.775766'}",2025-09-29 19:00:00,"{'w': '0.3639', 'd': '0.3478', 'l': '0.2883'}",Everton,West Ham
-28838,False,73,228,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-03 19:00:00,,Bournemouth,Fulham
+28838,True,73,228,"{'h': '3', 'a': '1'}","{'h': '1.33458', 'a': '0.84335'}",2025-10-03 19:00:00,"{'w': '0.5037', 'd': '0.2971', 'l': '0.1992'}",Bournemouth,Fulham
 28844,False,245,82,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-04 11:30:00,,Leeds,Tottenham
 28839,False,83,81,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-04 14:00:00,,Arsenal,West Ham
 28845,False,89,77,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-10-04 14:00:00,,Manchester United,Sunderland

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Bournemouth,Fulham,3,1,2025-10-03,28838,2025,742030,0,0,0,0,0,0.016847336664795876,0.016847336664795876
 0,0,0,90,GK,Leeds,Bournemouth,2,2,2025-09-27,28832,2025,740671,0,0,0,0,0,0,0
 0,0,0,90,GK,Bournemouth,Newcastle United,0,0,2025-09-21,28823,2025,739216,0,0,0,0,0,0,0
 0,0,0,90,GK,Bournemouth,Brighton,2,1,2025-09-13,28810,2025,736903,0,0,0,0,0,0.033230289816856384,0.033230289816856384
