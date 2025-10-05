@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,66,DMC,Arsenal,West Ham,2,0,2025-10-04,28839,2025,742419,0,0,0,0,0,0.03380563482642174,0.03380563482642174
 0,0,0,60,DMC,Everton,West Ham,1,1,2025-09-29,28837,2025,741893,0,0,0,0,0,0.1495983898639679,0.1495983898639679
 0,0,0,10,Sub,West Ham,Crystal Palace,1,2,2025-09-20,28819,2025,738567,0,0,0,0,0,0,0
 0,0,0,26,Sub,West Ham,Tottenham,0,3,2025-09-13,28814,2025,737157,0,0,0,0,0,0.04995102062821388,0.04995102062821388

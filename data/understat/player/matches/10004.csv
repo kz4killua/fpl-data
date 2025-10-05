@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,33,Sub,Chelsea,Liverpool,2,1,2025-10-04,28842,2025,742597,0,0,0,0,0,1.0483695268630981,1.0483695268630981
 0,0,0,9,Sub,Chelsea,Brighton,1,3,2025-09-27,28829,2025,740606,0,0,0,0,0,0,0
 0,1,0.06513754278421402,27,Sub,Nottingham Forest,Chelsea,0,1,2025-05-25,26972,2024,729996,0,0,0,0,0.06513754278421402,0.06513754278421402,0
 0,0,0,4,Sub,Chelsea,Manchester United,1,0,2025-05-16,26966,2024,727545,0,0,0,0,0,0,0

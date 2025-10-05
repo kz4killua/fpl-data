@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Leeds,Tottenham,1,2,2025-10-04,28844,2025,742122,0,0,0,0,0,0.1357966810464859,0.1357966810464859
 0,0,0,90,GK,Leeds,Bournemouth,2,2,2025-09-27,28832,2025,740657,0,0,0,0,0,0.05241433158516884,0.05241433158516884
 0,0,0,90,GK,Wolverhampton Wanderers,Leeds,1,3,2025-09-20,28820,2025,738599,0,0,0,0,0,0,0
 0,0,0,90,GK,Fulham,Leeds,1,0,2025-09-13,28813,2025,737006,0,0,0,0,0,0.037609655410051346,0.037609655410051346

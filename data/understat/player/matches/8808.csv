@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,2,Sub,Chelsea,Liverpool,2,1,2025-10-04,28842,2025,742615,0,0,0,0,0,0.12311115860939026,0.12311115860939026
 0,0,0,1,Sub,Liverpool,Arsenal,1,0,2025-08-31,28806,2025,735944,0,0,0,0,0,0,0
 0,0,0,1,Sub,Newcastle United,Liverpool,2,3,2025-08-25,28797,2025,734542,0,0,0,0,0,0,0
 0,0,0,27,Sub,Liverpool,Bournemouth,4,2,2025-08-15,28778,2025,731582,0.13890482485294342,1,1,0,0,0.13890482485294342,0
