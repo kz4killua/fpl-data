@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,ML,Brentford,Manchester City,0,1,2025-10-05,28841,2025,743380,0,0,0,0,0,0.6360864043235779,0.6360864043235779
 0,1,0.0183347649872303,65,MR,Manchester City,Burnley,5,1,2025-09-27,28833,2025,740693,0,0,0,0,0.0183347649872303,0.015029344707727432,0.015029344707727432
 0,0,0,1,Sub,Arsenal,Manchester City,1,1,2025-09-21,28827,2025,739616,0,0,0,0,0,0,0
 0,0,0,12,Sub,Manchester City,Manchester United,3,0,2025-09-14,28817,2025,737819,0,0,0,0,0,0,0

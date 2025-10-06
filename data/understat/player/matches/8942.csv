@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.015899255871772766,90,DL,Brentford,Manchester City,0,1,2025-10-05,28841,2025,743360,0,0,0,0,0.015899255871772766,0.5436387062072754,0.5277394652366638
 0,0,0,79,DL,Brentford,Manchester United,3,1,2025-09-27,28828,2025,740346,0.6038424372673035,0,1,0,0,0,0
 0,0,0,6,Sub,Brentford,Chelsea,2,2,2025-09-13,28815,2025,737287,0,0,0,0,0,0,0
 0,0,0,3,Sub,Brentford,Aston Villa,1,0,2025-08-23,28790,2025,733242,0,0,0,0,0,0,0

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,23,Sub,Newcastle United,Nottingham Forest,2,0,2025-10-05,28846,2025,743107,0,0,0,0,0,0,0
 0,2,0.1159401684999466,16,Sub,Nottingham Forest,Sunderland,0,1,2025-09-27,28834,2025,740886,0.5611154437065125,0,4,0,0.1159401684999466,0.6770555973052979,0.3272562325000763
 0,0,0,1,Sub,Nottingham Forest,West Ham,0,3,2025-08-31,28804,2025,735668,0,0,0,0,0,0,0
 0,2,0.5778230428695679,7,Sub,Crystal Palace,Nottingham Forest,1,1,2025-08-24,28794,2025,733823,0,0,0,0,0.5778230428695679,0.5778230428695679,0

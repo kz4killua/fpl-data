@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DMC,Aston Villa,Burnley,2,1,2025-10-05,28840,2025,743020,0.01621449738740921,0,1,0,0,0.6144837737083435,0.5982692837715149
 0,0,0,90,DMC,Aston Villa,Fulham,3,1,2025-09-28,28831,2025,741318,0.024937927722930908,0,1,0,0,0.024937927722930908,0
 0,0,0,5,Sub,Sunderland,Aston Villa,1,1,2025-09-21,28826,2025,739274,0,0,0,0,0,0,0
 0,0,0,85,DMC,Everton,Aston Villa,0,0,2025-09-13,28812,2025,736981,0,0,0,0,0,0,0
