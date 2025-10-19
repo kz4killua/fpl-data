@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,AML,Sunderland,Wolverhampton Wanderers,2,0,2025-10-18,28855,2025,744259,0.027222421020269394,0,1,0,0,0.5262056589126587,0.4989832639694214
 0,0,0,90,AMC,Manchester United,Sunderland,2,0,2025-10-04,28845,2025,742452,0,0,0,0,0,0.3535946309566498,0.3535946309566498
 0,0,0,77,AML,Nottingham Forest,Sunderland,0,1,2025-09-27,28834,2025,740896,0.08234591782093048,0,1,0,0,0.08234591782093048,0
 0,0,0,84,FWL,Sunderland,Aston Villa,1,1,2025-09-21,28826,2025,739256,0,0,0,0,0,0,0

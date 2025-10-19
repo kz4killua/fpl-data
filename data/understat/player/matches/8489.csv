@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,88,DC,Fulham,Arsenal,0,1,2025-10-18,28851,2025,744468,0,0,0,0,0,0.07671300321817398,0.07671300321817398
 0,0,0,1,Sub,Fulham,Brentford,3,1,2025-09-20,28825,2025,739004,0,0,0,0,0,0,0
 0,0,0,85,DC,Brighton,Fulham,1,1,2025-08-16,28780,2025,732721,0,0,0,0,0,0.1507173627614975,0.1507173627614975
 0,0,0,90,DC,Fulham,Manchester City,0,2,2025-05-25,26981,2024,730190,0,0,0,0,0,0.0644848421216011,0.0644848421216011

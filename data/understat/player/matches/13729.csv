@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,78,FW,Burnley,Leeds,2,0,2025-10-18,28849,2025,744138,0,0,0,0,0,0,0
 0,1,0.016949784010648727,5,Sub,Aston Villa,Burnley,2,1,2025-10-05,28840,2025,743045,0,0,0,0,0.016949784010648727,0.016949784010648727,0
 0,1,0.074290931224823,3,Sub,Burnley,Nottingham Forest,1,1,2025-09-20,28822,2025,738657,0,0,0,0,0.074290931224823,0,0
 0,0,0,1,Sub,Burnley,Sunderland,2,0,2025-08-23,28791,2025,733271,0.05401439964771271,0,1,0,0,0.05401439964771271,0
