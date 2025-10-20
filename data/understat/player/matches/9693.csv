@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Liverpool,Manchester United,1,2,2025-10-19,28852,2025,745057,0,0,0,0,0,0.5878995060920715,0.5878995060920715
 0,0,0,90,GK,Chelsea,Liverpool,2,1,2025-10-04,28842,2025,742602,0,0,0,0,0,0.6094638705253601,0.6094638705253601
 0,0,0,90,GK,Real Betis,Valencia,1,1,2025-05-23,27354,2024,729422,0,0,0,0,0,0.01752220280468464,0.01752220280468464
 0,0,0,90,GK,Valencia,Athletic Club,0,1,2025-05-18,27345,2024,728811,0,0,0,0,0,0,0
