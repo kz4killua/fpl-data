@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Newcastle United,Fulham,2,1,2025-10-25,28866,2025,745956,0,0,0,0,0,0,0
+0,0,0,1,Sub,Bayern Munich,RasenBallsport Leipzig,6,0,2025-08-22,30224,2025,732839,0,0,0,0,0,0,0
+0,1,0.07146720588207245,1,Sub,Bayern Munich,Mainz 05,3,0,2025-04-26,28014,2024,722473,0,0,0,0,0.07146720588207245,0,0

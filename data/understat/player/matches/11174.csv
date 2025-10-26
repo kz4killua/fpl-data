@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,19,Sub,Manchester United,Brighton,4,2,2025-10-25,28865,2025,746098,0.02774488925933838,0,1,0,0,0.02774488925933838,0
 0,0,0,1,Sub,Liverpool,Manchester United,1,2,2025-10-19,28852,2025,745088,0,0,0,0,0,0,0
 0,0,0,7,Sub,Manchester United,Sunderland,2,0,2025-10-04,28845,2025,742442,0,0,0,0,0,0,0
 0,0,0,20,Sub,Brentford,Manchester United,3,1,2025-09-27,28828,2025,740371,0,0,0,0,0,0,0
