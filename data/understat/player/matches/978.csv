@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Wolverhampton Wanderers,Burnley,2,3,2025-10-26,28867,2025,746650,0,0,0,0,0,0,0
 0,0,0,90,GK,Sunderland,Wolverhampton Wanderers,2,0,2025-10-18,28855,2025,744265,0,0,0,0,0,0.15802925825119019,0.15802925825119019
 0,0,0,90,GK,Wolverhampton Wanderers,Brighton,1,1,2025-10-05,28847,2025,743109,0,0,0,0,0,0.073948934674263,0.073948934674263
 0,0,0,90,GK,Tottenham,Wolverhampton Wanderers,1,1,2025-09-27,28835,2025,741046,0,0,0,0,0,0.0792684480547905,0.0792684480547905

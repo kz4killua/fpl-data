@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Aston Villa,Manchester City,1,0,2025-10-26,28860,2025,746631,0,0,0,0,0,0,0
 0,1,0.021490737795829773,3,Sub,Tottenham,Aston Villa,1,2,2025-10-19,28856,2025,744773,0.08804439753293991,0,1,0,0.021490737795829773,0.08804439753293991,0
 0,0,0,1,Sub,Aston Villa,Burnley,2,1,2025-10-05,28840,2025,743028,0,0,0,0,0,0,0
 0,0,0,29,Sub,Sunderland,Aston Villa,1,1,2025-09-21,28826,2025,739273,0,0,0,0,0,0.08517096936702728,0.08517096936702728

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DMC,Aston Villa,Manchester City,1,0,2025-10-26,28860,2025,746623,0,0,0,0,0,0.14216040074825287,0.14216040074825287
 0,0,0,87,DMC,Tottenham,Aston Villa,1,2,2025-10-19,28856,2025,744766,0,0,0,0,0,0,0
 0,0,0,1,Sub,Aston Villa,Burnley,2,1,2025-10-05,28840,2025,743026,0,0,0,0,0,0,0
 0,2,0.09780319035053253,72,DMC,Brentford,Aston Villa,1,0,2025-08-23,28790,2025,733248,0,0,0,0,0.09780319035053253,0.1644669473171234,0.06666376441717148

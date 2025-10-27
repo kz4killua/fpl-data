@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Arsenal,Crystal Palace,1,0,2025-10-26,28859,2025,746615,0,0,0,0,0,0,0
 0,0,0,1,Sub,Everton,Crystal Palace,2,1,2025-10-05,28843,2025,743011,0,0,0,0,0,0,0
 0,1,0.06011005491018295,2,Sub,Crystal Palace,Sunderland,0,0,2025-09-13,28811,2025,736946,0,0,0,0,0.06011005491018295,0,0
 0,2,0.12429782003164291,90,FW,Valencia,Getafe,3,0,2025-08-29,29180,2025,734785,0.08167076855897903,0,1,0,0.12429782003164291,0.20596858859062195,0
