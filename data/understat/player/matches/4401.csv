@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Liverpool,Aston Villa,2,0,2025-11-01,28872,2025,748748,0,0,0,0,0,0.07542251795530319,0.07542251795530319
 0,0,0,90,GK,Aston Villa,Manchester City,1,0,2025-10-26,28860,2025,746618,0,0,0,0,0,0.14216040074825287,0.14216040074825287
 0,0,0,90,GK,Tottenham,Aston Villa,1,2,2025-10-19,28856,2025,744761,0,0,0,0,0,0,0
 0,0,0,90,GK,Aston Villa,Burnley,2,1,2025-10-05,28840,2025,743014,0,0,0,0,0,0.07918592542409897,0.07918592542409897

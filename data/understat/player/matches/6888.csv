@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Burnley,Arsenal,0,2,2025-11-01,28869,2025,748325,0,0,0,0,0,0.1305360049009323,0.1305360049009323
 0,0,0,48,DC,Arsenal,Crystal Palace,1,0,2025-10-26,28859,2025,746589,0,0,0,0,0,0,0
 0,0,0,90,DC,Fulham,Arsenal,0,1,2025-10-18,28851,2025,744484,0,0,0,0,0,0.3505537807941437,0.3505537807941437
 0,0,0,90,DC,Arsenal,West Ham,2,0,2025-10-04,28839,2025,742401,0,0,0,0,0,0.8571217656135559,0.8571217656135559

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,39,Sub,Fulham,Wolverhampton Wanderers,3,0,2025-11-01,28871,2025,748397,0,0,0,0,0,0,0
 0,0,0,9,Sub,Wolverhampton Wanderers,Burnley,2,3,2025-10-26,28867,2025,746662,0.024920044466853142,0,1,0,0,0.024920044466853142,0
 0,2,0.061103448271751404,9,Sub,Sunderland,Wolverhampton Wanderers,2,0,2025-10-18,28855,2025,744276,0.00923213642090559,0,1,0,0.061103448271751404,0.19434256851673126,0.1240069791674614
 0,0,0,90,DR,Wolverhampton Wanderers,Brighton,1,1,2025-10-05,28847,2025,743110,0,0,0,0,0,0.2186155617237091,0.2186155617237091
