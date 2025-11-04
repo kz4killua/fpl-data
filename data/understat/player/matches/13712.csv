@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Sunderland,Everton,1,1,2025-11-03,28875,2025,749587,0,0,0,0,0,0.04323133826255798,0.04323133826255798
 0,0,0,90,GK,Chelsea,Sunderland,1,2,2025-10-25,28862,2025,745912,0,0,0,0,0,0,0
 0,0,0,90,GK,Sunderland,Wolverhampton Wanderers,2,0,2025-10-18,28855,2025,744250,0,0,0,0,0,0,0
 0,0,0,90,GK,Manchester United,Sunderland,2,0,2025-10-04,28845,2025,742444,0,0,0,0,0,0.2839544713497162,0.2839544713497162

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,12,Sub,Manchester City,Bournemouth,3,1,2025-11-02,28873,2025,749325,0,0,0,0,0,0,0
 0,0,0,8,Sub,Bournemouth,Nottingham Forest,2,0,2025-10-26,28858,2025,746441,0,0,0,0,0,0,0
 1,1,0.7941879034042358,21,Sub,Crystal Palace,Bournemouth,3,3,2025-10-18,28850,2025,744184,0,0,0,1,0.7941879034042358,0.7941879034042358,0
 0,0,0,8,Sub,Bournemouth,Fulham,3,1,2025-10-03,28838,2025,742045,0,0,0,0,0,0.016847336664795876,0.016847336664795876
