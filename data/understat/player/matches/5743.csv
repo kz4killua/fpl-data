@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,47,FW,Tottenham,Manchester United,2,2,2025-11-08,28886,2025,749863,0,0,0,0,0,0,0
 0,0,0,80,FW,Tottenham,Chelsea,0,1,2025-11-01,28876,2025,748590,0.02562577649950981,0,1,0,0,0.07602548599243164,0.05039970949292183
 0,0,0,70,FW,Everton,Tottenham,0,3,2025-10-26,28863,2025,746990,0.03265386447310448,0,1,0,0,0,0
 0,1,0.06208477169275284,6,Sub,Tottenham,Aston Villa,1,2,2025-10-19,28856,2025,744757,0,0,0,0,0.06208477169275284,0,0

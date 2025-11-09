@@ -99,11 +99,11 @@ id,isResult,h,a,goals,xG,datetime,forecast,h_title,a_title
 28877,True,81,86,"{'h': '3', 'a': '1'}","{'h': '1.41383', 'a': '0.523615'}",2025-11-02 14:00:00,"{'w': '0.6355', 'd': '0.2546', 'l': '0.1099'}",West Ham,Newcastle United
 28873,True,88,73,"{'h': '3', 'a': '1'}","{'h': '2.48999', 'a': '0.899846'}",2025-11-02 16:30:00,"{'w': '0.7693', 'd': '0.1598', 'l': '0.0709'}",Manchester City,Bournemouth
 28875,True,77,72,"{'h': '1', 'a': '1'}","{'h': '1.18068', 'a': '1.00741'}",2025-11-03 20:00:00,"{'w': '0.3718', 'd': '0.3203', 'l': '0.3079'}",Sunderland,Everton
-28886,False,82,89,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-08 12:30:00,,Tottenham,Manchester United
-28882,False,72,228,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-08 15:00:00,,Everton,Fulham
-28887,False,81,92,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-08 15:00:00,,West Ham,Burnley
-28885,False,77,83,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-08 17:30:00,,Sunderland,Arsenal
-28880,False,80,229,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-08 20:00:00,,Chelsea,Wolverhampton Wanderers
+28886,True,82,89,"{'h': '2', 'a': '2'}","{'h': '1.35532', 'a': '0.820256'}",2025-11-08 12:30:00,"{'w': '0.5103', 'd': '0.2821', 'l': '0.2076'}",Tottenham,Manchester United
+28882,True,72,228,"{'h': '2', 'a': '0'}","{'h': '2.30607', 'a': '0.424478'}",2025-11-08 15:00:00,"{'w': '0.855', 'd': '0.1105', 'l': '0.0345'}",Everton,Fulham
+28887,True,81,92,"{'h': '3', 'a': '2'}","{'h': '2.96728', 'a': '1.87478'}",2025-11-08 15:00:00,"{'w': '0.6782', 'd': '0.2072', 'l': '0.1146'}",West Ham,Burnley
+28885,True,77,83,"{'h': '2', 'a': '2'}","{'h': '1.20495', 'a': '2.32943'}",2025-11-08 17:30:00,"{'w': '0.1307', 'd': '0.214', 'l': '0.6553'}",Sunderland,Arsenal
+28880,True,80,229,"{'h': '3', 'a': '0'}","{'h': '3.98342', 'a': '0.111462'}",2025-11-08 20:00:00,"{'w': '0.9924', 'd': '0.0074', 'l': '0.0002'}",Chelsea,Wolverhampton Wanderers
 28878,False,71,73,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-09 14:00:00,,Aston Villa,Bournemouth
 28879,False,244,86,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-09 14:00:00,,Brentford,Newcastle United
 28881,False,78,220,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-11-09 14:00:00,,Crystal Palace,Brighton

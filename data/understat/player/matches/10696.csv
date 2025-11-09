@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,59,DMR,Tottenham,Manchester United,2,2,2025-11-08,28886,2025,749873,0,0,0,0,0,0.2692733407020569,0.2692733407020569
 0,0,0,10,Sub,Nottingham Forest,Manchester United,2,2,2025-11-01,28874,2025,748426,0,0,0,0,0,0.043318867683410645,0.043318867683410645
 0,0,0,75,DMR,Manchester United,Chelsea,2,1,2025-09-20,28824,2025,738837,0,0,0,0,0,0.6159805059432983,0.6159805059432983
 0,0,0,63,DMR,Manchester City,Manchester United,3,0,2025-09-14,28817,2025,737827,0,0,0,0,0,0.03495940566062927,0.03495940566062927

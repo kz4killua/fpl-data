@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,74,DMC,Everton,Fulham,2,0,2025-11-08,28882,2025,750169,0.5035977959632874,1,1,0,0,1.0521117448806763,0.5485140085220337
 0,0,0,5,Sub,Sunderland,Everton,1,1,2025-11-03,28875,2025,749612,0,0,0,0,0,0,0
 0,0,0,18,Sub,Manchester City,Everton,2,0,2025-10-18,28853,2025,744246,0,0,0,0,0,0.03656488656997681,0.03656488656997681
 0,0,0,24,Sub,Everton,Crystal Palace,2,1,2025-10-05,28843,2025,742997,0,0,0,0,0,0,0
