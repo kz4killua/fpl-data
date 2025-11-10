@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,13,Sub,Crystal Palace,Brighton,0,0,2025-11-09,28881,2025,750932,0,0,0,0,0,0,0
 0,0,0,57,DR,Chelsea,Brighton,1,3,2025-09-27,28829,2025,740611,0,0,0,0,0,0,0
 0,0,0,90,DR,Brighton,Tottenham,2,2,2025-09-20,28821,2025,738616,0,0,0,0,0,0.11386028677225113,0.11386028677225113
 0,0,0,90,DR,Bournemouth,Brighton,2,1,2025-09-13,28810,2025,736920,0.05745750293135643,0,1,0,0,0.31935665011405945,0.2618991434574127
