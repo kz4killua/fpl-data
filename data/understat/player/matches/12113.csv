@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DR,Wolverhampton Wanderers,Crystal Palace,0,2,2025-11-22,28897,2025,752051,0,0,0,0,0,0.6494839787483215,0.6494839787483215
 0,0,0,90,DR,Chelsea,Wolverhampton Wanderers,3,0,2025-11-08,28880,2025,750547,0,0,0,0,0,0,0
 0,0,0,39,Sub,Fulham,Wolverhampton Wanderers,3,0,2025-11-01,28871,2025,748397,0,0,0,0,0,0,0
 0,0,0,9,Sub,Wolverhampton Wanderers,Burnley,2,3,2025-10-26,28867,2025,746662,0.024920044466853142,0,1,0,0,0.024920044466853142,0

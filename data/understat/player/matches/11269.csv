@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+1,1,0.04562614485621452,16,Sub,Brighton,Brentford,2,1,2025-11-22,28890,2025,752004,0.07794032245874405,0,1,1,0.04562614485621452,0.5287691950798035,0.405202716588974
 0,0,0,2,DMC,Bournemouth,Brighton,2,1,2025-09-13,28810,2025,736925,0,0,0,0,0,0,0
 0,0,0,66,DMC,Brighton,Manchester City,2,1,2025-08-31,28805,2025,735689,0,0,0,0,0,0,0
 0,0,0,42,Sub,Everton,Brighton,2,0,2025-08-24,28795,2025,733853,0,0,0,0,0,0.02659415453672409,0.02659415453672409

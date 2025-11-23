@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Fulham,Sunderland,1,0,2025-11-22,28892,2025,752020,0,0,0,0,0,0.2861693501472473,0.2861693501472473
 0,0,0,90,GK,Everton,Fulham,2,0,2025-11-08,28882,2025,750177,0,0,0,0,0,0.12647101283073425,0.12647101283073425
 0,0,0,90,GK,Fulham,Wolverhampton Wanderers,3,0,2025-11-01,28871,2025,748368,0,0,0,0,0,0.09377039968967438,0.09377039968967438
 0,0,0,90,GK,Newcastle United,Fulham,2,1,2025-10-25,28866,2025,745942,0,0,0,0,0,0,0

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,41,Sub,Bournemouth,West Ham,2,2,2025-11-22,28888,2025,751988,0,0,0,0,0,0,0
 1,1,0.9731698632240295,2,Sub,West Ham,Burnley,3,2,2025-11-08,28887,2025,750207,0,0,0,1,0.9731698632240295,0.9731698632240295,0
 0,0,0,6,Sub,West Ham,Newcastle United,3,1,2025-11-02,28877,2025,748998,0,0,0,0,0,0,0
 0,0,0,1,Sub,Leeds,West Ham,2,1,2025-10-24,28864,2025,745581,0,0,0,0,0,0.09133035689592361,0.09133035689592361

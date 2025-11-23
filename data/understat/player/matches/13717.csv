@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,24,Sub,Fulham,Sunderland,1,0,2025-11-22,28892,2025,752046,0,0,0,0,0,0,0
 0,0,0,17,Sub,Sunderland,Arsenal,2,2,2025-11-08,28885,2025,750391,0,0,0,0,0,0,0
 0,0,0,6,Sub,Sunderland,Everton,1,1,2025-11-03,28875,2025,749598,0,0,0,0,0,0,0
 1,1,0.11022110283374786,22,Sub,Chelsea,Sunderland,1,2,2025-10-25,28862,2025,745923,0,0,0,1,0.11022110283374786,0.11022110283374786,0

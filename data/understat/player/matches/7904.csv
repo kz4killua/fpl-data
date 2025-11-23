@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Brighton,Brentford,2,1,2025-11-22,28890,2025,752005,0,0,0,0,0,0.05800851806998253,0.05800851806998253
 0,0,0,90,GK,Brentford,Newcastle United,3,1,2025-11-09,28879,2025,750873,0,0,0,0,0,0,0
 0,0,0,90,GK,Crystal Palace,Brentford,2,0,2025-11-01,28870,2025,748352,0,0,0,0,0,0,0
 0,0,0,90,GK,Brentford,Liverpool,3,2,2025-10-25,28861,2025,746270,0,0,0,0,0,0.3877606987953186,0.3877606987953186
