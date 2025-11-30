@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Tottenham,Fulham,1,2,2025-11-29,28906,2025,753993,0,0,0,0,0,0,0
 0,0,0,1,Sub,Fulham,Sunderland,1,0,2025-11-22,28892,2025,752031,0,0,0,0,0,0,0
 0,0,0,1,Sub,Newcastle United,Fulham,2,1,2025-10-25,28866,2025,745953,0,0,0,0,0,0,0
 0,0,0,90,DR,Fulham,Arsenal,0,1,2025-10-18,28851,2025,744466,0,0,0,0,0,0.11919015645980835,0.11919015645980835

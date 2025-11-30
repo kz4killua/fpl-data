@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DR,Brentford,Burnley,3,1,2025-11-29,28899,2025,753612,0,0,0,0,0,0,0
 0,0,0,90,DR,Burnley,Chelsea,0,2,2025-11-22,28891,2025,751648,0.018859999254345894,0,1,0,0,0.24103178083896637,0.22217178344726562
 0,0,0,90,DR,West Ham,Burnley,3,2,2025-11-08,28887,2025,750209,0.19339396059513092,0,1,0,0,0.19339396059513092,0.19339396059513092
 0,0,0,90,DR,Burnley,Arsenal,0,2,2025-11-01,28869,2025,748307,0,0,0,0,0,0,0

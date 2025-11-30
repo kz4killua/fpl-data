@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Everton,Newcastle United,1,4,2025-11-29,28902,2025,753841,0,0,0,0,0,0.5581973791122437,0.5581973791122437
 0,0,0,90,GK,Manchester United,Everton,0,1,2025-11-24,28895,2025,753177,0,0,0,0,0,0,0
 0,0,0,90,GK,Everton,Fulham,2,0,2025-11-08,28882,2025,750163,0,0,0,0,0,0,0
 0,0,0,90,GK,Sunderland,Everton,1,1,2025-11-03,28875,2025,749600,0,0,0,0,0,0,0
