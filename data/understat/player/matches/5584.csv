@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DR,West Ham,Liverpool,0,2,2025-11-30,28907,2025,754306,0,0,0,0,0,0.24704816937446594,0.24704816937446594
 0,0,0,90,DMR,Bournemouth,West Ham,2,2,2025-11-22,28888,2025,751979,0.07544638961553574,0,1,0,0,0.1272437870502472,0.05179738998413086
 0,0,0,90,DR,West Ham,Burnley,3,2,2025-11-08,28887,2025,750194,0,0,0,0,0,0.0816458910703659,0.0816458910703659
 0,0,0,90,DR,West Ham,Newcastle United,3,1,2025-11-02,28877,2025,748986,0,0,0,0,0,0,0

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,14,Sub,Nottingham Forest,Brighton,0,2,2025-11-30,28904,2025,754468,0,0,0,0,0,0.06040794029831886,0.06040794029831886
 0,0,0,1,Sub,Liverpool,Nottingham Forest,0,3,2025-11-22,28894,2025,752170,0,0,0,0,0,0,0
 0,0,0,27,Sub,Nottingham Forest,Leeds,3,1,2025-11-09,28884,2025,750855,0,0,0,0,0,0,0
 0,0,0,77,Sub,Nottingham Forest,Manchester United,2,2,2025-11-01,28874,2025,748412,0.08953892439603806,1,1,0,0,0.1440151184797287,0.05447619408369064
