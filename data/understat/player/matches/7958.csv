@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,48,MC,Newcastle United,Tottenham,2,2,2025-12-02,28916,2025,754989,0.028843555599451065,0,1,0,0,0.21280990540981293,0.21280990540981293
 0,0,0,1,Sub,Everton,Newcastle United,1,4,2025-11-29,28902,2025,753867,0,0,0,0,0,0,0
 0,0,0,90,MC,Newcastle United,Manchester City,2,1,2025-11-22,28896,2025,752242,0.07429772615432739,0,1,0,0,0.631177544593811,0.631177544593811
 0,0,0,82,MC,Brentford,Newcastle United,3,1,2025-11-09,28879,2025,750895,0,0,0,0,0,0.0863514170050621,0.0863514170050621
