@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DML,Burnley,Crystal Palace,0,1,2025-12-03,28911,2025,755130,0,0,0,0,0,0,0
 0,0,0,90,DML,Wolverhampton Wanderers,Crystal Palace,0,2,2025-11-22,28897,2025,752070,0,0,0,0,0,0.08917002379894257,0.08917002379894257
 0,0,0,90,DML,Crystal Palace,Brighton,0,0,2025-11-09,28881,2025,750910,0.13531440496444702,0,1,0,0,0.2200971394777298,0.2200971394777298
 0,0,0,90,DML,Crystal Palace,Brentford,2,0,2025-11-01,28870,2025,748343,0.030642688274383545,0,1,0,0,0.08065805584192276,0.08065805584192276

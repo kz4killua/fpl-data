@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Leeds,Chelsea,3,1,2025-12-03,28913,2025,755248,0,0,0,0,0,0,0
 0,0,0,72,DL,Manchester City,Leeds,3,2,2025-11-29,28903,2025,753676,0,0,0,0,0,0.07404980808496475,0.07404980808496475
 0,0,0,12,Sub,Brighton,Leeds,3,0,2025-11-01,28868,2025,748303,0,0,0,0,0,0,0
 0,0,0,47,Sub,Leeds,West Ham,2,1,2025-10-24,28864,2025,745563,0,0,0,0,0,0.137452632188797,0.137452632188797
