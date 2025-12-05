@@ -138,7 +138,7 @@ id,isResult,h,a,goals,xG,datetime,forecast,h_title,a_title
 28917,True,229,249,"{'h': '0', 'a': '1'}","{'h': '1.02461', 'a': '1.12389'}",2025-12-03 19:30:00,"{'w': '0.3096', 'd': '0.3553', 'l': '0.3351'}",Wolverhampton Wanderers,Nottingham Forest
 28913,True,245,80,"{'h': '3', 'a': '1'}","{'h': '2.2047', 'a': '0.964018'}",2025-12-03 20:15:00,"{'w': '0.7167', 'd': '0.1866', 'l': '0.0967'}",Leeds,Chelsea
 28914,True,87,77,"{'h': '1', 'a': '1'}","{'h': '1.37633', 'a': '0.712662'}",2025-12-03 20:15:00,"{'w': '0.5385', 'd': '0.2953', 'l': '0.1662'}",Liverpool,Sunderland
-28915,False,89,81,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-04 20:00:00,,Manchester United,West Ham
+28915,True,89,81,"{'h': '1', 'a': '1'}","{'h': '2.27674', 'a': '1.36584'}",2025-12-04 20:00:00,"{'w': '0.6156', 'd': '0.2213', 'l': '0.1631'}",Manchester United,West Ham
 28919,False,71,83,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-06 12:30:00,,Aston Villa,Arsenal
 28918,False,73,80,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-06 15:00:00,,Bournemouth,Chelsea
 28921,False,72,249,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-06 15:00:00,,Everton,Nottingham Forest
