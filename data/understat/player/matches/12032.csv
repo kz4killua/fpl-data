@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Bournemouth,Chelsea,0,0,2025-12-06,28918,2025,755908,0,0,0,0,0,0,0
 0,0,0,90,GK,Bournemouth,Everton,0,1,2025-12-02,28908,2025,754955,0,0,0,0,0,0.06438634544610977,0.06438634544610977
 0,0,0,90,GK,Sunderland,Bournemouth,3,2,2025-11-29,28905,2025,753703,0,0,0,0,0,0.12181820720434189,0.12181820720434189
 0,0,0,90,GK,Bournemouth,West Ham,2,2,2025-11-22,28888,2025,751959,0,0,0,0,0,0.07921184599399567,0.07921184599399567
