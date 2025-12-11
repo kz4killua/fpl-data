@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,49,DL,Tottenham,Brentford,2,0,2025-12-06,28926,2025,756049,0,0,0,0,0,0,0
 0,0,0,90,DC,Arsenal,Brentford,2,0,2025-12-03,28909,2025,755097,0,0,0,0,0,0,0
 0,0,0,84,DL,Brighton,Brentford,2,1,2025-11-22,28890,2025,752009,0,0,0,0,0,0.05800851806998253,0.05800851806998253
 0,1,0.4381144940853119,90,DL,Crystal Palace,Brentford,2,0,2025-11-01,28870,2025,748356,0,0,0,0,0.4381144940853119,0.4885684549808502,0.050453945994377136
