@@ -2,18 +2,19 @@ from tqdm import tqdm
 
 from src.fpl.read import read_fixtures
 from src.understat.fetch import (
-    fetch_league_dates,
-    fetch_league_players,
-    fetch_league_teams,
-    fetch_player_matches,
+    fetch_league_data,
+    fetch_player_data,
 )
 from src.understat.read import read_player_ids, read_team_ids
 from src.utils import DATA_DIR, append_csv, map_closest_names, write_csv
 
 
 def update_understat(current_season: int, bootstrap_static: dict):
-    # Update fixtures (dates)
-    dates = fetch_league_dates("EPL", current_season)
+    league_data = fetch_league_data("EPL", current_season)
+    dates = league_data["dates"]
+    teams = league_data["teams"]
+    players = league_data["players"]
+
     for date in dates:
         date["h_title"] = date["h"]["title"]
         date["a_title"] = date["a"]["title"]
@@ -22,9 +23,7 @@ def update_understat(current_season: int, bootstrap_static: dict):
     path = DATA_DIR / f"understat/season/{current_season}/dates.csv"
     write_csv(dates, path)
 
-    # Update teams
-    teams = fetch_league_teams("EPL", current_season)
-    for team in tqdm(teams.values(), desc="Updating understat teams"):
+    for team in teams.values():
         team_id = int(team["id"])
         history = team["history"]
         for item in history:
@@ -33,15 +32,14 @@ def update_understat(current_season: int, bootstrap_static: dict):
         path = DATA_DIR / f"understat/season/{current_season}/teams/{team_id}.csv"
         write_csv(history, path)
 
-    # Update matches
-    players = fetch_league_players("EPL", current_season)
     for player in tqdm(players, desc="Updating understat players"):
         player_id = int(player["id"])
-        player_matches = fetch_player_matches(player_id)
+        player_data = fetch_player_data(player_id)
+        matches = player_data["matches"]
         path = DATA_DIR / f"understat/player/matches/{player_id}.csv"
-        write_csv(player_matches, path)
+        write_csv(matches, path)
 
-    # Update player, team, and fixture IDs
+    # Update ID mappings
     update_player_ids(players, bootstrap_static)
     update_team_ids(teams, bootstrap_static)
     update_fixture_ids(current_season, current_season, dates, bootstrap_static)
