@@ -148,7 +148,7 @@ id,isResult,h,a,goals,xG,datetime,forecast,h_title,a_title
 28923,True,245,87,"{'h': '3', 'a': '3'}","{'h': '1.79333', 'a': '2.04805'}",2025-12-06 17:30:00,"{'w': '0.3199', 'd': '0.2543', 'l': '0.4258'}",Leeds,Liverpool
 28920,True,220,81,"{'h': '1', 'a': '1'}","{'h': '2.10077', 'a': '1.7064'}",2025-12-07 14:00:00,"{'w': '0.4659', 'd': '0.2432', 'l': '0.2909'}",Brighton,West Ham
 28922,True,228,78,"{'h': '1', 'a': '2'}","{'h': '0.766771', 'a': '1.71109'}",2025-12-07 16:30:00,"{'w': '0.1398', 'd': '0.2443', 'l': '0.6159'}",Fulham,Crystal Palace
-28927,False,229,89,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-08 20:00:00,,Wolverhampton Wanderers,Manchester United
+28927,True,229,89,"{'h': '1', 'a': '4'}","{'h': '0.262147', 'a': '4.04708'}",2025-12-08 20:00:00,"{'w': '0.0013', 'd': '0.0112', 'l': '0.9875'}",Wolverhampton Wanderers,Manchester United
 28931,False,80,72,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-13 15:00:00,,Chelsea,Everton
 28933,False,87,220,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-13 15:00:00,,Liverpool,Brighton
 28930,False,92,228,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-13 17:30:00,,Burnley,Fulham

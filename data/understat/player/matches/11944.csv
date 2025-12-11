@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,4,Sub,Wolverhampton Wanderers,Manchester United,1,4,2025-12-08,28927,2025,757205,0,0,0,0,0,0,0
 0,0,0,21,Sub,Manchester United,West Ham,1,1,2025-12-04,28915,2025,755368,0.03865545243024826,0,1,0,0,0.03865545243024826,0
 0,0,0,1,Sub,Crystal Palace,Manchester United,1,2,2025-11-30,28901,2025,755323,0,0,0,0,0,0,0
 0,1,0.2643115520477295,62,DML,Manchester United,Everton,0,1,2025-11-24,28895,2025,753168,0.060881491750478745,0,1,0,0.2643115520477295,0.3926233947277069,0.06743033230304718
