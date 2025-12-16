@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Liverpool,Brighton,2,0,2025-12-13,28933,2025,757658,0,0,0,0,0,1.228162407875061,1.228162407875061
 0,0,0,90,GK,Brighton,West Ham,1,1,2025-12-07,28920,2025,756592,0,0,0,0,0,0,0
 0,0,0,90,GK,Brighton,Aston Villa,3,4,2025-12-03,28910,2025,755170,0,0,0,0,0,0.04820546507835388,0.04820546507835388
 0,0,0,90,GK,Nottingham Forest,Brighton,0,2,2025-11-30,28904,2025,754470,0,0,0,0,0,0.7644790410995483,0.7644790410995483

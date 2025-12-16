@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Manchester United,Bournemouth,4,4,2025-12-15,28934,2025,758659,0,0,0,0,0,0.16142064332962036,0.16142064332962036
 0,0,0,90,GK,Wolverhampton Wanderers,Manchester United,1,4,2025-12-08,28927,2025,757193,0,0,0,0,0,0.037311404943466187,0.037311404943466187
 0,0,0,90,GK,Manchester United,West Ham,1,1,2025-12-04,28915,2025,755356,0,0,0,0,0,0,0
 0,0,0,90,GK,Crystal Palace,Manchester United,1,2,2025-11-30,28901,2025,755311,0,0,0,0,0,0,0

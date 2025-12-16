@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,84,MC,Arsenal,Wolverhampton Wanderers,2,1,2025-12-13,28928,2025,757950,0,0,0,0,0,0,0
 0,2,0.058566901832818985,90,MC,Wolverhampton Wanderers,Manchester United,1,4,2025-12-08,28927,2025,757184,0.016396617516875267,0,1,0,0.058566901832818985,0.18599310517311096,0.11102958768606186
 0,1,0.5659106373786926,76,DC,Wolverhampton Wanderers,Crystal Palace,0,2,2025-11-22,28897,2025,752052,0,0,0,0,0.5659106373786926,0,0
 0,0,0,90,DC,Chelsea,Wolverhampton Wanderers,3,0,2025-11-08,28880,2025,750548,0,0,0,0,0,0,0

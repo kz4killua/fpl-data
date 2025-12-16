@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+1,2,0.3326111137866974,90,DMC,Nottingham Forest,Tottenham,3,0,2025-12-14,28935,2025,758117,0.7080305218696594,2,2,1,0.3326111137866974,1.2510697841644287,0.5430392026901245
 0,0,0,50,DMC,Everton,Nottingham Forest,3,0,2025-12-06,28921,2025,755957,0,0,0,0,0,0,0
 0,0,0,72,DMC,Wolverhampton Wanderers,Nottingham Forest,0,1,2025-12-03,28917,2025,755162,0,0,0,0,0,0,0
 0,1,0.00989181362092495,76,DMC,Nottingham Forest,Brighton,0,2,2025-11-30,28904,2025,754460,0,0,0,0,0.00989181362092495,0.13751037418842316,0.12761855125427246
