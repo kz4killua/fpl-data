@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Wolfsburg,Freiburg,3,4,2025-12-20,30358,2025,758902,0,0,0,0,0,0.10242651402950287,0.10242651402950287
 0,0,0,90,DC,Borussia M.Gladbach,Wolfsburg,1,3,2025-12-13,30343,2025,757601,0,0,0,0,0,0.5934403538703918,0.5934403538703918
 0,0,0,90,DC,Wolfsburg,Union Berlin,3,1,2025-12-06,30333,2025,755847,0,0,0,0,0,0.13512247800827026,0.13512247800827026
 0,0,0,90,DC,Eintracht Frankfurt,Wolfsburg,1,1,2025-11-30,30326,2025,754441,0,0,0,0,0,0.5053234696388245,0.5053234696388245

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DR,Wolverhampton Wanderers,Brentford,0,2,2025-12-20,28947,2025,759134,0,0,0,0,0,0.37335827946662903,0.37335827946662903
 0,0,0,90,DR,Brentford,Leeds,1,1,2025-12-14,28929,2025,758447,0.018161362037062645,0,1,0,0,0.018161362037062645,0
 0,0,0,79,DR,Tottenham,Brentford,2,0,2025-12-06,28926,2025,756046,0,0,0,0,0,0,0
 0,0,0,90,DR,Arsenal,Brentford,2,0,2025-12-03,28909,2025,755094,0,0,0,0,0,0,0

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Everton,Arsenal,0,1,2025-12-20,28941,2025,759376,0,0,0,0,0,0.5246679782867432,0.5246679782867432
 0,0,0,90,GK,Arsenal,Wolverhampton Wanderers,2,1,2025-12-13,28928,2025,757926,0,0,0,0,0,0.468779593706131,0.468779593706131
 0,0,0,90,GK,Aston Villa,Arsenal,2,1,2025-12-06,28919,2025,755642,0,0,0,0,0,0,0
 0,0,0,90,GK,Arsenal,Brentford,2,0,2025-12-03,28909,2025,755078,0,0,0,0,0,0.10690516233444214,0.10690516233444214

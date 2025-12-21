@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DL,Manchester City,West Ham,3,0,2025-12-20,28944,2025,759091,0,0,0,0,0,1.0844157934188843,1.0844157934188843
 0,0,0,90,DL,Crystal Palace,Manchester City,0,3,2025-12-14,28932,2025,758100,0,0,0,0,0,0,0
 0,1,0.10964059084653854,90,DL,Manchester City,Sunderland,3,0,2025-12-06,28924,2025,755970,0,0,0,0,0.10964059084653854,0.5482988357543945,0.4386582374572754
 0,0,0,90,DL,Fulham,Manchester City,4,5,2025-12-02,28912,2025,754944,0,0,0,0,0,1.0360147953033447,1.0360147953033447

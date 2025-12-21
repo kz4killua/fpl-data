@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,82,DMR,Wolverhampton Wanderers,Brentford,0,2,2025-12-20,28947,2025,759122,0.18745312094688416,0,1,0,0,0.21868862211704254,0.031235501170158386
 0,0,0,88,DMR,Wolverhampton Wanderers,Manchester United,1,4,2025-12-08,28927,2025,757181,0.013006038032472134,0,1,0,0,0.12403562664985657,0.11102958768606186
 0,0,0,4,Sub,Wolverhampton Wanderers,Nottingham Forest,0,1,2025-12-03,28917,2025,755151,0,0,0,0,0,0.046263303607702255,0.046263303607702255
 0,0,0,51,DR,Fulham,Wolverhampton Wanderers,3,0,2025-11-01,28871,2025,748385,0,0,1,0,0,0.039967987686395645,0.039967987686395645

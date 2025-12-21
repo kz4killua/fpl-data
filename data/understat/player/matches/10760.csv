@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.05091729760169983,27,Sub,Tottenham,Liverpool,1,2,2025-12-20,28946,2025,759314,0.059255849570035934,0,1,0,0.05091729760169983,0.059255849570035934,0
 0,0,0,8,Sub,Nottingham Forest,Tottenham,3,0,2025-12-14,28935,2025,758138,0,0,0,0,0,0,0
 0,0,0,79,AML,Newcastle United,Tottenham,2,2,2025-12-02,28916,2025,755007,0.024480745196342468,0,1,0,0,0.06234865263104439,0.03786790743470192
 0,0,0,9,Sub,Arsenal,Tottenham,4,1,2025-11-23,28889,2025,752883,0,0,0,0,0,0,0
