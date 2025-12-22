@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Aston Villa,Manchester United,2,1,2025-12-21,28939,2025,759652,0,0,0,0,0,0,0
 0,0,0,14,Sub,Aston Villa,Arsenal,2,1,2025-12-06,28919,2025,755639,0,0,0,0,0,0,0
 0,0,0,1,Sub,Brighton,Aston Villa,3,4,2025-12-03,28910,2025,755200,0,0,0,0,0,0,0
 0,0,0,1,Sub,Aston Villa,Wolverhampton Wanderers,1,0,2025-11-30,28898,2025,754286,0,0,0,0,0,0,0
