@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Manchester United,Newcastle United,1,0,2025-12-26,28954,2025,759893,0,0,0,0,0,0,0
 0,0,0,90,DC,Aston Villa,Manchester United,2,1,2025-12-21,28939,2025,759655,0,0,0,0,0,0.40461334586143494,0.40461334586143494
 0,0,0,90,DC,Manchester United,Bournemouth,4,4,2025-12-15,28934,2025,758661,0.020882152020931244,0,1,0,0,0.45846131443977356,0.4375791549682617
 0,1,0.01559737790375948,71,DC,Wolverhampton Wanderers,Manchester United,1,4,2025-12-08,28927,2025,757196,0,0,0,0,0.01559737790375948,0.45493876934051514,0.43934139609336853

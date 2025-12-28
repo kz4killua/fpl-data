@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Chelsea,Aston Villa,1,2,2025-12-27,28951,2025,760222,0,0,0,0,0,0.7040936350822449,0.7040936350822449
 0,0,0,49,DC,Leeds,Chelsea,3,1,2025-12-03,28913,2025,755251,0,0,0,0,0,0,0
 0,0,0,42,Sub,Burnley,Chelsea,0,2,2025-11-22,28891,2025,751674,0,0,0,0,0,0.13533620536327362,0.13533620536327362
 0,0,0,57,DC,Chelsea,Liverpool,2,1,2025-10-04,28842,2025,742588,0,0,0,0,0,0.03168066218495369,0.03168066218495369

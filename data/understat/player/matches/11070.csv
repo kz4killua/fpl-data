@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,25,Sub,Liverpool,Wolverhampton Wanderers,2,1,2025-12-27,28953,2025,760159,0,0,0,0,0,0.07527091354131699,0.07527091354131699
 0,2,0.8027515411376953,90,FW,Wolverhampton Wanderers,Brentford,0,2,2025-12-20,28947,2025,759127,0,0,0,0,0.04158267378807068,0.04158267378807068,0
 0,1,0.0700058713555336,73,FW,Arsenal,Wolverhampton Wanderers,2,1,2025-12-13,28928,2025,757951,0,0,0,0,0.0700058713555336,0.0700058713555336,0
 0,0,0,71,FW,Wolverhampton Wanderers,Manchester United,1,4,2025-12-08,28927,2025,757187,0,0,0,0,0,0,0
