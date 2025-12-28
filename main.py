@@ -2,6 +2,8 @@ import argparse
 import os
 from datetime import datetime
 
+import requests
+
 from src.clubelo.update import update_clubelo
 from src.footballdata.update import update_footballdata
 from src.fpl.fetch import fetch_bootstrap_static, fetch_event_status
@@ -51,12 +53,16 @@ def update():
         bootstrap_static,
         event_status,
     )
-    update_clubelo(bootstrap_static)
     update_understat(current_season, bootstrap_static)
     update_theoddsapi(
         theoddsapi_api_key, current_season, next_gameweek, bootstrap_static
     )
     update_footballdata(current_season, bootstrap_static)
+
+    try:
+        update_clubelo(bootstrap_static)
+    except requests.exceptions.ConnectionError:
+        print("Failed to update Club Elo data due to connection error.")
 
 
 def get_current_season(static_events: list[dict]) -> int:
