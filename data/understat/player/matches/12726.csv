@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.030961543321609497,9,Sub,Crystal Palace,Tottenham,0,1,2025-12-28,28952,2025,760386,0,0,0,0,0.030961543321609497,0.030961543321609497,0
 0,0,0,9,Sub,Leeds,Crystal Palace,4,1,2025-12-20,28943,2025,759419,0,0,0,0,0,0,0
 0,0,0,10,Sub,Crystal Palace,Manchester City,0,3,2025-12-14,28932,2025,758093,0,0,0,0,0,0.03355732560157776,0.03355732560157776
 0,1,0.2945574223995209,22,Sub,Fulham,Crystal Palace,1,2,2025-12-07,28922,2025,756900,0,0,0,0,0.2945574223995209,0.2945574223995209,0

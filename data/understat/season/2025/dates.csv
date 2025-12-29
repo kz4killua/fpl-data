@@ -177,8 +177,8 @@ id,isResult,h,a,goals,xG,datetime,forecast,h_title,a_title
 28953,True,87,229,"{'h': '2', 'a': '1'}","{'h': '1.56502', 'a': '0.780664'}",2025-12-27 15:00:00,"{'w': '0.5756', 'd': '0.2883', 'l': '0.1361'}",Liverpool,Wolverhampton Wanderers
 28957,True,81,228,"{'h': '0', 'a': '1'}","{'h': '1.13719', 'a': '1.11436'}",2025-12-27 15:00:00,"{'w': '0.3509', 'd': '0.3111', 'l': '0.338'}",West Ham,Fulham
 28951,True,80,71,"{'h': '1', 'a': '2'}","{'h': '1.97155', 'a': '2.05918'}",2025-12-27 17:30:00,"{'w': '0.3354', 'd': '0.2749', 'l': '0.3897'}",Chelsea,Aston Villa
-28956,False,77,245,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-28 14:00:00,,Sunderland,Leeds
-28952,False,78,82,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-28 16:30:00,,Crystal Palace,Tottenham
+28956,True,77,245,"{'h': '1', 'a': '1'}","{'h': '0.805957', 'a': '2.60653'}",2025-12-28 14:00:00,"{'w': '0.0588', 'd': '0.1287', 'l': '0.8125'}",Sunderland,Leeds
+28952,True,78,82,"{'h': '0', 'a': '1'}","{'h': '0.929681', 'a': '0.870768'}",2025-12-28 16:30:00,"{'w': '0.3247', 'd': '0.3463', 'l': '0.329'}",Crystal Palace,Tottenham
 28960,False,92,86,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-30 19:30:00,,Burnley,Newcastle United
 28961,False,80,73,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-30 19:30:00,,Chelsea,Bournemouth
 28965,False,249,72,"{'h': None, 'a': None}","{'h': None, 'a': None}",2025-12-30 19:30:00,,Nottingham Forest,Everton
