@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DMC,Nottingham Forest,Everton,0,2,2025-12-30,28965,2025,760577,0,0,0,0,0,0.4758163392543793,0.4758163392543793
 0,0,0,90,DMC,Burnley,Everton,0,0,2025-12-27,28950,2025,760124,0.6142200827598572,0,1,0,0,0.8759723901748657,0.26175230741500854
 0,0,0,90,DMC,Everton,Arsenal,0,1,2025-12-20,28941,2025,759368,0,0,0,0,0,0,0
 0,0,0,3,Sub,Chelsea,Everton,2,0,2025-12-13,28931,2025,757641,0,0,0,0,0,0,0
