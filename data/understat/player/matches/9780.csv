@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,9,Sub,Brentford,Tottenham,0,0,2026-01-01,28959,2025,760762,0,0,0,0,0,0,0
 0,0,0,8,Sub,Nottingham Forest,Tottenham,3,0,2025-12-14,28935,2025,758135,0,0,0,0,0,0,0
 0,0,0,11,Sub,Newcastle United,Tottenham,2,2,2025-12-02,28916,2025,755010,0,0,0,0,0,0.3838828206062317,0.3838828206062317
 0,0,0,2,Sub,Tottenham,Fulham,1,2,2025-11-29,28906,2025,753978,0,0,0,0,0,0,0

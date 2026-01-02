@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Crystal Palace,Fulham,1,1,2026-01-01,28962,2025,760704,0,0,0,0,0,0.08257952332496643,0.08257952332496643
 0,0,0,1,Sub,Fulham,Sunderland,1,0,2025-11-22,28892,2025,752033,0,0,0,0,0,0,0
 0,0,0,14,Sub,Aston Villa,Fulham,1,0,2025-05-03,26946,2024,723827,0,0,0,0,0,0,0
 0,1,0.054594844579696655,11,Sub,Fulham,Liverpool,3,2,2025-04-06,26906,2024,717555,0,0,0,0,0.054594844579696655,0.054594844579696655,0

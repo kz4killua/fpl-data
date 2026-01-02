@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Sunderland,Manchester City,0,0,2026-01-01,28966,2025,760776,0,0,0,0,0,0.6010552644729614,0.6010552644729614
 0,0,0,90,GK,Nottingham Forest,Manchester City,1,2,2025-12-27,28955,2025,759966,0,0,0,0,0,0.3879024386405945,0.3879024386405945
 0,0,0,90,GK,Manchester City,West Ham,3,0,2025-12-20,28944,2025,759087,0,0,0,0,0,0.5099408626556396,0.5099408626556396
 0,0,0,90,GK,Crystal Palace,Manchester City,0,3,2025-12-14,28932,2025,758096,0,0,0,0,0,0.2952035069465637,0.2952035069465637
