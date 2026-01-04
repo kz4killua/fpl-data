@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Wolverhampton Wanderers,West Ham,3,0,2026-01-03,28970,2025,761042,0,0,0,0,0,0,0
 0,0,0,90,GK,Manchester United,Wolverhampton Wanderers,1,1,2025-12-30,28964,2025,760662,0,0,0,0,0,0.0486481711268425,0.0486481711268425
 0,0,0,90,GK,Liverpool,Wolverhampton Wanderers,2,1,2025-12-27,28953,2025,760146,0,0,0,0,0,0.016878293827176094,0.016878293827176094
 0,0,0,90,GK,Wolverhampton Wanderers,Brentford,0,2,2025-12-20,28947,2025,759118,0,0,0,0,0,0.09145381301641464,0.09145381301641464

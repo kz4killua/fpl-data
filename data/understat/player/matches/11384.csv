@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,52,MC,Wolverhampton Wanderers,West Ham,3,0,2026-01-03,28970,2025,761048,0.3714962601661682,0,1,0,0,0.623376727104187,0.623376727104187
 0,0,0,90,MC,Manchester United,Wolverhampton Wanderers,1,1,2025-12-30,28964,2025,760668,0,0,0,0,0,0.2337123602628708,0.2337123602628708
 0,0,0,90,MC,Liverpool,Wolverhampton Wanderers,2,1,2025-12-27,28953,2025,760153,0.029270974919199944,0,1,0,0,0.10454189032316208,0.07527091354131699
 0,0,0,90,MC,Wolverhampton Wanderers,Brentford,0,2,2025-12-20,28947,2025,759125,0,0,0,0,0,0.031235501170158386,0.031235501170158386

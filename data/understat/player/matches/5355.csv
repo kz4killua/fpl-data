@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,57,MR,Brighton,Burnley,2,0,2026-01-03,28973,2025,761092,0.05845271050930023,0,1,0,0,0.05845271050930023,0
 0,0,0,11,Sub,Burnley,Newcastle United,1,3,2025-12-30,28960,2025,760509,0,0,0,0,0,0,0
 0,3,0.5101531744003296,74,FWL,Burnley,Everton,0,0,2025-12-27,28950,2025,760113,0,0,0,0,0.5101531744003296,0.5101531744003296,0
 0,0,0,68,FW,Bournemouth,Burnley,1,1,2025-12-20,28938,2025,759050,0,0,0,0,0,0,0

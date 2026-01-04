@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DR,Wolverhampton Wanderers,West Ham,3,0,2026-01-03,28970,2025,761058,0.010740593075752258,0,1,0,0,0.06989110261201859,0.06989110261201859
 0,0,0,90,DR,West Ham,Brighton,2,2,2025-12-30,28967,2025,760585,0,0,0,0,0,0,0
 0,0,0,90,DR,West Ham,Fulham,0,1,2025-12-27,28957,2025,760162,0,0,0,0,0,0.5164531469345093,0.5164531469345093
 0,0,0,90,DR,Manchester City,West Ham,3,0,2025-12-20,28944,2025,759103,0,0,0,0,0,0.3484865128993988,0.3484865128993988
