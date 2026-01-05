@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,81,DC,Leeds,Manchester United,1,1,2026-01-04,28976,2025,761409,0,0,0,0,0,0,0
 0,0,0,85,DC,Liverpool,Leeds,0,0,2026-01-01,28963,2025,760723,0,0,0,0,0,0,0
 0,0,0,1,Sub,Leeds,Liverpool,3,3,2025-12-06,28923,2025,756226,0,0,0,0,0,0,0
 0,0,0,1,Sub,Leeds,Chelsea,3,1,2025-12-03,28913,2025,755244,0,0,0,0,0,0,0

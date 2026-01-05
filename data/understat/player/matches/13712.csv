@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Tottenham,Sunderland,1,1,2026-01-04,28969,2025,761577,0,0,0,0,0,0.12117934226989746,0.12117934226989746
 0,0,0,90,GK,Sunderland,Manchester City,0,0,2026-01-01,28966,2025,760763,0,0,0,0,0,0.3853732943534851,0.3853732943534851
 0,0,0,90,GK,Sunderland,Leeds,1,1,2025-12-28,28956,2025,760315,0,0,0,0,0,0,0
 0,0,0,90,GK,Brighton,Sunderland,0,0,2025-12-20,28940,2025,759073,0,0,0,0,0,0.015937604010105133,0.015937604010105133

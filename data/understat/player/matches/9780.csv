@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,2,0.06697897613048553,90,AML,Tottenham,Sunderland,1,1,2026-01-04,28969,2025,761570,0,0,0,0,0.06697897613048553,0.09171673655509949,0.024737762287259102
 0,0,0,9,Sub,Brentford,Tottenham,0,0,2026-01-01,28959,2025,760762,0,0,0,0,0,0,0
 0,0,0,8,Sub,Nottingham Forest,Tottenham,3,0,2025-12-14,28935,2025,758135,0,0,0,0,0,0,0
 0,0,0,11,Sub,Newcastle United,Tottenham,2,2,2025-12-02,28916,2025,755010,0,0,0,0,0,0.3838828206062317,0.3838828206062317

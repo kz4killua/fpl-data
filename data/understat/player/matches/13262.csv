@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,3,Sub,Fulham,Liverpool,2,2,2026-01-04,28975,2025,761634,0,0,0,0,0,0,0
 0,0,0,1,Sub,Fulham,Nottingham Forest,1,0,2025-12-22,28942,2025,759841,0,0,0,0,0,0,0
 0,0,0,13,Sub,Fulham,Manchester City,4,5,2025-12-02,28912,2025,754939,0.081977978348732,0,1,0,0,0.081977978348732,0
 0,0,0,1,Sub,Newcastle United,Fulham,2,1,2025-10-25,28866,2025,745956,0,0,0,0,0,0,0
