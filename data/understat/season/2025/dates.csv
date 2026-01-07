@@ -199,7 +199,7 @@ id,isResult,h,a,goals,xG,datetime,forecast,h_title,a_title
 28974,True,72,244,"{'h': '2', 'a': '4'}","{'h': '1.00566', 'a': '3.05179'}",2026-01-04 15:00:00,"{'w': '0.0586', 'd': '0.1135', 'l': '0.8279'}",Everton,Brentford
 28975,True,228,87,"{'h': '2', 'a': '2'}","{'h': '0.609182', 'a': '1.7188'}",2026-01-04 15:00:00,"{'w': '0.0957', 'd': '0.2177', 'l': '0.6866'}",Fulham,Liverpool
 28977,True,88,80,"{'h': '1', 'a': '1'}","{'h': '1.03049', 'a': '2.03726'}",2026-01-04 17:30:00,"{'w': '0.1151', 'd': '0.2012', 'l': '0.6837'}",Manchester City,Chelsea
-28987,False,81,249,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-06 20:00:00,,West Ham,Nottingham Forest
+28987,True,81,249,"{'h': '1', 'a': '2'}","{'h': '1.73697', 'a': '1.26683'}",2026-01-06 20:00:00,"{'w': '0.4809', 'd': '0.2855', 'l': '0.2336'}",West Ham,Nottingham Forest
 28978,False,72,229,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-07 19:30:00,,Everton,Wolverhampton Wanderers
 28979,False,73,82,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-07 19:30:00,,Bournemouth,Tottenham
 28981,False,244,77,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-07 19:30:00,,Brentford,Sunderland

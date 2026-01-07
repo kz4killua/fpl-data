@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,2,0.3588765263557434,90,DMC,West Ham,Nottingham Forest,1,2,2026-01-06,28987,2025,762087,0.08671201765537262,0,2,0,0.3588765263557434,0.19904692471027374,0.05689937621355057
 0,0,0,38,Sub,Wolverhampton Wanderers,West Ham,3,0,2026-01-03,28970,2025,761068,0,0,0,0,0,0.059150513261556625,0.059150513261556625
 0,0,0,1,Sub,West Ham,Brighton,2,2,2025-12-30,28967,2025,760595,0,0,0,0,0,0,0
 0,0,0,7,Sub,West Ham,Fulham,0,1,2025-12-27,28957,2025,760172,0,0,0,0,0,0,0
