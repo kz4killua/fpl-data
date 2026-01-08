@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.019010119140148163,77,DL,Manchester City,Brighton,1,1,2026-01-07,28985,2025,762263,0.11836032569408417,0,2,0,0.019010119140148163,0.1387152373790741,0.07626082748174667
 0,0,0,7,Sub,Manchester City,Chelsea,1,1,2026-01-04,28977,2025,761847,0,0,0,0,0,0,0
 0,0,0,90,DC,Sunderland,Manchester City,0,0,2026-01-01,28966,2025,760778,0.32898691296577454,0,1,0,0,0.9300421476364136,0.6010552644729614
 0,0,0,1,Sub,Nottingham Forest,Manchester City,1,2,2025-12-27,28955,2025,759978,0,0,0,0,0,0,0

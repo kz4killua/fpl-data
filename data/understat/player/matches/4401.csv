@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,47,GK,Crystal Palace,Aston Villa,0,0,2026-01-07,28983,2025,762365,0,0,0,0,0,0,0
 0,0,0,90,GK,Aston Villa,Nottingham Forest,3,1,2026-01-03,28972,2025,760917,0,0,0,0,0,0.04097895696759224,0.04097895696759224
 0,0,0,90,GK,Arsenal,Aston Villa,4,1,2025-12-30,28958,2025,760632,0,0,0,0,0,0.3433566093444824,0.3433566093444824
 0,0,0,90,GK,Chelsea,Aston Villa,1,2,2025-12-27,28951,2025,760235,0,0,0,0,0,0.27015745639801025,0.27015745639801025

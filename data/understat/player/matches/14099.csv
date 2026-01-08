@@ -1,3 +1,4 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,7,Sub,Brentford,Sunderland,3,0,2026-01-07,28981,2025,762255,0,0,0,0,0,0,0
 0,0,0,1,Sub,Manchester City,Sunderland,3,0,2025-12-06,28924,2025,755995,0,0,0,0,0,0,0
 0,0,0,1,Sub,Liverpool,Sunderland,1,1,2025-12-03,28914,2025,755294,0,0,0,0,0,0,0

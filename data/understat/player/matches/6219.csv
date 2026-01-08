@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,2,0.19027087092399597,22,Sub,Bournemouth,Tottenham,3,2,2026-01-07,28979,2025,762212,0,0,0,0,0.19027087092399597,0.12114076316356659,0
 0,0,0,14,Sub,Bournemouth,Arsenal,2,3,2026-01-03,28971,2025,761206,0,0,0,0,0,0,0
 0,1,0.3776787221431732,1,Sub,Chelsea,Bournemouth,2,2,2025-12-30,28961,2025,760555,0,0,0,0,0.3776787221431732,0.3776787221431732,0
 0,0,0,25,Sub,Bournemouth,Burnley,1,1,2025-12-20,28938,2025,759038,0,0,0,0,0,0,0
