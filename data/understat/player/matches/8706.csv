@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,10,Sub,Arsenal,Liverpool,0,0,2026-01-08,28980,2025,762580,0,0,0,0,0,0.14756391942501068,0.14756391942501068
 0,0,0,61,MC,Arsenal,Wolverhampton Wanderers,2,1,2025-12-13,28928,2025,757933,0,0,0,0,0,0.1580425351858139,0.1580425351858139
 0,0,0,47,FWL,Aston Villa,Arsenal,2,1,2025-12-06,28919,2025,755652,0,0,0,0,0,0,0
 0,0,0,26,Sub,Arsenal,Brentford,2,0,2025-12-03,28909,2025,755092,0.02769140712916851,0,1,0,0,0.05924494192004204,0.03155353292822838

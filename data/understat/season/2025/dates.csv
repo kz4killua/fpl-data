@@ -208,7 +208,7 @@ id,isResult,h,a,goals,xG,datetime,forecast,h_title,a_title
 28985,True,88,220,"{'h': '1', 'a': '1'}","{'h': '2.95904', 'a': '1.33162'}",2026-01-07 19:30:00,"{'w': '0.7562', 'd': '0.1607', 'l': '0.0831'}",Manchester City,Brighton
 28982,True,92,89,"{'h': '2', 'a': '2'}","{'h': '0.31971', 'a': '2.52488'}",2026-01-07 20:15:00,"{'w': '0.0234', 'd': '0.1025', 'l': '0.8741'}",Burnley,Manchester United
 28986,True,86,245,"{'h': '4', 'a': '3'}","{'h': '2.43495', 'a': '2.35318'}",2026-01-07 20:15:00,"{'w': '0.401', 'd': '0.2529', 'l': '0.3461'}",Newcastle United,Leeds
-28980,False,83,87,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-08 20:00:00,,Arsenal,Liverpool
+28980,True,83,87,"{'h': '0', 'a': '0'}","{'h': '0.701832', 'a': '0.318642'}",2026-01-08 20:00:00,"{'w': '0.4144', 'd': '0.4412', 'l': '0.1444'}",Arsenal,Liverpool
 28993,False,89,88,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-17 12:30:00,,Manchester United,Manchester City
 28990,False,80,244,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-17 15:00:00,,Chelsea,Brentford
 28991,False,245,228,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-17 15:00:00,,Leeds,Fulham
