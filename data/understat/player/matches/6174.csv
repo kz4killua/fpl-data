@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Nottingham Forest,Arsenal,0,0,2026-01-17,28994,2025,764400,0,0,0,0,0,0,0
 0,0,0,90,DC,West Ham,Nottingham Forest,1,2,2026-01-06,28987,2025,762099,0,0,0,0,0,0.05939604714512825,0.05939604714512825
 0,0,0,90,DC,Aston Villa,Nottingham Forest,3,1,2026-01-03,28972,2025,760936,0,0,0,0,0,0.6822201013565063,0.6822201013565063
 0,0,0,90,DC,Nottingham Forest,Everton,0,2,2025-12-30,28965,2025,760560,0,0,0,0,0,0.42483893036842346,0.42483893036842346

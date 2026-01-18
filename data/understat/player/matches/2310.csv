@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Tottenham,West Ham,1,2,2026-01-17,28996,2025,764320,0,0,0,0,0,0.2667311429977417,0.2667311429977417
 0,0,0,90,GK,West Ham,Nottingham Forest,1,2,2026-01-06,28987,2025,762082,0,0,0,0,0,0,0
 0,0,0,90,GK,Wolverhampton Wanderers,West Ham,3,0,2026-01-03,28970,2025,761057,0,0,0,0,0,0,0
 0,0,0,90,GK,West Ham,Brighton,2,2,2025-12-30,28967,2025,760584,0,0,0,0,0,0,0

@@ -209,13 +209,13 @@ id,isResult,h,a,goals,xG,datetime,forecast,h_title,a_title
 28982,True,92,89,"{'h': '2', 'a': '2'}","{'h': '0.31971', 'a': '2.52488'}",2026-01-07 20:15:00,"{'w': '0.0234', 'd': '0.1025', 'l': '0.8741'}",Burnley,Manchester United
 28986,True,86,245,"{'h': '4', 'a': '3'}","{'h': '2.43495', 'a': '2.35318'}",2026-01-07 20:15:00,"{'w': '0.401', 'd': '0.2529', 'l': '0.3461'}",Newcastle United,Leeds
 28980,True,83,87,"{'h': '0', 'a': '0'}","{'h': '0.701832', 'a': '0.318642'}",2026-01-08 20:00:00,"{'w': '0.4144', 'd': '0.4412', 'l': '0.1444'}",Arsenal,Liverpool
-28993,False,89,88,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-17 12:30:00,,Manchester United,Manchester City
-28990,False,80,244,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-17 15:00:00,,Chelsea,Brentford
-28991,False,245,228,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-17 15:00:00,,Leeds,Fulham
-28992,False,87,92,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-17 15:00:00,,Liverpool,Burnley
-28995,False,77,78,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-17 15:00:00,,Sunderland,Crystal Palace
-28996,False,82,81,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-17 15:00:00,,Tottenham,West Ham
-28994,False,249,83,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-17 17:30:00,,Nottingham Forest,Arsenal
+28993,True,89,88,"{'h': '2', 'a': '0'}","{'h': '3.07278', 'a': '0.387015'}",2026-01-17 12:30:00,"{'w': '0.9392', 'd': '0.0489', 'l': '0.0119'}",Manchester United,Manchester City
+28990,True,80,244,"{'h': '2', 'a': '0'}","{'h': '1.62263', 'a': '1.47521'}",2026-01-17 15:00:00,"{'w': '0.4189', 'd': '0.2809', 'l': '0.3002'}",Chelsea,Brentford
+28991,True,245,228,"{'h': '1', 'a': '0'}","{'h': '2.16898', 'a': '0.258796'}",2026-01-17 15:00:00,"{'w': '0.864', 'd': '0.1163', 'l': '0.0197'}",Leeds,Fulham
+28992,True,87,92,"{'h': '1', 'a': '1'}","{'h': '3.49045', 'a': '0.546971'}",2026-01-17 15:00:00,"{'w': '0.9471', 'd': '0.041', 'l': '0.0119'}",Liverpool,Burnley
+28995,True,77,78,"{'h': '2', 'a': '1'}","{'h': '1.84601', 'a': '1.15169'}",2026-01-17 15:00:00,"{'w': '0.5566', 'd': '0.26', 'l': '0.1834'}",Sunderland,Crystal Palace
+28996,True,82,81,"{'h': '1', 'a': '2'}","{'h': '1.65292', 'a': '2.76761'}",2026-01-17 15:00:00,"{'w': '0.1425', 'd': '0.202', 'l': '0.6555'}",Tottenham,West Ham
+28994,True,249,83,"{'h': '0', 'a': '0'}","{'h': '0.318481', 'a': '2.86323'}",2026-01-17 17:30:00,"{'w': '0.0086', 'd': '0.0474', 'l': '0.944'}",Nottingham Forest,Arsenal
 28997,False,229,86,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-18 14:00:00,,Wolverhampton Wanderers,Newcastle United
 28988,False,71,72,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-18 16:30:00,,Aston Villa,Everton
 28989,False,220,73,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-19 20:00:00,,Brighton,Bournemouth
