@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,22,Sub,Wolverhampton Wanderers,Newcastle United,0,0,2026-01-18,28997,2025,764697,0,0,0,0,0,0,0
 0,1,0.07100074738264084,13,Sub,Newcastle United,Chelsea,2,2,2025-12-20,28945,2025,758824,0,0,0,0,0.07100074738264084,0.3515556752681732,0.2805549204349518
 0,0,0,62,FWR,Sunderland,Newcastle United,1,0,2025-12-14,28936,2025,758162,0,0,0,0,0,0,0
 0,3,0.16372808814048767,90,FWR,Newcastle United,Burnley,2,1,2025-12-06,28925,2025,756006,0,0,0,0,0.16372808814048767,0.29642075300216675,0.13269266486167908

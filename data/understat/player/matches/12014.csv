@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Aston Villa,Everton,0,1,2026-01-18,28988,2025,764841,0,0,0,0,0,0.03169909492135048,0.03169909492135048
 0,0,0,90,DR,Everton,Wolverhampton Wanderers,1,1,2026-01-07,28978,2025,762171,0.10884202271699905,0,2,0,0,0.2312469780445099,0.12240494787693024
 0,0,0,90,DR,Everton,Brentford,2,4,2026-01-04,28974,2025,761592,0,0,0,0,0,0.3872338831424713,0.3872338831424713
 0,0,0,90,DC,Nottingham Forest,Everton,0,2,2025-12-30,28965,2025,760573,0,0,0,0,0,0,0

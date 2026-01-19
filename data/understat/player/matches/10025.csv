@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,76,DMC,Aston Villa,Everton,0,1,2026-01-18,28988,2025,764831,0,0,0,0,0,0.16203589737415314,0.16203589737415314
 0,0,0,7,Sub,Crystal Palace,Aston Villa,0,0,2026-01-07,28983,2025,762379,0,0,0,0,0,0.0941997766494751,0.0941997766494751
 0,0,0,5,Sub,Aston Villa,Nottingham Forest,3,1,2026-01-03,28972,2025,760930,0,0,0,0,0,0,0
 0,0,0,90,DR,Arsenal,Aston Villa,4,1,2025-12-30,28958,2025,760633,0,0,0,0,0,0.5111455321311951,0.5111455321311951

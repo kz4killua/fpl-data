@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Wolverhampton Wanderers,Newcastle United,0,0,2026-01-18,28997,2025,764688,0,0,0,0,0,0.18915149569511414,0.18915149569511414
 0,1,0.07213106006383896,38,Sub,Newcastle United,Leeds,4,3,2026-01-07,28986,2025,762484,0,0,0,0,0.07213106006383896,0.13721831142902374,0.13721831142902374
 0,0,0,11,Sub,Newcastle United,Manchester City,2,1,2025-11-22,28896,2025,752245,0,0,0,0,0,0,0
 0,0,0,90,DC,Brentford,Newcastle United,3,1,2025-11-09,28879,2025,750891,0,0,0,0,0,0.02224189229309559,0.02224189229309559
