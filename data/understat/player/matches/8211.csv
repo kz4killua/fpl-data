@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,84,AML,Brighton,Bournemouth,1,1,2026-01-19,28989,2025,765159,0,0,0,0,0,0.10916011780500412,0.10916011780500412
 0,0,0,1,Sub,Bournemouth,Tottenham,3,2,2026-01-07,28979,2025,762210,0,0,0,0,0,0,0
 0,1,0.020191742107272148,21,Sub,Bournemouth,Arsenal,2,3,2026-01-03,28971,2025,761205,0,0,0,0,0.020191742107272148,0.020191742107272148,0
 0,0,0,4,Sub,Chelsea,Bournemouth,2,2,2025-12-30,28961,2025,760554,0.3776787221431732,0,1,0,0,0.3776787221431732,0
