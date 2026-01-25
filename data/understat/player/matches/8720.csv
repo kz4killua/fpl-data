@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,30,Sub,Fiorentina,Cagliari,1,2,2026-01-24,30056,2025,765760,0,0,0,0,0,1.2700557708740234,1.2700557708740234
 0,0,0,1,Sub,Brentford,Leeds,1,1,2025-12-14,28929,2025,758474,0,0,0,0,0,0,0
 0,0,0,4,Sub,Nottingham Forest,Leeds,3,1,2025-11-09,28884,2025,750870,0,0,0,0,0,0.058847472071647644,0.058847472071647644
 0,0,0,12,Sub,Brighton,Leeds,3,0,2025-11-01,28868,2025,748304,0,0,0,0,0,0.10167467594146729,0.10167467594146729

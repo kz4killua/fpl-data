@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,34,DC,Bournemouth,Liverpool,3,2,2026-01-24,28998,2025,765794,0,0,0,0,0,0,0
 0,0,0,1,Sub,Arsenal,Liverpool,0,0,2026-01-08,28980,2025,762593,0,0,0,0,0,0,0
 0,0,0,1,Sub,Fulham,Liverpool,2,2,2026-01-04,28975,2025,761649,0,0,0,0,0,0,0
 0,0,0,25,DR,Liverpool,Brighton,2,0,2025-12-13,28933,2025,757644,0.42432788014411926,1,2,0,0,0.47911080718040466,0.054782934486866

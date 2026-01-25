@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,West Ham,Sunderland,3,1,2026-01-24,29007,2025,765362,0,0,0,0,0,0.04128555208444595,0.04128555208444595
 0,0,0,90,GK,Sunderland,Crystal Palace,2,1,2026-01-17,28995,2025,764188,0,0,0,0,0,0,0
 0,0,0,90,GK,Brentford,Sunderland,3,0,2026-01-07,28981,2025,762243,0,0,0,0,0,0,0
 0,0,0,90,GK,Tottenham,Sunderland,1,1,2026-01-04,28969,2025,761577,0,0,0,0,0,0.12117934226989746,0.12117934226989746

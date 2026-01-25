@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Manchester City,Wolverhampton Wanderers,2,0,2026-01-24,29005,2025,765657,0.1151297390460968,0,1,0,0,0.6571834683418274,0.5420536994934082
 0,0,0,90,DC,Manchester United,Manchester City,2,0,2026-01-17,28993,2025,763925,0,0,0,0,0,0.07204316556453705,0.07204316556453705
 0,0,0,90,DC,Manchester City,Brighton,1,1,2026-01-07,28985,2025,762261,0,0,0,0,0,0.25422418117523193,0.25422418117523193
 0,0,0,37,Sub,Manchester City,Chelsea,1,1,2026-01-04,28977,2025,761848,0,0,0,0,0,0,0
