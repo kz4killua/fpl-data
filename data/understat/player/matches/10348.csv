@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,22,Sub,Brentford,Nottingham Forest,0,2,2026-01-25,29000,2025,766083,0,0,0,0,0,0,0
 0,0,0,1,Sub,Nottingham Forest,Arsenal,0,0,2026-01-17,28994,2025,764409,0,0,0,0,0,0,0
 0,0,0,47,AMR,West Ham,Nottingham Forest,1,2,2026-01-06,28987,2025,762103,0,0,0,0,0,0.025098120793700218,0.025098120793700218
 0,1,0.05890972539782524,90,MR,Aston Villa,Nottingham Forest,3,1,2026-01-03,28972,2025,760938,0.38290730118751526,0,1,0,0.05890972539782524,0.4418170154094696,0

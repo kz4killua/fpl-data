@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,2,Sub,Paris FC,Angers,0,0,2026-01-25,29707,2025,766377,0,0,0,0,0,0,0
 0,0,0,1,Sub,Nantes,Paris FC,1,2,2026-01-18,29695,2025,765225,0,0,0,0,0,0,0
 0,1,0.1688593626022339,1,Sub,Wolverhampton Wanderers,Nottingham Forest,0,1,2025-12-03,28917,2025,755153,0,0,0,0,0.1688593626022339,0.1688593626022339,0
 0,1,0.06017865985631943,67,MC,Wolverhampton Wanderers,Crystal Palace,0,2,2025-11-22,28897,2025,752058,0,0,0,0,0.06017865985631943,0.015250574797391891,0.015250574797391891

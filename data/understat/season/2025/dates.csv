@@ -224,10 +224,10 @@ id,isResult,h,a,goals,xG,datetime,forecast,h_title,a_title
 29004,True,228,220,"{'h': '2', 'a': '1'}","{'h': '1.13243', 'a': '1.94652'}",2026-01-24 15:00:00,"{'w': '0.1687', 'd': '0.2381', 'l': '0.5932'}",Fulham,Brighton
 29005,True,88,229,"{'h': '2', 'a': '0'}","{'h': '1.0654', 'a': '0.542683'}",2026-01-24 15:00:00,"{'w': '0.4964', 'd': '0.3317', 'l': '0.1719'}",Manchester City,Wolverhampton Wanderers
 28998,True,73,87,"{'h': '3', 'a': '2'}","{'h': '3.31474', 'a': '0.937335'}",2026-01-24 17:30:00,"{'w': '0.8979', 'd': '0.0725', 'l': '0.0296'}",Bournemouth,Liverpool
-29000,False,244,249,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-25 14:00:00,,Brentford,Nottingham Forest
-29002,False,78,80,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-25 14:00:00,,Crystal Palace,Chelsea
-29006,False,86,71,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-25 14:00:00,,Newcastle United,Aston Villa
-28999,False,83,89,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-25 16:30:00,,Arsenal,Manchester United
+29000,True,244,249,"{'h': '0', 'a': '2'}","{'h': '2.00413', 'a': '1.38958'}",2026-01-25 14:00:00,"{'w': '0.5375', 'd': '0.2893', 'l': '0.1732'}",Brentford,Nottingham Forest
+29002,True,78,80,"{'h': '1', 'a': '3'}","{'h': '2.41793', 'a': '3.08817'}",2026-01-25 14:00:00,"{'w': '0.2467', 'd': '0.2125', 'l': '0.5408'}",Crystal Palace,Chelsea
+29006,True,86,71,"{'h': '0', 'a': '2'}","{'h': '1.95484', 'a': '1.32143'}",2026-01-25 14:00:00,"{'w': '0.5465', 'd': '0.2409', 'l': '0.2126'}",Newcastle United,Aston Villa
+28999,True,83,89,"{'h': '2', 'a': '3'}","{'h': '1.42411', 'a': '0.640902'}",2026-01-25 16:30:00,"{'w': '0.6023', 'd': '0.2707', 'l': '0.127'}",Arsenal,Manchester United
 29003,False,72,245,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-26 20:00:00,,Everton,Leeds
 29010,False,220,72,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-31 15:00:00,,Brighton,Everton
 29015,False,245,83,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-31 15:00:00,,Leeds,Arsenal
