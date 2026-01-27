@@ -228,7 +228,7 @@ id,isResult,h,a,goals,xG,datetime,forecast,h_title,a_title
 29002,True,78,80,"{'h': '1', 'a': '3'}","{'h': '2.41793', 'a': '3.08817'}",2026-01-25 14:00:00,"{'w': '0.2467', 'd': '0.2125', 'l': '0.5408'}",Crystal Palace,Chelsea
 29006,True,86,71,"{'h': '0', 'a': '2'}","{'h': '1.95484', 'a': '1.32143'}",2026-01-25 14:00:00,"{'w': '0.5465', 'd': '0.2409', 'l': '0.2126'}",Newcastle United,Aston Villa
 28999,True,83,89,"{'h': '2', 'a': '3'}","{'h': '1.42411', 'a': '0.640902'}",2026-01-25 16:30:00,"{'w': '0.6023', 'd': '0.2707', 'l': '0.127'}",Arsenal,Manchester United
-29003,False,72,245,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-26 20:00:00,,Everton,Leeds
+29003,True,72,245,"{'h': '1', 'a': '1'}","{'h': '0.889916', 'a': '1.6766'}",2026-01-26 20:00:00,"{'w': '0.1546', 'd': '0.259', 'l': '0.5864'}",Everton,Leeds
 29010,False,220,72,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-31 15:00:00,,Brighton,Everton
 29015,False,245,83,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-31 15:00:00,,Leeds,Arsenal
 29017,False,229,73,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-01-31 15:00:00,,Wolverhampton Wanderers,Bournemouth
