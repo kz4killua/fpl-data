@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Liverpool,Newcastle United,4,1,2026-01-31,29014,2025,767445,0,0,0,0,0,0.23232091963291168,0.23232091963291168
 0,0,0,90,GK,Bournemouth,Liverpool,3,2,2026-01-24,28998,2025,765791,0,0,0,0,0,0.06404025852680206,0.06404025852680206
 0,0,0,90,GK,Liverpool,Burnley,1,1,2026-01-17,28992,2025,764157,0,0,0,0,0,0.39847248792648315,0.39847248792648315
 0,0,0,90,GK,Arsenal,Liverpool,0,0,2026-01-08,28980,2025,762582,0,0,0,0,0,0,0

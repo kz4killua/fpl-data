@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,72,DMR,Wolverhampton Wanderers,Bournemouth,0,2,2026-01-31,29017,2025,767167,0,0,0,0,0,0,0
 0,0,0,40,Sub,Manchester City,Wolverhampton Wanderers,2,0,2026-01-24,29005,2025,765682,0,0,0,0,0,0,0
 0,0,0,3,Sub,Wolverhampton Wanderers,Newcastle United,0,0,2026-01-18,28997,2025,764684,0,0,0,0,0,0,0
 0,3,0.20104539394378662,90,FWL,Wolverhampton Wanderers,Burnley,2,3,2025-10-26,28867,2025,746660,0.03145599365234375,0,1,0,0.20104539394378662,0.2960556447505951,0.06355424970388412

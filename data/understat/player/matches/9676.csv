@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Leeds,Arsenal,0,4,2026-01-31,29015,2025,767147,0,0,0,0,0,0.4134518504142761,0.4134518504142761
 0,0,0,90,GK,Arsenal,Manchester United,2,3,2026-01-25,28999,2025,766394,0,0,0,0,0,0.12896212935447693,0.12896212935447693
 0,0,0,90,GK,Nottingham Forest,Arsenal,0,0,2026-01-17,28994,2025,764410,0,0,0,0,0,0,0
 0,0,0,90,GK,Arsenal,Liverpool,0,0,2026-01-08,28980,2025,762566,0,0,0,0,0,0.0225673895329237,0.0225673895329237

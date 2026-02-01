@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,51,DC,Chelsea,West Ham,3,2,2026-01-31,29009,2025,767322,0,0,0,0,0,0,0
 0,0,0,90,DC,Crystal Palace,Chelsea,1,3,2026-01-25,29002,2025,766103,0,0,0,0,0,0.09501395374536514,0.09501395374536514
 0,0,0,90,DC,Manchester City,Chelsea,1,1,2026-01-04,28977,2025,761851,0,0,0,0,0,0.07968544214963913,0.07968544214963913
 0,0,0,90,DC,Chelsea,Aston Villa,1,2,2025-12-27,28951,2025,760222,0,0,0,0,0,0.7040936350822449,0.7040936350822449
