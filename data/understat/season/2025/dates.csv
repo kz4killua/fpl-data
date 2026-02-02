@@ -234,10 +234,10 @@ id,isResult,h,a,goals,xG,datetime,forecast,h_title,a_title
 29017,True,229,73,"{'h': '0', 'a': '2'}","{'h': '2.10353', 'a': '1.59116'}",2026-01-31 15:00:00,"{'w': '0.4904', 'd': '0.26', 'l': '0.2496'}",Wolverhampton Wanderers,Bournemouth
 29009,True,80,81,"{'h': '3', 'a': '2'}","{'h': '2.66133', 'a': '1.72585'}",2026-01-31 17:30:00,"{'w': '0.6123', 'd': '0.2211', 'l': '0.1666'}",Chelsea,West Ham
 29014,True,87,86,"{'h': '4', 'a': '1'}","{'h': '3.09973', 'a': '0.284319'}",2026-01-31 20:00:00,"{'w': '0.9463', 'd': '0.0443', 'l': '0.0094'}",Liverpool,Newcastle United
-29008,False,71,244,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-01 14:00:00,,Aston Villa,Brentford
-29012,False,89,228,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-01 14:00:00,,Manchester United,Fulham
-29013,False,249,78,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-01 14:00:00,,Nottingham Forest,Crystal Palace
-29016,False,82,88,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-01 16:30:00,,Tottenham,Manchester City
+29008,True,71,244,"{'h': '0', 'a': '1'}","{'h': '2.15316', 'a': '0.314916'}",2026-02-01 14:00:00,"{'w': '0.8302', 'd': '0.1363', 'l': '0.0335'}",Aston Villa,Brentford
+29012,True,89,228,"{'h': '3', 'a': '2'}","{'h': '1.84362', 'a': '1.71998'}",2026-02-01 14:00:00,"{'w': '0.3948', 'd': '0.2664', 'l': '0.3388'}",Manchester United,Fulham
+29013,True,249,78,"{'h': '1', 'a': '1'}","{'h': '0.987254', 'a': '1.648'}",2026-02-01 14:00:00,"{'w': '0.1767', 'd': '0.2772', 'l': '0.5461'}",Nottingham Forest,Crystal Palace
+29016,True,82,88,"{'h': '2', 'a': '2'}","{'h': '1.49738', 'a': '2.03614'}",2026-02-01 16:30:00,"{'w': '0.2511', 'd': '0.2387', 'l': '0.5102'}",Tottenham,Manchester City
 29011,False,77,92,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-02 20:00:00,,Sunderland,Burnley
 29023,False,245,249,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-06 20:00:00,,Leeds,Nottingham Forest
 29025,False,89,82,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-07 12:30:00,,Manchester United,Tottenham

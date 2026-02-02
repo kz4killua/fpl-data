@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Tottenham,Manchester City,2,2,2026-02-01,29016,2025,767902,0,0,0,0,0,0,0
 0,0,0,90,GK,Burnley,Tottenham,2,2,2026-01-24,29001,2025,765608,0,0,0,0,0,0.10341862589120865,0.10341862589120865
 0,0,0,90,GK,Tottenham,West Ham,1,2,2026-01-17,28996,2025,764305,0,0,0,0,0,0,0
 0,0,0,90,GK,Bournemouth,Tottenham,3,2,2026-01-07,28979,2025,762214,0,0,0,0,0,0.046447835862636566,0.046447835862636566

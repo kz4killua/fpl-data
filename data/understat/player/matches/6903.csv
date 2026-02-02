@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,52,GK,Nottingham Forest,Crystal Palace,1,1,2026-02-01,29013,2025,767664,0,0,0,0,0,0,0
 0,0,0,90,GK,Brentford,Nottingham Forest,0,2,2026-01-25,29000,2025,766071,0,0,0,0,0,0,0
 0,0,0,90,GK,Nottingham Forest,Arsenal,0,0,2026-01-17,28994,2025,764397,0,0,0,0,0,0,0
 0,0,0,90,GK,West Ham,Nottingham Forest,1,2,2026-01-06,28987,2025,762096,0,0,0,0,0,0,0
