@@ -238,7 +238,7 @@ id,isResult,h,a,goals,xG,datetime,forecast,h_title,a_title
 29012,True,89,228,"{'h': '3', 'a': '2'}","{'h': '1.84362', 'a': '1.71998'}",2026-02-01 14:00:00,"{'w': '0.3948', 'd': '0.2664', 'l': '0.3388'}",Manchester United,Fulham
 29013,True,249,78,"{'h': '1', 'a': '1'}","{'h': '0.987254', 'a': '1.648'}",2026-02-01 14:00:00,"{'w': '0.1767', 'd': '0.2772', 'l': '0.5461'}",Nottingham Forest,Crystal Palace
 29016,True,82,88,"{'h': '2', 'a': '2'}","{'h': '1.49738', 'a': '2.03614'}",2026-02-01 16:30:00,"{'w': '0.2511', 'd': '0.2387', 'l': '0.5102'}",Tottenham,Manchester City
-29011,False,77,92,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-02 20:00:00,,Sunderland,Burnley
+29011,True,77,92,"{'h': '3', 'a': '0'}","{'h': '1.8865', 'a': '0.126371'}",2026-02-02 20:00:00,"{'w': '0.8773', 'd': '0.1119', 'l': '0.0108'}",Sunderland,Burnley
 29023,False,245,249,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-06 20:00:00,,Leeds,Nottingham Forest
 29025,False,89,82,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-07 12:30:00,,Manchester United,Tottenham
 29018,False,73,71,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-07 15:00:00,,Bournemouth,Aston Villa
