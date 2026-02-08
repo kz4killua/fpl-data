@@ -1,0 +1,2 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,30,Sub,Manchester United,Tottenham,2,0,2026-02-07,29025,2025,768398,0.03038470447063446,0,1,0,0,0.03038470447063446,0.03038470447063446

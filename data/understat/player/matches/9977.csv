@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,19,Sub,Burnley,West Ham,0,2,2026-02-07,29021,2025,768663,0,0,0,0,0,0.007867379114031792,0.007867379114031792
 0,0,0,17,Sub,Sunderland,Burnley,3,0,2026-02-02,29011,2025,768178,0,0,0,0,0,0,0
 0,0,0,1,Sub,Liverpool,Burnley,1,1,2026-01-17,28992,2025,764183,0,0,0,0,0,0.22270600497722626,0.22270600497722626
 0,2,0.073628731071949,24,Sub,Brighton,Burnley,2,0,2026-01-03,28973,2025,761097,0,0,0,0,0.073628731071949,0,0

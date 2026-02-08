@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.6480235457420349,70,FW,Newcastle United,Brentford,2,3,2026-02-07,29026,2025,768844,0,0,0,0,0.6480235457420349,0.6480235457420349,0
 0,0,0,12,Sub,Liverpool,Newcastle United,4,1,2026-01-31,29014,2025,767470,0,0,0,0,0,0,0
 0,1,0.029259057715535164,66,FW,Newcastle United,Aston Villa,0,2,2026-01-25,29006,2025,766126,0.06837474554777145,0,1,0,0.029259057715535164,0.6487192511558533,0.6194602251052856
 0,0,0,22,Sub,Wolverhampton Wanderers,Newcastle United,0,0,2026-01-18,28997,2025,764696,0,0,0,0,0,0,0

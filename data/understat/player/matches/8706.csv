@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,2,0.07558934390544891,19,Sub,Arsenal,Sunderland,3,0,2026-02-07,29019,2025,768634,0,0,0,0,0.07558934390544891,0,0
 0,0,0,7,Sub,Leeds,Arsenal,0,4,2026-01-31,29015,2025,767162,0,0,0,0,0,0,0
 0,0,0,30,Sub,Arsenal,Manchester United,2,3,2026-01-25,28999,2025,766409,0.05579663813114166,0,1,0,0,0.10126781463623047,0.045471176505088806
 0,0,0,8,Sub,Nottingham Forest,Arsenal,0,0,2026-01-17,28994,2025,764425,0,0,0,0,0,0,0
