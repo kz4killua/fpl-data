@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,4,Sub,Brighton,Crystal Palace,0,1,2026-02-08,29020,2025,769159,0,0,0,0,0,0,0
 0,3,0.33991438150405884,71,DMC,Brighton,Bournemouth,1,1,2026-01-19,28989,2025,765140,0,0,0,0,0.33991438150405884,0.1059875562787056,0.06576123833656311
 0,0,0,90,DR,Manchester City,Brighton,1,1,2026-01-07,28985,2025,762275,0,0,0,0,0,0,0
 0,0,0,10,Sub,West Ham,Brighton,2,2,2025-12-30,28967,2025,760615,0,0,0,0,0,0.0889807641506195,0.0889807641506195

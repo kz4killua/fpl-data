@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,4,Sub,Brighton,Crystal Palace,0,1,2026-02-08,29020,2025,769155,0,0,0,0,0,0,0
 0,0,0,14,Sub,Marseille,Lens,3,1,2026-01-24,29704,2025,765971,0,0,0,0,0,0,0
 0,1,0.04299970343708992,24,Sub,Angers,Marseille,2,5,2026-01-17,29691,2025,764608,0,0,0,0,0.04299970343708992,0.04299970343708992,0
 0,0,0,22,Sub,Marseille,Nantes,0,2,2026-01-04,29686,2025,761475,0.04371047019958496,0,1,0,0,0.04371047019958496,0

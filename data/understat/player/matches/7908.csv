@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,44,Sub,Auxerre,Paris FC,0,0,2026-02-08,29719,2025,769326,0,0,0,0,0,0,0
 0,2,0.45488452911376953,41,Sub,Paris FC,Marseille,2,2,2026-01-31,29715,2025,767240,0,0,0,0,0.45488452911376953,0.08866829425096512,0
 0,0,0,2,Sub,Paris FC,Angers,0,0,2026-01-25,29707,2025,766377,0,0,0,0,0,0,0
 0,0,0,1,Sub,Nantes,Paris FC,1,2,2026-01-18,29695,2025,765225,0,0,0,0,0,0,0
