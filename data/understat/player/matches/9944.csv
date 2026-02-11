@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DL,Chelsea,Leeds,2,2,2026-02-10,29030,2025,769719,0,0,0,0,0,0,0
 0,0,0,90,DML,Leeds,Nottingham Forest,3,1,2026-02-06,29023,2025,768310,0.10790286958217621,0,1,0,0,0.412773072719574,0.30487021803855896
 0,0,0,90,DML,Leeds,Arsenal,0,4,2026-01-31,29015,2025,767136,0,0,0,0,0,0,0
 0,1,0.06455535441637039,90,DML,Leeds,Fulham,1,0,2026-01-17,28991,2025,764217,0,0,0,0,0.06455535441637039,0.06455535441637039,0

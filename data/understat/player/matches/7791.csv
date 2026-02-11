@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,58,DC,Chelsea,Leeds,2,2,2026-02-10,29030,2025,769716,0,0,0,0,0,0,0
 0,0,0,1,Sub,Leeds,Nottingham Forest,3,1,2026-02-06,29023,2025,768316,0,0,0,0,0,0,0
 0,0,0,87,DC,Everton,Leeds,1,1,2026-01-26,29003,2025,766659,0,0,0,0,0,0.39773938059806824,0.39773938059806824
 0,0,0,1,Sub,Leeds,Fulham,1,0,2026-01-17,28991,2025,764223,0,0,0,0,0,0,0

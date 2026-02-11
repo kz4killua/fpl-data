@@ -249,10 +249,10 @@ id,isResult,h,a,goals,xG,datetime,forecast,h_title,a_title
 29026,True,86,244,"{'h': '2', 'a': '3'}","{'h': '3.3215', 'a': '1.65022'}",2026-02-07 17:30:00,"{'w': '0.7774', 'd': '0.1378', 'l': '0.0848'}",Newcastle United,Brentford
 29020,True,220,78,"{'h': '0', 'a': '1'}","{'h': '0.737798', 'a': '0.928404'}",2026-02-08 14:00:00,"{'w': '0.2553', 'd': '0.3644', 'l': '0.3803'}",Brighton,Crystal Palace
 29024,True,87,88,"{'h': '1', 'a': '2'}","{'h': '1.26652', 'a': '2.41476'}",2026-02-08 16:30:00,"{'w': '0.1318', 'd': '0.1961', 'l': '0.6721'}",Liverpool,Manchester City
-29030,False,80,245,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-10 19:30:00,,Chelsea,Leeds
-29032,False,72,73,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-10 19:30:00,,Everton,Bournemouth
-29036,False,82,86,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-10 19:30:00,,Tottenham,Newcastle United
-29037,False,81,89,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-10 20:15:00,,West Ham,Manchester United
+29030,True,80,245,"{'h': '2', 'a': '2'}","{'h': '3.21176', 'a': '1.28948'}",2026-02-10 19:30:00,"{'w': '0.8272', 'd': '0.1298', 'l': '0.043'}",Chelsea,Leeds
+29032,True,72,73,"{'h': '1', 'a': '2'}","{'h': '2.33114', 'a': '1.4121'}",2026-02-10 19:30:00,"{'w': '0.6046', 'd': '0.235', 'l': '0.1604'}",Everton,Bournemouth
+29036,True,82,86,"{'h': '1', 'a': '2'}","{'h': '1.68925', 'a': '2.46991'}",2026-02-10 19:30:00,"{'w': '0.2104', 'd': '0.2207', 'l': '0.5689'}",Tottenham,Newcastle United
+29037,True,81,89,"{'h': '1', 'a': '1'}","{'h': '1.30746', 'a': '0.735767'}",2026-02-10 20:15:00,"{'w': '0.5384', 'd': '0.2938', 'l': '0.1678'}",West Ham,Manchester United
 29028,False,71,220,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-11 19:30:00,,Aston Villa,Brighton
 29031,False,78,92,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-11 19:30:00,,Crystal Palace,Burnley
 29033,False,88,228,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-11 19:30:00,,Manchester City,Fulham
