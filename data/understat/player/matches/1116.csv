@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Manchester City,Fulham,3,0,2026-02-11,29033,2025,769850,0,0,0,0,0,0.06024622544646263,0.06024622544646263
 0,0,0,90,GK,Liverpool,Manchester City,1,2,2026-02-08,29024,2025,769435,0,0,0,0,0,0.020879674702882767,0.020879674702882767
 0,0,0,90,GK,Tottenham,Manchester City,2,2,2026-02-01,29016,2025,767917,0,0,0,0,0,0.0816001296043396,0.0816001296043396
 0,0,0,90,GK,Manchester City,Wolverhampton Wanderers,2,0,2026-01-24,29005,2025,765655,0,0,0,0,0,0.20934641361236572,0.20934641361236572

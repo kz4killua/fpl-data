@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Crystal Palace,Burnley,2,3,2026-02-11,29031,2025,769909,0,0,0,0,0,0.03751441091299057,0.03751441091299057
 0,0,0,90,GK,Brighton,Crystal Palace,0,1,2026-02-08,29020,2025,769160,0,0,0,0,0,0,0
 0,0,0,90,GK,Nottingham Forest,Crystal Palace,1,1,2026-02-01,29013,2025,767679,0,0,0,0,0,0.037879958748817444,0.037879958748817444
 0,0,0,90,GK,Crystal Palace,Chelsea,1,3,2026-01-25,29002,2025,766085,0,0,0,0,0,0,0

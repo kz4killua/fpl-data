@@ -253,10 +253,10 @@ id,isResult,h,a,goals,xG,datetime,forecast,h_title,a_title
 29032,True,72,73,"{'h': '1', 'a': '2'}","{'h': '2.33114', 'a': '1.4121'}",2026-02-10 19:30:00,"{'w': '0.6046', 'd': '0.235', 'l': '0.1604'}",Everton,Bournemouth
 29036,True,82,86,"{'h': '1', 'a': '2'}","{'h': '1.68925', 'a': '2.46991'}",2026-02-10 19:30:00,"{'w': '0.2104', 'd': '0.2207', 'l': '0.5689'}",Tottenham,Newcastle United
 29037,True,81,89,"{'h': '1', 'a': '1'}","{'h': '1.30746', 'a': '0.735767'}",2026-02-10 20:15:00,"{'w': '0.5384', 'd': '0.2938', 'l': '0.1678'}",West Ham,Manchester United
-29028,False,71,220,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-11 19:30:00,,Aston Villa,Brighton
-29031,False,78,92,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-11 19:30:00,,Crystal Palace,Burnley
-29033,False,88,228,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-11 19:30:00,,Manchester City,Fulham
-29034,False,249,229,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-11 19:30:00,,Nottingham Forest,Wolverhampton Wanderers
+29028,True,71,220,"{'h': '1', 'a': '0'}","{'h': '0.576138', 'a': '0.481306'}",2026-02-11 19:30:00,"{'w': '0.3064', 'd': '0.4474', 'l': '0.2462'}",Aston Villa,Brighton
+29031,True,78,92,"{'h': '2', 'a': '3'}","{'h': '2.1276', 'a': '0.691273'}",2026-02-11 19:30:00,"{'w': '0.7338', 'd': '0.1809', 'l': '0.0853'}",Crystal Palace,Burnley
+29033,True,88,228,"{'h': '3', 'a': '0'}","{'h': '1.67722', 'a': '1.05283'}",2026-02-11 19:30:00,"{'w': '0.5343', 'd': '0.2546', 'l': '0.2111'}",Manchester City,Fulham
+29034,True,249,229,"{'h': '0', 'a': '0'}","{'h': '3.69094', 'a': '0.406959'}",2026-02-11 19:30:00,"{'w': '0.9709', 'd': '0.0249', 'l': '0.0042'}",Nottingham Forest,Wolverhampton Wanderers
 29035,False,77,87,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-11 20:15:00,,Sunderland,Liverpool
 29029,False,244,83,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-12 20:00:00,,Brentford,Arsenal
 29087,False,229,83,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-18 20:00:00,,Wolverhampton Wanderers,Arsenal

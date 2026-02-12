@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,28,Sub,Manchester City,Fulham,3,0,2026-02-11,29033,2025,769863,0,0,0,0,0,0,0
 0,2,0.6308973431587219,17,Sub,Tottenham,Manchester City,2,2,2026-02-01,29016,2025,767929,0.07595854997634888,0,1,0,0.6308973431587219,0.6308973431587219,0
 0,1,0.02076612412929535,65,MC,Manchester City,Wolverhampton Wanderers,2,0,2026-01-24,29005,2025,765662,0,0,0,0,0.02076612412929535,0.02076612412929535,0
 0,0,0,8,Sub,Manchester United,Manchester City,2,0,2026-01-17,28993,2025,763936,0,0,0,0,0,0.0566675029695034,0.0566675029695034

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DR,Aston Villa,Brighton,1,0,2026-02-11,29028,2025,769819,0,0,0,0,0,0.11124540865421295,0.11124540865421295
 0,0,0,1,Sub,Bournemouth,Aston Villa,1,1,2026-02-07,29018,2025,768615,0,0,0,0,0,0,0
 0,0,0,50,DMC,Aston Villa,Brentford,0,1,2026-02-01,29008,2025,767697,0,0,0,0,0,0.22133225202560425,0.22133225202560425
 0,0,0,12,Sub,Newcastle United,Aston Villa,0,2,2026-01-25,29006,2025,766145,0,0,0,0,0,0,0

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,29,Sub,Nottingham Forest,Wolverhampton Wanderers,0,0,2026-02-11,29034,2025,769906,0,0,0,0,0,0,0
 0,0,0,50,DMR,Manchester City,Wolverhampton Wanderers,2,0,2026-01-24,29005,2025,765673,0.015529122203588486,0,1,0,0,0.04317846894264221,0.027649346739053726
 0,0,0,90,DMR,Wolverhampton Wanderers,Newcastle United,0,0,2026-01-18,28997,2025,764675,0,0,0,0,0,0.13171368837356567,0.13171368837356567
 0,0,0,90,DMR,Everton,Wolverhampton Wanderers,1,1,2026-01-07,28978,2025,762188,0,0,0,0,0,0.04420020431280136,0.04420020431280136

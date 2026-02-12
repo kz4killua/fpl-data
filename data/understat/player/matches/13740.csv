@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,29,Sub,Nottingham Forest,Wolverhampton Wanderers,0,0,2026-02-11,29034,2025,769908,0,0,0,0,0,0,0
 0,0,0,1,Sub,Wolverhampton Wanderers,Bournemouth,0,2,2026-01-31,29017,2025,767178,0,0,0,0,0,0,0
 0,0,0,1,Sub,Wolverhampton Wanderers,West Ham,3,0,2026-01-03,28970,2025,761056,0,0,0,0,0,0,0
 0,0,0,1,Sub,Manchester United,Wolverhampton Wanderers,1,1,2025-12-30,28964,2025,760675,0,0,0,0,0,0,0
