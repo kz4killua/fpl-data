@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.06196111440658569,70,DR,Sunderland,Liverpool,0,1,2026-02-11,29035,2025,769956,0,0,0,0,0.06196111440658569,0.25166669487953186,0.18970556557178497
 0,0,0,1,Sub,Liverpool,Newcastle United,4,1,2026-01-31,29014,2025,767457,0,0,0,0,0,0,0
 0,0,0,56,Sub,Bournemouth,Liverpool,3,2,2026-01-24,28998,2025,765803,0,0,0,0,0,0.44633564352989197,0.44633564352989197
 0,0,0,4,Sub,Leeds,Liverpool,3,3,2025-12-06,28923,2025,756243,0,0,0,0,0,0,0

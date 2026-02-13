@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Sunderland,Liverpool,0,1,2026-02-11,29035,2025,769966,0,0,0,0,0,0,0
 0,1,0.03354896977543831,1,Sub,Liverpool,Manchester City,1,2,2026-02-08,29024,2025,769433,0,0,0,0,0.03354896977543831,0.03354896977543831,0
 0,0,0,1,Sub,Liverpool,Newcastle United,4,1,2026-01-31,29014,2025,767456,0,0,0,0,0,0,0
 0,0,0,1,Sub,Liverpool,Burnley,1,1,2026-01-17,28992,2025,764169,0,0,0,0,0,0,0
