@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Paris FC,Lens,0,5,2026-02-14,29734,2025,770624,0,0,0,0,0,0.012553512118756771,0.012553512118756771
 0,0,0,89,DC,Arsenal,Brighton,2,1,2025-12-27,28948,2025,760057,0,0,0,0,0,0.11398758739233017,0.11398758739233017
 0,0,0,90,DC,Brighton,Sunderland,0,0,2025-12-20,28940,2025,759060,0,0,0,0,0,0.2098597139120102,0.2098597139120102
 0,0,0,1,Sub,Brighton,Newcastle United,2,1,2025-10-18,28848,2025,744200,0,0,0,0,0,0,0
