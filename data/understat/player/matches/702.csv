@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+1,1,0.13085304200649261,14,Sub,Aston Villa,Leeds,1,1,2026-02-21,29038,2025,771670,0,0,0,1,0.13085304200649261,0,0
 0,0,0,12,Sub,Aston Villa,Brighton,1,0,2026-02-11,29028,2025,769833,0,0,0,0,0,0,0
 0,0,0,1,Sub,Bournemouth,Aston Villa,1,1,2026-02-07,29018,2025,768618,0,0,0,0,0,0,0
 0,3,0.48474985361099243,90,FW,Aston Villa,Brentford,0,1,2026-02-01,29008,2025,767701,0.059312764555215836,0,1,0,0.48474985361099243,0.544062614440918,0

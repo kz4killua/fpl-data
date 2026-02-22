@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Brentford,Brighton,0,2,2026-02-21,29039,2025,771622,0,0,0,0,0,0,0
 0,0,0,21,MC,Aston Villa,Brighton,1,0,2026-02-11,29028,2025,769839,0,0,0,0,0,0.013337827287614346,0.013337827287614346
 0,0,0,75,DMC,Brighton,Crystal Palace,0,1,2026-02-08,29020,2025,769149,0.0163688063621521,0,1,0,0,0.1857280135154724,0.1693592071533203
 0,0,0,90,MC,Brighton,Everton,1,1,2026-01-31,29010,2025,767105,0,0,0,0,0,0.21009555459022522,0.21009555459022522

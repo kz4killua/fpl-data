@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,48,DC,Chelsea,Burnley,1,1,2026-02-21,29040,2025,771642,0,0,0,0,0,0,0
 0,0,0,90,DMR,Crystal Palace,Burnley,2,3,2026-02-11,29031,2025,769929,0,0,0,0,0,0,0
 0,0,0,90,DR,Burnley,West Ham,0,2,2026-02-07,29021,2025,768651,0,0,0,0,0,0.033689748495817184,0.033689748495817184
 0,0,0,90,DMR,Sunderland,Burnley,3,0,2026-02-02,29011,2025,768169,0.019499480724334717,0,1,0,0,0.014315295033156872,0.014315295033156872

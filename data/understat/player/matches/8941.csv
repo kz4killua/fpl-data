@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.013805381022393703,90,MC,Manchester City,Newcastle United,2,1,2026-02-21,29043,2025,771953,0.08907812088727951,1,3,0,0.013805381022393703,0.17646761238574982,0.11133772879838943
 1,5,0.3837159276008606,82,MC,Tottenham,Newcastle United,1,2,2026-02-10,29036,2025,769778,0,0,0,1,0.3837159276008606,0.20234748721122742,0
 0,0,0,1,Sub,Newcastle United,Brentford,2,3,2026-02-07,29026,2025,768849,0,0,0,0,0,0,0
 0,0,0,90,MC,Liverpool,Newcastle United,4,1,2026-01-31,29014,2025,767465,0,0,0,0,0,0,0
