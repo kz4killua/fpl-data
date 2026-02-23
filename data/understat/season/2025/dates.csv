@@ -265,10 +265,10 @@ id,isResult,h,a,goals,xG,datetime,forecast,h_title,a_title
 29040,True,80,92,"{'h': '1', 'a': '1'}","{'h': '2.51534', 'a': '1.01255'}",2026-02-21 15:00:00,"{'w': '0.7629', 'd': '0.1628', 'l': '0.0743'}",Chelsea,Burnley
 29047,True,81,73,"{'h': '0', 'a': '0'}","{'h': '2.34412', 'a': '0.522731'}",2026-02-21 17:30:00,"{'w': '0.8387', 'd': '0.1203', 'l': '0.041'}",West Ham,Bournemouth
 29043,True,88,86,"{'h': '2', 'a': '1'}","{'h': '2.22648', 'a': '0.507954'}",2026-02-21 20:00:00,"{'w': '0.8142', 'd': '0.1373', 'l': '0.0485'}",Manchester City,Newcastle United
-29041,False,78,229,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-22 14:00:00,,Crystal Palace,Wolverhampton Wanderers
-29044,False,249,87,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-22 14:00:00,,Nottingham Forest,Liverpool
-29045,False,77,228,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-22 14:00:00,,Sunderland,Fulham
-29046,False,82,83,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-22 16:30:00,,Tottenham,Arsenal
+29041,True,78,229,"{'h': '1', 'a': '0'}","{'h': '2.03559', 'a': '1.67749'}",2026-02-22 14:00:00,"{'w': '0.459', 'd': '0.2691', 'l': '0.2719'}",Crystal Palace,Wolverhampton Wanderers
+29044,True,249,87,"{'h': '0', 'a': '1'}","{'h': '0.934768', 'a': '2.39634'}",2026-02-22 14:00:00,"{'w': '0.0658', 'd': '0.1486', 'l': '0.7856'}",Nottingham Forest,Liverpool
+29045,True,77,228,"{'h': '1', 'a': '3'}","{'h': '1.7609', 'a': '2.16696'}",2026-02-22 14:00:00,"{'w': '0.2628', 'd': '0.2664', 'l': '0.4708'}",Sunderland,Fulham
+29046,True,82,83,"{'h': '1', 'a': '4'}","{'h': '0.383264', 'a': '3.31701'}",2026-02-22 16:30:00,"{'w': '0.0088', 'd': '0.0401', 'l': '0.9511'}",Tottenham,Arsenal
 29042,False,72,89,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-23 20:00:00,,Everton,Manchester United
 29057,False,229,71,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-27 20:00:00,,Wolverhampton Wanderers,Aston Villa
 29048,False,73,77,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-28 12:30:00,,Bournemouth,Sunderland
