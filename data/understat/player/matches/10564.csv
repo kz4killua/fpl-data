@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Everton,Manchester United,0,1,2026-02-23,29042,2025,772713,0,0,0,0,0,0.10818307846784592,0.10818307846784592
 0,0,0,22,Sub,West Ham,Manchester United,1,1,2026-02-10,29037,2025,769815,0,0,0,0,0,0.13033096492290497,0.13033096492290497
 0,0,0,1,Sub,Manchester United,Fulham,3,2,2026-02-01,29012,2025,767614,0,0,0,0,0,0,0
 0,1,0.05181606858968735,27,Sub,Burnley,Manchester United,2,2,2026-01-07,28982,2025,762467,0,0,0,0,0.05181606858968735,0.05181606858968735,0
