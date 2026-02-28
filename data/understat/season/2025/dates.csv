@@ -270,7 +270,7 @@ id,isResult,h,a,goals,xG,datetime,forecast,h_title,a_title
 29045,True,77,228,"{'h': '1', 'a': '3'}","{'h': '1.7609', 'a': '2.16696'}",2026-02-22 14:00:00,"{'w': '0.2628', 'd': '0.2664', 'l': '0.4708'}",Sunderland,Fulham
 29046,True,82,83,"{'h': '1', 'a': '4'}","{'h': '0.383264', 'a': '3.31701'}",2026-02-22 16:30:00,"{'w': '0.0088', 'd': '0.0401', 'l': '0.9511'}",Tottenham,Arsenal
 29042,True,72,89,"{'h': '0', 'a': '1'}","{'h': '0.560924', 'a': '1.4547'}",2026-02-23 20:00:00,"{'w': '0.1076', 'd': '0.245', 'l': '0.6474'}",Everton,Manchester United
-29057,False,229,71,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-27 20:00:00,,Wolverhampton Wanderers,Aston Villa
+29057,True,229,71,"{'h': '2', 'a': '0'}","{'h': '1.50771', 'a': '1.31328'}",2026-02-27 20:00:00,"{'w': '0.4226', 'd': '0.2827', 'l': '0.2947'}",Wolverhampton Wanderers,Aston Villa
 29048,False,73,77,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-28 12:30:00,,Bournemouth,Sunderland
 29051,False,92,244,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-28 15:00:00,,Burnley,Brentford
 29054,False,87,81,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-02-28 15:00:00,,Liverpool,West Ham
