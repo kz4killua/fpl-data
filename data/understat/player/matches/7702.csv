@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Manchester United,Crystal Palace,2,1,2026-03-01,29055,2025,773877,0,0,0,0,0,0.01907382719218731,0.01907382719218731
 0,0,0,90,GK,Crystal Palace,Wolverhampton Wanderers,1,0,2026-02-22,29041,2025,772183,0,0,0,0,0,0,0
 0,0,0,90,GK,Crystal Palace,Burnley,2,3,2026-02-11,29031,2025,769909,0,0,0,0,0,0.03751441091299057,0.03751441091299057
 0,0,0,90,GK,Brighton,Crystal Palace,0,1,2026-02-08,29020,2025,769160,0,0,0,0,0,0,0
