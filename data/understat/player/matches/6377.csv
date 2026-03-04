@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Leeds,Sunderland,0,1,2026-03-03,29063,2025,774572,0,0,0,0,0,0.12674959003925323,0.12674959003925323
 0,0,0,90,DC,Leeds,Manchester City,0,1,2026-02-28,29053,2025,773458,0,0,0,0,0,0,0
 0,2,0.1806005984544754,90,DC,Aston Villa,Leeds,1,1,2026-02-21,29038,2025,771676,0,0,0,0,0.1806005984544754,0.402042955160141,0.402042955160141
 0,0,0,90,DC,Chelsea,Leeds,2,2,2026-02-10,29030,2025,769718,0,0,0,0,0,0,0

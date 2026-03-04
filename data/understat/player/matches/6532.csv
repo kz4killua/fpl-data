@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Everton,Burnley,2,0,2026-03-03,29061,2025,774554,0,0,0,0,0,0.008240490220487118,0.008240490220487118
 0,0,0,90,GK,Burnley,Brentford,3,4,2026-02-28,29051,2025,773243,0,0,0,0,0,0.11838702112436295,0.11838702112436295
 0,0,0,90,GK,Chelsea,Burnley,1,1,2026-02-21,29040,2025,771640,0,0,0,0,0,0,0
 0,0,0,90,GK,Crystal Palace,Burnley,2,3,2026-02-11,29031,2025,769925,0,0,0,0,0,0,0

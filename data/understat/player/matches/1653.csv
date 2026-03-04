@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,3,Sub,Everton,Burnley,2,0,2026-03-03,29061,2025,774550,0,0,0,0,0,0,0
 0,0,0,1,Sub,Newcastle United,Everton,2,3,2026-02-28,29056,2025,773329,0,0,0,0,0,0,0
 0,2,0.08953609317541122,90,DC,Everton,Manchester United,0,1,2026-02-23,29042,2025,772700,0,0,0,0,0.08953609317541122,0.014762138947844505,0
 0,0,0,1,Sub,Everton,Bournemouth,1,2,2026-02-10,29032,2025,769741,0,0,0,0,0,0,0

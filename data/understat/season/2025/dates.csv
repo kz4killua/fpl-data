@@ -280,10 +280,10 @@ id,isResult,h,a,goals,xG,datetime,forecast,h_title,a_title
 29052,True,228,82,"{'h': '2', 'a': '1'}","{'h': '2.3207', 'a': '0.952091'}",2026-03-01 14:00:00,"{'w': '0.7069', 'd': '0.1828', 'l': '0.1103'}",Fulham,Tottenham
 29055,True,89,78,"{'h': '2', 'a': '1'}","{'h': '2.34609', 'a': '0.384699'}",2026-03-01 14:00:00,"{'w': '0.8774', 'd': '0.1001', 'l': '0.0225'}",Manchester United,Crystal Palace
 29049,True,83,80,"{'h': '2', 'a': '1'}","{'h': '1.71598', 'a': '1.35268'}",2026-03-01 16:30:00,"{'w': '0.4449', 'd': '0.2926', 'l': '0.2625'}",Arsenal,Chelsea
-29058,False,73,244,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-03 19:30:00,,Bournemouth,Brentford
-29061,False,72,92,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-03 19:30:00,,Everton,Burnley
-29063,False,245,77,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-03 19:30:00,,Leeds,Sunderland
-29067,False,229,87,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-03 20:15:00,,Wolverhampton Wanderers,Liverpool
+29058,True,73,244,"{'h': '0', 'a': '0'}","{'h': '2.3177', 'a': '0.673328'}",2026-03-03 19:30:00,"{'w': '0.7902', 'd': '0.1515', 'l': '0.0583'}",Bournemouth,Brentford
+29061,True,72,92,"{'h': '2', 'a': '0'}","{'h': '1.15845', 'a': '0.762229'}",2026-03-03 19:30:00,"{'w': '0.4352', 'd': '0.3436', 'l': '0.2212'}",Everton,Burnley
+29063,True,245,77,"{'h': '0', 'a': '1'}","{'h': '0.888232', 'a': '0.843856'}",2026-03-03 19:30:00,"{'w': '0.2954', 'd': '0.3643', 'l': '0.3403'}",Leeds,Sunderland
+29067,True,229,87,"{'h': '2', 'a': '1'}","{'h': '0.636033', 'a': '2.17217'}",2026-03-03 20:15:00,"{'w': '0.0584', 'd': '0.166', 'l': '0.7756'}",Wolverhampton Wanderers,Liverpool
 29059,False,71,80,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-04 19:30:00,,Aston Villa,Chelsea
 29060,False,220,83,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-04 19:30:00,,Brighton,Arsenal
 29062,False,228,81,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-04 19:30:00,,Fulham,West Ham
