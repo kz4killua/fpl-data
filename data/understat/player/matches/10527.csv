@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,3,0.05328080430626869,81,DMC,Brighton,Arsenal,0,1,2026-03-04,29060,2025,774669,0,0,0,0,0.05328080430626869,0.1015251874923706,0.04824438318610191
 0,0,0,2,Sub,Brighton,Nottingham Forest,2,1,2026-03-01,29050,2025,773811,0,0,0,0,0,0,0
 0,0,0,1,Sub,Brentford,Brighton,0,2,2026-02-21,29039,2025,771622,0,0,0,0,0,0,0
 0,0,0,21,MC,Aston Villa,Brighton,1,0,2026-02-11,29028,2025,769839,0,0,0,0,0,0.013337827287614346,0.013337827287614346

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,37,DC,Tottenham,Crystal Palace,1,3,2026-03-05,29066,2025,774850,0,0,0,0,0,0,0
 0,0,0,90,DC,Fulham,Tottenham,2,1,2026-03-01,29052,2025,773848,0,0,0,0,0,0.3003266453742981,0.3003266453742981
 0,0,0,90,DC,Tottenham,Arsenal,1,4,2026-02-22,29046,2025,772421,0,0,0,0,0,0,0
 0,1,0.06847696006298065,90,DC,Tottenham,Newcastle United,1,2,2026-02-10,29036,2025,769760,0,0,0,0,0.06847696006298065,0.6451882719993591,0.5767112970352173
