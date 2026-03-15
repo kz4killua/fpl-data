@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.06027786806225777,13,Sub,West Ham,Manchester City,1,1,2026-03-14,29077,2025,777151,0.03982655331492424,0,2,0,0.06027786806225777,0,0
 0,0,0,17,Sub,Leeds,Manchester City,0,1,2026-02-28,29053,2025,773483,0,0,0,0,0,0,0
 0,0,0,28,Sub,Manchester City,Fulham,3,0,2026-02-11,29033,2025,769863,0,0,0,0,0,0,0
 0,2,0.6308973431587219,17,Sub,Tottenham,Manchester City,2,2,2026-02-01,29016,2025,767929,0.07595854997634888,0,1,0,0.6308973431587219,0.6308973431587219,0

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.09858622401952744,90,MR,Sunderland,Brighton,0,1,2026-03-14,29076,2025,776756,0.021144483238458633,0,1,0,0.09858622401952744,0.18571004271507263,0.06597933918237686
 0,0,0,1,Sub,Leeds,Sunderland,0,1,2026-03-03,29063,2025,774599,0,0,0,0,0,0,0
 0,0,0,52,AMR,Brentford,Sunderland,3,0,2026-01-07,28981,2025,762250,0,0,0,0,0,0,0
 0,0,0,5,Sub,Tottenham,Sunderland,1,1,2026-01-04,28969,2025,761589,0,0,0,0,0,0,0

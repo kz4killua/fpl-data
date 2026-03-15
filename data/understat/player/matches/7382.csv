@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,9,Sub,Chelsea,Newcastle United,0,1,2026-03-14,29071,2025,776995,0,0,0,0,0,0.036492329090833664,0.036492329090833664
 0,0,0,90,DC,Newcastle United,Manchester United,2,1,2026-03-04,29065,2025,774820,0,0,0,0,0,0.03383680060505867,0.03383680060505867
 0,0,0,90,DC,Newcastle United,Everton,2,3,2026-02-28,29056,2025,773304,0,0,0,0,0,0.035710085183382034,0.035710085183382034
 0,0,0,90,DC,Manchester City,Newcastle United,2,1,2026-02-21,29043,2025,771949,0,0,0,0,0,0.03189004212617874,0.03189004212617874
