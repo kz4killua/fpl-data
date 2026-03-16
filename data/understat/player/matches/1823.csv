@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,83,DL,Manchester United,Aston Villa,3,1,2026-03-15,29074,2025,777447,0.10120394080877304,0,2,0,0,0.13545456528663635,0.08969520777463913
 0,0,0,71,DL,Wolverhampton Wanderers,Aston Villa,2,0,2026-02-27,29057,2025,772927,0,0,0,0,0,0.3026805520057678,0.3026805520057678
 0,0,0,89,DL,Bournemouth,Aston Villa,1,1,2026-02-07,29018,2025,768607,0,0,0,0,0,0.0965082198381424,0.0965082198381424
 0,0,0,11,Sub,Newcastle United,Aston Villa,0,2,2026-01-25,29006,2025,766143,0.46760135889053345,1,1,0,0,0,0

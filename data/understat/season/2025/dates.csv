@@ -295,10 +295,10 @@ id,isResult,h,a,goals,xG,datetime,forecast,h_title,a_title
 29068,True,83,72,"{'h': '2', 'a': '0'}","{'h': '1.90855', 'a': '1.17847'}",2026-03-14 17:30:00,"{'w': '0.5602', 'd': '0.2503', 'l': '0.1895'}",Arsenal,Everton
 29071,True,80,86,"{'h': '0', 'a': '1'}","{'h': '1.72508', 'a': '1.03251'}",2026-03-14 17:30:00,"{'w': '0.5331', 'd': '0.2697', 'l': '0.1972'}",Chelsea,Newcastle United
 29077,True,81,88,"{'h': '1', 'a': '1'}","{'h': '0.488982', 'a': '1.9546'}",2026-03-14 20:00:00,"{'w': '0.0452', 'd': '0.1911', 'l': '0.7637'}",West Ham,Manchester City
-29072,False,78,245,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-15 14:00:00,,Crystal Palace,Leeds
-29074,False,89,71,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-15 14:00:00,,Manchester United,Aston Villa
-29075,False,249,228,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-15 14:00:00,,Nottingham Forest,Fulham
-29073,False,87,82,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-15 16:30:00,,Liverpool,Tottenham
+29072,True,78,245,"{'h': '0', 'a': '0'}","{'h': '0.525205', 'a': '1.13558'}",2026-03-15 14:00:00,"{'w': '0.1278', 'd': '0.3017', 'l': '0.5705'}",Crystal Palace,Leeds
+29074,True,89,71,"{'h': '3', 'a': '1'}","{'h': '1.67823', 'a': '1.21071'}",2026-03-15 14:00:00,"{'w': '0.4854', 'd': '0.264', 'l': '0.2506'}",Manchester United,Aston Villa
+29075,True,249,228,"{'h': '0', 'a': '0'}","{'h': '0.821011', 'a': '0.933988'}",2026-03-15 14:00:00,"{'w': '0.2552', 'd': '0.3626', 'l': '0.3822'}",Nottingham Forest,Fulham
+29073,True,87,82,"{'h': '1', 'a': '1'}","{'h': '1.30076', 'a': '1.15636'}",2026-03-15 16:30:00,"{'w': '0.3856', 'd': '0.2861', 'l': '0.3283'}",Liverpool,Tottenham
 29069,False,244,229,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-16 20:00:00,,Brentford,Wolverhampton Wanderers
 29078,False,73,89,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-20 20:00:00,,Bournemouth,Manchester United
 29080,False,220,87,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-03-21 12:30:00,,Brighton,Liverpool
