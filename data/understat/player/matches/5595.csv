@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,3,Sub,Leeds,Brentford,0,0,2026-03-21,29083,2025,778876,0,0,0,0,0,0,0
 0,0,0,13,Sub,Leeds,Sunderland,0,1,2026-03-03,29063,2025,774584,0.061425574123859406,0,1,0,0,0.14762252569198608,0.08619695901870728
 0,0,0,11,Sub,Leeds,Manchester City,0,1,2026-02-28,29053,2025,773469,0,0,0,0,0,0,0
 0,0,0,5,Sub,Chelsea,Leeds,2,2,2026-02-10,29030,2025,769727,0,0,0,0,0,0,0
