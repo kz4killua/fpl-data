@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,2,0.39891067147254944,90,DC,Aston Villa,West Ham,2,0,2026-03-22,29079,2025,779252,0,0,0,0,0.39891067147254944,0.3836817741394043,0.11862891167402267
 0,0,0,90,DC,West Ham,Manchester City,1,1,2026-03-14,29077,2025,777126,0,0,0,0,0,0,0
 0,0,0,90,DC,Fulham,West Ham,0,1,2026-03-04,29062,2025,774745,0,0,0,0,0,0.602242112159729,0.602242112159729
 0,0,0,90,DC,Liverpool,West Ham,5,2,2026-02-28,29054,2025,773289,0,0,0,0,0,0,0

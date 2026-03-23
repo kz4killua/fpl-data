@@ -1,3 +1,4 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Newcastle United,Sunderland,1,2,2026-03-22,29085,2025,779033,0,0,0,0,0,0.10129684954881668,0.10129684954881668
 0,0,0,90,GK,Sunderland,Brighton,0,1,2026-03-14,29076,2025,776750,0,0,0,0,0,0,0
 0,0,0,90,GK,Leeds,Sunderland,0,1,2026-03-03,29063,2025,774585,0,0,0,0,0,0,0
