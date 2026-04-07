@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,63,FW,Napoli,AC Milan,1,0,2026-04-06,30149,2025,781111,0,0,0,0,0,0,0
 0,2,0.0906045138835907,71,FW,AC Milan,Torino,3,2,2026-03-21,30141,2025,778617,0,0,0,0,0.0906045138835907,0.7787365317344666,0.7135171294212341
 0,0,0,23,Sub,Lazio,AC Milan,1,0,2026-03-15,30127,2025,777924,0,0,0,0,0,0,0
 0,0,0,15,Sub,AC Milan,Inter,1,0,2026-03-08,30122,2025,776111,0,0,0,0,0,0,0
