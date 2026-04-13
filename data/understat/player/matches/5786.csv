@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Crystal Palace,Newcastle United,2,1,2026-04-12,29096,2025,782265,0,0,0,0,0,0,0
 0,0,0,1,Sub,Newcastle United,Sunderland,1,2,2026-03-22,29085,2025,779027,0,0,0,0,0,0,0
 0,1,0.02997235581278801,14,Sub,Newcastle United,Everton,2,3,2026-02-28,29056,2025,773312,0,0,0,0,0.02997235581278801,0.02997235581278801,0
 0,1,0.6480235457420349,70,FW,Newcastle United,Brentford,2,3,2026-02-07,29026,2025,768844,0,0,0,0,0.6480235457420349,0.6480235457420349,0

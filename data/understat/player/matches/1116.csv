@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Chelsea,Manchester City,0,3,2026-04-12,29095,2025,782473,0,0,0,0,0,0.08068434149026871,0.08068434149026871
 0,0,0,90,GK,West Ham,Manchester City,1,1,2026-03-14,29077,2025,777138,0,0,0,0,0,0.149171844124794,0.149171844124794
 0,0,0,90,GK,Manchester City,Nottingham Forest,2,2,2026-03-04,29064,2025,774758,0,0,0,0,0,0.09289920330047607,0.09289920330047607
 0,0,0,90,GK,Leeds,Manchester City,0,1,2026-02-28,29053,2025,773470,0,0,0,0,0,0.08984920382499695,0.08984920382499695

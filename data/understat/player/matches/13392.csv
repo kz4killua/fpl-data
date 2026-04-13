@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Nottingham Forest,Aston Villa,1,1,2026-04-12,29089,2025,782175,0,0,0,0,0,0,0
 0,0,0,3,Sub,Manchester United,Aston Villa,3,1,2026-03-15,29074,2025,777457,0,0,0,0,0,0,0
 0,0,0,2,Sub,Aston Villa,Leeds,1,1,2026-02-21,29038,2025,771668,0,0,0,0,0,0,0
 0,0,0,1,Sub,Aston Villa,Nottingham Forest,3,1,2026-01-03,28972,2025,760931,0,0,0,0,0,0,0

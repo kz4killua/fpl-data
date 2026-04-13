@@ -314,10 +314,10 @@ id,isResult,h,a,goals,xG,datetime,forecast,h_title,a_title
 29093,True,244,72,"{'h': '2', 'a': '2'}","{'h': '2.26302', 'a': '1.57033'}",2026-04-11 14:00:00,"{'w': '0.5424', 'd': '0.2365', 'l': '0.2211'}",Brentford,Everton
 29094,True,92,220,"{'h': '0', 'a': '2'}","{'h': '0.812029', 'a': '1.07182'}",2026-04-11 14:00:00,"{'w': '0.2682', 'd': '0.3324', 'l': '0.3994'}",Burnley,Brighton
 29097,True,87,228,"{'h': '2', 'a': '0'}","{'h': '2.01499', 'a': '1.42024'}",2026-04-11 16:30:00,"{'w': '0.5162', 'd': '0.2415', 'l': '0.2423'}",Liverpool,Fulham
-29089,False,249,71,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-12 13:00:00,,Nottingham Forest,Aston Villa
-29090,False,77,82,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-12 13:00:00,,Sunderland,Tottenham
-29096,False,78,86,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-12 13:00:00,,Crystal Palace,Newcastle United
-29095,False,80,88,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-12 15:30:00,,Chelsea,Manchester City
+29089,True,249,71,"{'h': '1', 'a': '1'}","{'h': '0.85045', 'a': '1.36297'}",2026-04-12 13:00:00,"{'w': '0.216', 'd': '0.2804', 'l': '0.5036'}",Nottingham Forest,Aston Villa
+29090,True,77,82,"{'h': '1', 'a': '0'}","{'h': '1.77584', 'a': '1.01598'}",2026-04-12 13:00:00,"{'w': '0.5697', 'd': '0.2554', 'l': '0.1749'}",Sunderland,Tottenham
+29096,True,78,86,"{'h': '2', 'a': '1'}","{'h': '3.13933', 'a': '1.27299'}",2026-04-12 13:00:00,"{'w': '0.8241', 'd': '0.1232', 'l': '0.0527'}",Crystal Palace,Newcastle United
+29095,True,80,88,"{'h': '0', 'a': '3'}","{'h': '1.22108', 'a': '2.40839'}",2026-04-12 15:30:00,"{'w': '0.1456', 'd': '0.1934', 'l': '0.661'}",Chelsea,Manchester City
 29088,False,89,245,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-13 19:00:00,,Manchester United,Leeds
 29099,False,244,228,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-18 11:30:00,,Brentford,Fulham
 29103,False,245,229,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-18 14:00:00,,Leeds,Wolverhampton Wanderers
