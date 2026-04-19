@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,76,DR,Newcastle United,Bournemouth,1,2,2026-04-18,29105,2025,783303,0,0,0,0,0,0.47261911630630493,0.47261911630630493
 0,0,0,90,DR,Crystal Palace,Newcastle United,2,1,2026-04-12,29096,2025,782255,0,0,0,0,0,0,0
 0,1,0.01938745751976967,23,Sub,Newcastle United,Sunderland,1,2,2026-03-22,29085,2025,779030,0,0,0,0,0.01938745751976967,0.025146592408418655,0.025146592408418655
 0,0,0,90,DR,Chelsea,Newcastle United,0,1,2026-03-14,29071,2025,776983,0,0,0,0,0,0.8530839085578918,0.8530839085578918

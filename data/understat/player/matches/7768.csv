@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,4,Sub,Chelsea,Manchester United,0,1,2026-04-18,29100,2025,783581,0,0,0,0,0,0,0
 0,0,0,1,Sub,Bournemouth,Manchester United,2,2,2026-03-20,29078,2025,778208,0,0,0,0,0,0,0
 0,0,0,1,Sub,Manchester United,Manchester City,2,0,2026-01-17,28993,2025,763922,0,0,0,0,0,0,0
 0,0,0,27,Sub,Burnley,Manchester United,2,2,2026-01-07,28982,2025,762470,0.025017615407705307,0,1,0,0,0.1361636370420456,0.11114601790904999

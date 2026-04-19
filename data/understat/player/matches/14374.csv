@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Newcastle United,Bournemouth,1,2,2026-04-18,29105,2025,783329,0,0,0,0,0,0,0
 0,0,0,3,Sub,Arsenal,Bournemouth,1,2,2026-04-11,29092,2025,781393,0,0,0,0,0,0,0
 0,0,0,3,Sub,Bournemouth,Sunderland,1,1,2026-02-28,29048,2025,773013,0.13851477205753326,0,1,0,0,0.13851477205753326,0
 0,0,0,61,AMC,Everton,Bournemouth,1,2,2026-02-10,29032,2025,769750,0.1118396744132042,0,2,0,0,0.1118396744132042,0

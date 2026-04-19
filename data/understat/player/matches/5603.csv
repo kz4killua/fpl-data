@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Newcastle United,Bournemouth,1,2,2026-04-18,29105,2025,783302,0,0,0,0,0,0.44312921166419983,0.44312921166419983
 0,0,0,90,GK,Crystal Palace,Newcastle United,2,1,2026-04-12,29096,2025,782254,0,0,0,0,0,0.07225211709737778,0.07225211709737778
 0,0,0,90,GK,Newcastle United,Sunderland,1,2,2026-03-22,29085,2025,779016,0,0,0,0,0,0,0
 0,0,0,90,GK,Chelsea,Newcastle United,0,1,2026-03-14,29071,2025,776982,0,0,0,0,0,0.7178395390510559,0.7178395390510559
