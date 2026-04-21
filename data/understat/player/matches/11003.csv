@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,11,Sub,Nottingham Forest,Burnley,4,1,2026-04-19,29106,2025,783750,0.053676627576351166,1,1,0,0,0.10233268141746521,0.04865605756640434
 0,0,0,1,Sub,Nottingham Forest,Aston Villa,1,1,2026-04-12,29089,2025,782160,0,0,0,0,0,0,0
 0,0,0,17,Sub,Tottenham,Nottingham Forest,0,3,2026-03-22,29086,2025,779296,0,0,0,0,0,0,0
 0,1,0.0227305069565773,13,Sub,Nottingham Forest,Fulham,0,0,2026-03-15,29075,2025,777474,0,0,0,0,0.0227305069565773,0.3397310972213745,0.3170005977153778

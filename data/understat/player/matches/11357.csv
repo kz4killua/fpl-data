@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,47,FWR,Manchester City,Arsenal,2,1,2026-04-19,29104,2025,784007,0,0,0,0,0,0,0
 0,0,0,56,AMR,Arsenal,Bournemouth,1,2,2026-04-11,29092,2025,781373,0,0,0,0,0,0,0
 0,2,0.09409195929765701,66,AML,Arsenal,Everton,2,0,2026-03-14,29068,2025,776946,0.043721091002225876,0,2,0,0.09409195929765701,0.117238849401474,0.117238849401474
 0,0,0,1,Sub,Tottenham,Arsenal,1,4,2026-02-22,29046,2025,772448,0,0,0,0,0,0.37280917167663574,0.37280917167663574
