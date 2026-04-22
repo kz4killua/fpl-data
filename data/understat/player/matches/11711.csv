@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Brighton,Chelsea,3,0,2026-04-21,29110,2025,784385,0,0,0,0,0,0.7417798042297363,0.7417798042297363
 0,0,0,90,GK,Tottenham,Brighton,2,2,2026-04-18,29107,2025,783444,0,0,0,0,0,0,0
 0,0,0,90,GK,Burnley,Brighton,0,2,2026-04-11,29094,2025,781694,0,0,0,0,0,0,0
 0,0,0,90,GK,Brighton,Liverpool,2,1,2026-03-21,29080,2025,778241,0,0,0,0,0,0.5319721698760986,0.5319721698760986
