@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Burnley,Manchester City,0,1,2026-04-22,29111,2025,784671,0,0,0,0,0,0,0
 0,0,0,90,GK,Nottingham Forest,Burnley,4,1,2026-04-19,29106,2025,783752,0,0,0,0,0,0.08235380798578262,0.08235380798578262
 0,0,0,90,GK,Burnley,Brighton,0,2,2026-04-11,29094,2025,781678,0,0,0,0,0,0,0
 0,0,0,90,GK,Fulham,Burnley,3,1,2026-03-21,29082,2025,778504,0,0,0,0,0,0.8906400203704834,0.8906400203704834

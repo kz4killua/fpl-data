@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.08833058923482895,23,Sub,Burnley,Manchester City,0,1,2026-04-22,29111,2025,784698,0,0,0,0,0.08833058923482895,0.08833058923482895,0
 0,0,0,1,Sub,Manchester City,Arsenal,2,1,2026-04-19,29104,2025,783995,0,0,0,0,0,0,0
 0,0,0,13,Sub,Chelsea,Manchester City,0,3,2026-04-12,29095,2025,782485,0,0,0,0,0,0.12694507837295532,0.12694507837295532
 0,2,0.5718842148780823,4,Sub,Manchester City,Nottingham Forest,2,2,2026-03-04,29064,2025,774770,0,0,0,0,0.5718842148780823,0.5718842148780823,0

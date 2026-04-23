@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Bournemouth,Leeds,2,2,2026-04-22,29108,2025,784715,0,0,0,0,0,0.1808372437953949,0.1808372437953949
 0,0,0,90,GK,Leeds,Wolverhampton Wanderers,3,0,2026-04-18,29103,2025,783271,0,0,0,0,0,0,0
 0,0,0,90,GK,Manchester United,Leeds,1,2,2026-04-13,29088,2025,782811,0,0,0,0,0,0,0
 0,0,0,90,GK,Leeds,Brentford,0,0,2026-03-21,29083,2025,778863,0,0,0,0,0,0,0

@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.07626614719629288,90,DC,Burnley,Manchester City,0,1,2026-04-22,29111,2025,784674,0,0,0,0,0.07626614719629288,0,0
 0,0,0,90,DC,Nottingham Forest,Burnley,4,1,2026-04-19,29106,2025,783755,0,0,0,0,0,0.08235380798578262,0.08235380798578262
 0,0,0,90,DC,Burnley,Brighton,0,2,2026-04-11,29094,2025,781681,0,0,0,0,0,0.06882701069116592,0.06882701069116592
 0,0,0,14,Sub,Liverpool,Burnley,1,1,2026-01-17,28992,2025,764185,0,0,0,0,0,0,0
