@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,20,Sub,Sunderland,Nottingham Forest,0,5,2026-04-24,29115,2025,785094,0,0,0,0,0,0.4415775239467621,0.4415775239467621
 0,0,0,32,Sub,Brighton,Nottingham Forest,2,1,2026-03-01,29050,2025,773827,0,0,0,0,0,0.12018170952796936,0.12018170952796936
 0,0,0,13,Sub,Leeds,Nottingham Forest,3,1,2026-02-06,29023,2025,768330,0,0,0,0,0,1.065639853477478,1.065639853477478
 0,0,0,90,DL,Werder Bremen,Borussia M.Gladbach,1,1,2026-01-31,30403,2025,766967,0.37674152851104736,0,1,0,0,0.37674152851104736,0
