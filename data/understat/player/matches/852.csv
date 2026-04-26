@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Liverpool,Crystal Palace,3,1,2026-04-25,29113,2025,785505,0,0,0,0,0,0.44269880652427673,0.44269880652427673
 0,0,0,30,Sub,Everton,Liverpool,1,2,2026-04-19,29102,2025,783734,0,0,0,0,0,0.06603340059518814,0.06603340059518814
 0,0,0,90,GK,Manchester United,Newcastle United,4,1,2021-09-11,16410,2021,480359,0,0,0,0,0,0.19107699394226074,0.19107699394226074
 0,0,0,90,GK,Newcastle United,Southampton,2,2,2021-08-28,16397,2021,478966,0,0,0,0,0,0,0

@@ -332,11 +332,11 @@ id,isResult,h,a,goals,xG,datetime,forecast,h_title,a_title
 29108,True,73,245,"{'h': '2', 'a': '2'}","{'h': '1.91355', 'a': '1.21601'}",2026-04-22 19:00:00,"{'w': '0.5513', 'd': '0.2434', 'l': '0.2053'}",Bournemouth,Leeds
 29111,True,92,88,"{'h': '0', 'a': '1'}","{'h': '0.973776', 'a': '3.40888'}",2026-04-22 19:00:00,"{'w': '0.0443', 'd': '0.091', 'l': '0.8647'}",Burnley,Manchester City
 29115,True,77,249,"{'h': '0', 'a': '5'}","{'h': '0.614323', 'a': '1.54208'}",2026-04-24 19:00:00,"{'w': '0.1184', 'd': '0.2415', 'l': '0.6401'}",Sunderland,Nottingham Forest
-29112,False,228,71,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-25 11:30:00,,Fulham,Aston Villa
-29113,False,87,78,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-25 14:00:00,,Liverpool,Crystal Palace
-29116,False,81,72,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-25 14:00:00,,West Ham,Everton
-29117,False,229,82,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-25 14:00:00,,Wolverhampton Wanderers,Tottenham
-29109,False,83,86,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-25 16:30:00,,Arsenal,Newcastle United
+29112,True,228,71,"{'h': '1', 'a': '0'}","{'h': '1.24069', 'a': '0.906156'}",2026-04-25 11:30:00,"{'w': '0.4402', 'd': '0.3154', 'l': '0.2444'}",Fulham,Aston Villa
+29113,True,87,78,"{'h': '3', 'a': '1'}","{'h': '1.45071', 'a': '2.19912'}",2026-04-25 14:00:00,"{'w': '0.2143', 'd': '0.2313', 'l': '0.5544'}",Liverpool,Crystal Palace
+29116,True,81,72,"{'h': '2', 'a': '1'}","{'h': '1.8356', 'a': '1.1144'}",2026-04-25 14:00:00,"{'w': '0.5617', 'd': '0.2554', 'l': '0.1829'}",West Ham,Everton
+29117,True,229,82,"{'h': '0', 'a': '1'}","{'h': '0.762656', 'a': '1.06403'}",2026-04-25 14:00:00,"{'w': '0.2136', 'd': '0.3485', 'l': '0.4379'}",Wolverhampton Wanderers,Tottenham
+29109,True,83,86,"{'h': '1', 'a': '0'}","{'h': '0.639189', 'a': '0.868897'}",2026-04-25 16:30:00,"{'w': '0.2295', 'd': '0.3637', 'l': '0.4068'}",Arsenal,Newcastle United
 29114,False,89,244,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-04-27 19:00:00,,Manchester United,Brentford
 29124,False,245,92,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-01 19:00:00,,Leeds,Burnley
 29121,False,244,81,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-02 14:00:00,,Brentford,West Ham
