@@ -1,4 +1,6 @@
 fpl_id,understat_id,h_fpl,a_fpl,h_understat,a_understat
+363,29138,Bournemouth,Man City,Bournemouth,Manchester City
+365,29142,Chelsea,Spurs,Chelsea,Tottenham
 307,29084,Man City,Crystal Palace,Manchester City,Crystal Palace
 1,28778,Liverpool,Bournemouth,Liverpool,Bournemouth
 2,28779,Aston Villa,Newcastle,Aston Villa,Newcastle United
@@ -361,9 +363,7 @@ fpl_id,understat_id,h_fpl,a_fpl,h_understat,a_understat
 359,29136,Spurs,Leeds,Tottenham,Leeds
 361,29139,Arsenal,Burnley,Arsenal,Burnley
 362,29140,Aston Villa,Liverpool,Aston Villa,Liverpool
-363,29138,Bournemouth,Man City,Bournemouth,Manchester City
 364,29141,Brentford,Crystal Palace,Brentford,Crystal Palace
-365,29142,Chelsea,Spurs,Chelsea,Tottenham
 366,29143,Everton,Sunderland,Everton,Sunderland
 367,29144,Leeds,Brighton,Leeds,Brighton
 368,29145,Man Utd,Nott'm Forest,Manchester United,Nottingham Forest
