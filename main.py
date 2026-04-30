@@ -2,7 +2,7 @@ import argparse
 import os
 from datetime import datetime
 
-import requests
+import httpx
 
 from src.clubelo.update import update_clubelo
 from src.footballdata.update import update_footballdata
@@ -54,15 +54,18 @@ def update():
         event_status,
     )
     update_understat(current_season, bootstrap_static)
-    update_theoddsapi(
-        theoddsapi_api_key, current_season, next_gameweek, bootstrap_static
-    )
-    update_footballdata(current_season, bootstrap_static)
+
+    if next_gameweek is not None:
+        update_theoddsapi(
+            theoddsapi_api_key, current_season, next_gameweek, bootstrap_static
+        )
 
     try:
         update_clubelo(bootstrap_static)
-    except requests.exceptions.ConnectionError:
+    except httpx.RequestError:
         print("Failed to update Club Elo data due to connection error.")
+
+    update_footballdata(current_season, bootstrap_static)
 
 
 def get_current_season(static_events: list[dict]) -> int:

@@ -3,6 +3,7 @@ import difflib
 import json
 import lzma
 from pathlib import Path
+from typing import Any
 
 DATA_DIR = Path("data")
 
@@ -42,23 +43,23 @@ def append_csv(rows: list[tuple], path: Path):
             writer.writerow(row)
 
 
-def read_compressed_json(path: Path) -> list[dict]:
+def read_compressed_json(path: Path) -> Any:
     """Read a compressed JSON file."""
     with lzma.open(path, "rt", encoding="utf-8") as f:
         data = json.load(f)
     return data
 
 
-def write_compressed_json(rows: list[dict], path: Path):
+def write_compressed_json(data: Any, path: Path):
     """Write a list of dictionaries to a compressed JSON file."""
-    if not rows:
+    if not data:
         return
 
     if not path.parent.exists():
         path.parent.mkdir(parents=True)
 
     with lzma.open(path, "wt", encoding="utf-8") as f:
-        json.dump(rows, f, ensure_ascii=False, indent=4)
+        json.dump(data, f, ensure_ascii=False, indent=4)
 
 
 def map_closest_names(a: dict, b: dict):

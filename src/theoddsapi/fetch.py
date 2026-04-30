@@ -1,4 +1,4 @@
-import requests
+import httpx
 
 BASE_URL = "https://api.the-odds-api.com"
 
@@ -12,6 +12,6 @@ def fetch_odds(api_key: str):
         "dateFormat": "iso",
         "oddsFormat": "decimal",
     }
-    response = requests.get(f"{BASE_URL}/v4/sports/soccer_epl/odds", params=params)
+    response = httpx.get(f"{BASE_URL}/v4/sports/soccer_epl/odds", params=params)
     response.raise_for_status()
     return response.json()

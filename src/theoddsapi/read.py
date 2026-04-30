@@ -6,6 +6,6 @@ def read_odds(season: int, gameweek: int) -> dict:
     return read_compressed_json(path)
 
 
-def read_team_ids() -> dict:
+def read_team_ids() -> list[dict]:
     path = DATA_DIR / "theoddsapi/team_ids.csv"
     return read_csv(path)
