@@ -338,7 +338,7 @@ id,isResult,h,a,goals,xG,datetime,forecast,h_title,a_title
 29117,True,229,82,"{'h': '0', 'a': '1'}","{'h': '0.762656', 'a': '1.06403'}",2026-04-25 14:00:00,"{'w': '0.2136', 'd': '0.3485', 'l': '0.4379'}",Wolverhampton Wanderers,Tottenham
 29109,True,83,86,"{'h': '1', 'a': '0'}","{'h': '0.639189', 'a': '0.868897'}",2026-04-25 16:30:00,"{'w': '0.2295', 'd': '0.3637', 'l': '0.4068'}",Arsenal,Newcastle United
 29114,True,89,244,"{'h': '2', 'a': '1'}","{'h': '1.84852', 'a': '1.30383'}",2026-04-27 19:00:00,"{'w': '0.5285', 'd': '0.2585', 'l': '0.213'}",Manchester United,Brentford
-29124,False,245,92,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-01 19:00:00,,Leeds,Burnley
+29124,True,245,92,"{'h': '3', 'a': '1'}","{'h': '2.09546', 'a': '0.434597'}",2026-05-01 19:00:00,"{'w': '0.8238', 'd': '0.1368', 'l': '0.0394'}",Leeds,Burnley
 29121,False,244,81,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-02 14:00:00,,Brentford,West Ham
 29126,False,86,220,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-02 14:00:00,,Newcastle United,Brighton
 29127,False,229,77,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-02 14:00:00,,Wolverhampton Wanderers,Sunderland
