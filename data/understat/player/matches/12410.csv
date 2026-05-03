@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,22,Sub,Arsenal,Fulham,3,0,2026-05-02,29119,2025,787335,0,0,0,0,0,0,0
 0,0,0,13,Sub,Fulham,Aston Villa,1,0,2026-04-25,29112,2025,785174,0.12681695818901062,0,1,0,0,0.12681695818901062,0.12681695818901062
 0,0,0,21,Sub,Brentford,Fulham,0,0,2026-04-18,29099,2025,783058,0,0,0,0,0,0,0
 0,0,0,48,AMC,Liverpool,Fulham,2,0,2026-04-11,29097,2025,781796,0,0,0,0,0,0.09466823190450668,0.09466823190450668

@@ -1,3 +1,4 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Wolverhampton Wanderers,Sunderland,1,1,2026-05-02,29127,2025,787199,0,0,0,0,0,0,0
 0,1,0.0551408976316452,4,Sub,West Ham,Wolverhampton Wanderers,4,0,2026-04-10,29091,2025,781271,0,0,0,0,0.0551408976316452,0.0551408976316452,0
 1,1,0.08282003551721573,1,Sub,Wolverhampton Wanderers,Arsenal,2,2,2026-02-18,29087,2025,771233,0,0,0,1,0.08282003551721573,0.08282003551721573,0
