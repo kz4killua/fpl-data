@@ -343,9 +343,9 @@ id,isResult,h,a,goals,xG,datetime,forecast,h_title,a_title
 29126,True,86,220,"{'h': '3', 'a': '1'}","{'h': '3.12933', 'a': '1.87112'}",2026-05-02 14:00:00,"{'w': '0.6723', 'd': '0.171', 'l': '0.1567'}",Newcastle United,Brighton
 29127,True,229,77,"{'h': '1', 'a': '1'}","{'h': '1.96131', 'a': '0.923954'}",2026-05-02 14:00:00,"{'w': '0.64', 'd': '0.2208', 'l': '0.1392'}",Wolverhampton Wanderers,Sunderland
 29119,True,83,228,"{'h': '3', 'a': '0'}","{'h': '4.09079', 'a': '0.696714'}",2026-05-02 16:30:00,"{'w': '0.9613', 'd': '0.0311', 'l': '0.0076'}",Arsenal,Fulham
-29118,False,73,78,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-03 13:00:00,,Bournemouth,Crystal Palace
-29125,False,89,87,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-03 14:30:00,,Manchester United,Liverpool
-29120,False,71,82,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-03 18:00:00,,Aston Villa,Tottenham
+29118,True,73,78,"{'h': '3', 'a': '0'}","{'h': '2.29626', 'a': '0.678329'}",2026-05-03 13:00:00,"{'w': '0.7987', 'd': '0.1448', 'l': '0.0565'}",Bournemouth,Crystal Palace
+29125,True,89,87,"{'h': '3', 'a': '2'}","{'h': '2.55612', 'a': '1.02814'}",2026-05-03 14:30:00,"{'w': '0.7491', 'd': '0.1546', 'l': '0.0963'}",Manchester United,Liverpool
+29120,True,71,82,"{'h': '1', 'a': '2'}","{'h': '0.609494', 'a': '1.12225'}",2026-05-03 18:00:00,"{'w': '0.1665', 'd': '0.3396', 'l': '0.4939'}",Aston Villa,Tottenham
 29122,False,80,249,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-04 14:00:00,,Chelsea,Nottingham Forest
 29123,False,72,88,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-04 19:00:00,,Everton,Manchester City
 29132,False,87,80,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-09 11:30:00,,Liverpool,Chelsea
