@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,10,Sub,Sunderland,Manchester United,0,0,2026-05-09,29135,2025,788846,0.0174403116106987,0,1,0,0,0.0174403116106987,0
 0,0,0,90,AMR,Leeds,Sunderland,0,1,2026-03-03,29063,2025,774592,0,0,0,0,0,0,0
 0,0,0,12,Sub,Bournemouth,Sunderland,1,1,2026-02-28,29048,2025,773029,0,0,0,0,0,0,0
 0,1,0.32610023021698,77,ML,Sunderland,Fulham,1,3,2026-02-22,29045,2025,772160,0,0,0,0,0.32610023021698,0.32610023021698,0

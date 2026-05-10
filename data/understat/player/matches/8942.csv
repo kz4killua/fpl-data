@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.01513439416885376,63,MC,Manchester City,Brentford,3,0,2026-05-09,29133,2025,788946,0,0,0,0,0.01513439416885376,0.07067766785621643,0.07067766785621643
 0,0,0,1,Sub,Brentford,West Ham,3,0,2026-05-02,29121,2025,787138,0,0,0,0,0,0,0
 0,0,0,44,DR,Brentford,Brighton,0,2,2026-02-21,29039,2025,771595,0,0,0,0,0,0.027510395273566246,0.027510395273566246
 0,0,0,1,Sub,Brentford,Arsenal,1,1,2026-02-12,29029,2025,769982,0,0,0,0,0,0,0

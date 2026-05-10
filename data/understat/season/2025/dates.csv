@@ -348,11 +348,11 @@ id,isResult,h,a,goals,xG,datetime,forecast,h_title,a_title
 29120,True,71,82,"{'h': '1', 'a': '2'}","{'h': '0.609494', 'a': '1.12225'}",2026-05-03 18:00:00,"{'w': '0.1665', 'd': '0.3396', 'l': '0.4939'}",Aston Villa,Tottenham
 29122,True,80,249,"{'h': '1', 'a': '3'}","{'h': '2.17132', 'a': '2.31019'}",2026-05-04 14:00:00,"{'w': '0.3108', 'd': '0.2818', 'l': '0.4074'}",Chelsea,Nottingham Forest
 29123,True,72,88,"{'h': '3', 'a': '3'}","{'h': '1.68558', 'a': '1.41706'}",2026-05-04 19:00:00,"{'w': '0.4424', 'd': '0.2639', 'l': '0.2937'}",Everton,Manchester City
-29132,False,87,80,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-09 11:30:00,,Liverpool,Chelsea
-29128,False,220,229,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-09 14:00:00,,Brighton,Wolverhampton Wanderers
-29131,False,228,73,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-09 14:00:00,,Fulham,Bournemouth
-29135,False,77,89,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-09 14:00:00,,Sunderland,Manchester United
-29133,False,88,244,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-09 16:30:00,,Manchester City,Brentford
+29132,True,87,80,"{'h': '1', 'a': '1'}","{'h': '0.623191', 'a': '0.597184'}",2026-05-09 11:30:00,"{'w': '0.2937', 'd': '0.4218', 'l': '0.2845'}",Liverpool,Chelsea
+29128,True,220,229,"{'h': '3', 'a': '0'}","{'h': '2.22427', 'a': '0.515647'}",2026-05-09 14:00:00,"{'w': '0.8144', 'd': '0.1409', 'l': '0.0447'}",Brighton,Wolverhampton Wanderers
+29131,True,228,73,"{'h': '0', 'a': '1'}","{'h': '1.24334', 'a': '0.998003'}",2026-05-09 14:00:00,"{'w': '0.4114', 'd': '0.3148', 'l': '0.2738'}",Fulham,Bournemouth
+29135,True,77,89,"{'h': '0', 'a': '0'}","{'h': '1.2376', 'a': '0.535981'}",2026-05-09 14:00:00,"{'w': '0.5615', 'd': '0.2908', 'l': '0.1477'}",Sunderland,Manchester United
+29133,True,88,244,"{'h': '3', 'a': '0'}","{'h': '4.37429', 'a': '0.670038'}",2026-05-09 16:30:00,"{'w': '0.9871', 'd': '0.0121', 'l': '0.0008'}",Manchester City,Brentford
 29129,False,92,71,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-10 13:00:00,,Burnley,Aston Villa
 29130,False,78,72,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-10 13:00:00,,Crystal Palace,Everton
 29134,False,249,86,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-10 13:00:00,,Nottingham Forest,Newcastle United

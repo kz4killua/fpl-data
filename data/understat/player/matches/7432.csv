@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DL,Sunderland,Manchester United,0,0,2026-05-09,29135,2025,788839,0,0,0,0,0,0.1545850932598114,0.1545850932598114
 0,0,0,76,DL,Wolverhampton Wanderers,Sunderland,1,1,2026-05-02,29127,2025,787205,0.025477182120084763,0,1,0,0,0.025477182120084763,0
 0,0,0,41,Sub,Sunderland,Nottingham Forest,0,5,2026-04-24,29115,2025,785081,0,0,0,0,0,0.08025412261486053,0.08025412261486053
 0,0,0,65,DL,Aston Villa,Sunderland,4,3,2026-04-19,29098,2025,783695,0.02014542743563652,0,1,0,0,0.02014542743563652,0

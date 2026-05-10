@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Fulham,Bournemouth,0,1,2026-05-09,29131,2025,788819,0,0,0,0,0,0.09390193223953247,0.09390193223953247
 0,0,0,90,GK,Bournemouth,Crystal Palace,3,0,2026-05-03,29118,2025,787590,0,0,0,0,0,0,0
 0,0,0,90,GK,Bournemouth,Leeds,2,2,2026-04-22,29108,2025,784700,0,0,0,0,0,0,0
 0,0,0,90,GK,Newcastle United,Bournemouth,1,2,2026-04-18,29105,2025,783318,0,0,0,0,0,0.175818532705307,0.175818532705307
