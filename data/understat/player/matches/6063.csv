@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,63,AMR,Nottingham Forest,Newcastle United,1,1,2026-05-10,29134,2025,789380,0,0,0,0,0,0.10891258716583252,0.10891258716583252
 0,0,0,72,AMR,Newcastle United,Brighton,3,1,2026-05-02,29126,2025,787163,0.5265977382659912,1,3,0,0,0.6737897992134094,0.14719204604625702
 0,0,0,69,MR,Arsenal,Newcastle United,1,0,2026-04-25,29109,2025,785709,0,0,0,0,0,0,0
 0,1,0.0703948363661766,26,Sub,Newcastle United,Bournemouth,1,2,2026-04-18,29105,2025,783317,0,0,0,0,0.0703948363661766,0,0

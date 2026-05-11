@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,85,DML,Nottingham Forest,Newcastle United,1,1,2026-05-10,29134,2025,789362,0.09805777668952942,0,2,0,0,0.12293492257595062,0.106557697057724
 0,0,0,90,DL,Chelsea,Nottingham Forest,1,3,2026-05-04,29122,2025,788290,0,0,0,0,0,1.0346437692642212,1.0346437692642212
 0,0,0,20,Sub,Sunderland,Nottingham Forest,0,5,2026-04-24,29115,2025,785094,0,0,0,0,0,0.4415775239467621,0.4415775239467621
 0,0,0,32,Sub,Brighton,Nottingham Forest,2,1,2026-03-01,29050,2025,773827,0,0,0,0,0,0.12018170952796936,0.12018170952796936

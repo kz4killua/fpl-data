@@ -353,10 +353,10 @@ id,isResult,h,a,goals,xG,datetime,forecast,h_title,a_title
 29131,True,228,73,"{'h': '0', 'a': '1'}","{'h': '1.24334', 'a': '0.998003'}",2026-05-09 14:00:00,"{'w': '0.4114', 'd': '0.3148', 'l': '0.2738'}",Fulham,Bournemouth
 29135,True,77,89,"{'h': '0', 'a': '0'}","{'h': '1.2376', 'a': '0.535981'}",2026-05-09 14:00:00,"{'w': '0.5615', 'd': '0.2908', 'l': '0.1477'}",Sunderland,Manchester United
 29133,True,88,244,"{'h': '3', 'a': '0'}","{'h': '4.37429', 'a': '0.670038'}",2026-05-09 16:30:00,"{'w': '0.9871', 'd': '0.0121', 'l': '0.0008'}",Manchester City,Brentford
-29129,False,92,71,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-10 13:00:00,,Burnley,Aston Villa
-29130,False,78,72,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-10 13:00:00,,Crystal Palace,Everton
-29134,False,249,86,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-10 13:00:00,,Nottingham Forest,Newcastle United
-29137,False,81,83,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-10 15:30:00,,West Ham,Arsenal
+29129,True,92,71,"{'h': '2', 'a': '2'}","{'h': '1.71234', 'a': '1.75493'}",2026-05-10 13:00:00,"{'w': '0.3632', 'd': '0.2585', 'l': '0.3783'}",Burnley,Aston Villa
+29130,True,78,72,"{'h': '2', 'a': '2'}","{'h': '3.28826', 'a': '2.10265'}",2026-05-10 13:00:00,"{'w': '0.6403', 'd': '0.1732', 'l': '0.1865'}",Crystal Palace,Everton
+29134,True,249,86,"{'h': '1', 'a': '1'}","{'h': '1.46434', 'a': '1.65067'}",2026-05-10 13:00:00,"{'w': '0.3112', 'd': '0.2674', 'l': '0.4214'}",Nottingham Forest,Newcastle United
+29137,True,81,83,"{'h': '0', 'a': '1'}","{'h': '1.32011', 'a': '1.42953'}",2026-05-10 15:30:00,"{'w': '0.3272', 'd': '0.2963', 'l': '0.3765'}",West Ham,Arsenal
 29136,False,82,245,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-11 19:00:00,,Tottenham,Leeds
 29138,False,73,88,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-17 14:00:00,,Bournemouth,Manchester City
 29139,False,83,92,"{'h': None, 'a': None}","{'h': None, 'a': None}",2026-05-17 14:00:00,,Arsenal,Burnley
