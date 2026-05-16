@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,2,0.05579136684536934,69,DR,Aston Villa,Liverpool,4,2,2026-05-15,29140,2025,790641,0,0,0,0,0.05579136684536934,0.13167545199394226,0.07588408887386322
 0,0,0,12,Sub,Liverpool,Chelsea,1,1,2026-05-09,29132,2025,788569,0,0,0,0,0,0,0
 0,0,0,1,Sub,Liverpool,Crystal Palace,3,1,2026-04-25,29113,2025,785519,0,0,0,0,0,0.30116304755210876,0.30116304755210876
 0,0,0,19,Sub,Liverpool,Fulham,2,0,2026-04-11,29097,2025,781786,0,0,0,0,0,0,0

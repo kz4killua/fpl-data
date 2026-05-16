@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Aston Villa,Liverpool,4,2,2026-05-15,29140,2025,790640,0,0,0,0,0,0,0
 0,0,0,90,GK,Liverpool,Chelsea,1,1,2026-05-09,29132,2025,788556,0,0,0,0,0,0,0
 0,0,0,60,GK,Everton,Liverpool,1,2,2026-04-19,29102,2025,783720,0,0,0,0,0,0,0
 0,0,0,90,GK,Liverpool,Fulham,2,0,2026-04-11,29097,2025,781772,0,0,0,0,0,0.38174816966056824,0.38174816966056824
