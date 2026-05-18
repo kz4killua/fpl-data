@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Leeds,Brighton,1,0,2026-05-17,29144,2025,791237,0,0,0,0,0,0,0
 0,0,0,90,GK,Brighton,Wolverhampton Wanderers,3,0,2026-05-09,29128,2025,788771,0,0,0,0,0,0,0
 0,0,0,90,GK,Newcastle United,Brighton,3,1,2026-05-02,29126,2025,787171,0,0,0,0,0,0.3043069839477539,0.3043069839477539
 0,0,0,90,GK,Brighton,Chelsea,3,0,2026-04-21,29110,2025,784385,0,0,0,0,0,0.7417798042297363,0.7417798042297363

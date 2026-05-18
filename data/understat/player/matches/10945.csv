@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,DC,Wolverhampton Wanderers,Fulham,1,1,2026-05-17,29147,2025,791193,0,0,0,0,0,0.0808931291103363,0.0808931291103363
 0,0,0,90,DC,Brighton,Wolverhampton Wanderers,3,0,2026-05-09,29128,2025,788790,0,0,0,0,0,0,0
 1,2,0.3291458487510681,90,DC,Wolverhampton Wanderers,Sunderland,1,1,2026-05-02,29127,2025,787190,0.5358042120933533,0,2,1,0.3291458487510681,0,0
 0,1,0.052953559905290604,90,DC,Wolverhampton Wanderers,Tottenham,0,1,2026-04-25,29117,2025,785565,0,0,0,0,0.052953559905290604,0.3899046778678894,0.3899046778678894

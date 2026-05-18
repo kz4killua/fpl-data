@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,1,Sub,Leeds,Brighton,1,0,2026-05-17,29144,2025,791252,0,0,0,0,0,0,0
 0,0,0,1,Sub,Brighton,Wolverhampton Wanderers,3,0,2026-05-09,29128,2025,788786,0,0,0,0,0,0,0
 0,0,0,2,Sub,Brighton,Nottingham Forest,2,1,2026-03-01,29050,2025,773813,0,0,0,0,0,0,0
 0,1,0.012269926257431507,63,AMR,Brighton,West Ham,3,2,2025-04-26,26934,2024,722686,0,0,0,0,0.012269926257431507,0.0734635442495346,0.0734635442495346

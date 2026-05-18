@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,1,0.05453015863895416,83,AML,Wolverhampton Wanderers,Fulham,1,1,2026-05-17,29147,2025,791199,0.4351067543029785,1,3,0,0.05453015863895416,0.4351067543029785,0
 0,1,0.07629133760929108,90,FW,Brighton,Wolverhampton Wanderers,3,0,2026-05-09,29128,2025,788797,0,0,0,0,0.07629133760929108,0,0
 0,0,0,1,Sub,Wolverhampton Wanderers,Tottenham,0,1,2026-04-25,29117,2025,785575,0,0,0,0,0,0,0
 0,0,0,12,Sub,Leeds,Wolverhampton Wanderers,3,0,2026-04-18,29103,2025,783301,0,0,0,0,0,0,0

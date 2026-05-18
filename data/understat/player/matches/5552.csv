@@ -1,4 +1,5 @@
 goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup
+0,0,0,90,GK,Newcastle United,West Ham,3,1,2026-05-17,29146,2025,791583,0,0,0,0,0,0.4609193503856659,0.4609193503856659
 0,0,0,90,GK,Nottingham Forest,Newcastle United,1,1,2026-05-10,29134,2025,789373,0,0,0,0,0,0.33173897862434387,0.33173897862434387
 0,0,0,90,GK,Newcastle United,Brighton,3,1,2026-05-02,29126,2025,787156,0,0,0,0,0,0.7951607704162598,0.7951607704162598
 0,0,0,90,GK,Arsenal,Newcastle United,1,0,2026-04-25,29109,2025,785703,0,0,0,0,0,0.06419579684734344,0.06419579684734344
